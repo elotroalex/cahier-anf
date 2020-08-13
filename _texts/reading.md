@@ -1,16 +1,14 @@
 ---
 layout: poem
-title: "reading edition: Cahier d'un retour au pays natal"
+title: "reading edition"
 description: "An interpretation of the final stage of the Cahier typescript." 
 author: Aimé Césaire
 editor: Alex Gil and Kora Verón
 ---
 
+---
+
 - {:.centered} AIMÉ CÉSAIRE.
-
-<hr>
-
-<br>
 
 - {:.centered} CAHIER D'UN RETOUR AU PAYS NATAL
 - {:.centered} ( 1939 ) 
