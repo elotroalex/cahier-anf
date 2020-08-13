@@ -2,7 +2,7 @@
 
 # Setup
 title:               Cahier d'un retour au pays natal
-tagline:             "by Aimé Césaire."
+tagline:             "the 1939 typescript by Aimé Césaire."
 description:         "Edition, translation and exhibit of the 1939 typescript of Aimé Cesaire's \"Cahier d'un retour au pays natal\" housed at the Assemblée Nationale."
 url:                 'http://cesaire.elotroalex.com'
 baseurl:             '/cahier'
