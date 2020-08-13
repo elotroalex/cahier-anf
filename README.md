@@ -1,7 +1,7 @@
-# ...Et les chiens se taisaient
+# Cahier d'un retour au pays natal (1939 typescript)
 
 
-A repository, exhibit and edition of Aimé Césaire's typescript "..... Et les chiens se taisaient."
+A repository, exhibit and edition of Aimé Césaire's typescript "Cahier d'un retour au pays natal."
 
-This is also a prototype that combines Wax and Ed.
+This project is built with Wax and Ed.
 
