@@ -16,7 +16,7 @@ task :prod do
 # personal server setup
   user = 'agil'
   server = 'elotroalex.com'
-  path = '/home/agil/cesaire.elotroalex.com/chiens/' 
+  path = '/home/agil/dev.elotroalex.com/cahier/' 
   sh "rsync -r -e \"ssh -p22\" --exclude 'img' _site/. #{user}@#{server}:#{path}"
   puts "\n"
   puts 'Bam! Your website is now published!'
