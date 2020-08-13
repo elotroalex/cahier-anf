@@ -1,0 +1,4 @@
+pid,label,act,p1,p2,p3,p4,p5,p6,p7,p8,p9,paper,carbon,residue,tone,blue_ink,dark_ink,red_ink,dark_pencil,light_pencil,red_pencil,manifest,thumbnail,full
+c001,Title Page,null,null,null,null,null,null,null,null,null,39,A,blue,dirty,medium,null,null,null,null,null,null,/img/derivatives/iiif/c001/manifest.json,"/img/derivatives/iiif/images/c001/full/250,/0/default.jpg","/img/derivatives/iiif/images/c001/full/1140,/0/default.jpg"
+c002,Page 1,I,null,null,null,null,null,1,null,null,40,A,black,medium,dark,x,null,null,null,x,null,/img/derivatives/iiif/c002/manifest.json,"/img/derivatives/iiif/images/c002/full/250,/0/default.jpg","/img/derivatives/iiif/images/c002/full/1140,/0/default.jpg"
+c003,Page 2,I,null,3,null,null,null,2,null,null,41,B,blue,clean,medium,x,null,null,null,x,null,/img/derivatives/iiif/c003/manifest.json,"/img/derivatives/iiif/images/c003/full/250,/0/default.jpg","/img/derivatives/iiif/images/c003/full/1140,/0/default.jpg"

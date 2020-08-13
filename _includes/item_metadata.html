@@ -1,0 +1,38 @@
+<dl class='metadata-block'>
+
+    {% if page.special %}
+      <dt>Special</dt>
+      <dd>{{ page.special }}
+      </dd>
+    {% else %}
+      <dt>Paper</dt>
+      <dd>{{ page.label }} is written on <em>{{ page.paper }}</em> paper. {% if page.paper == 'atemoya' %}<em>Atemoya</em> is the most common type of paper found on the document. The paper is thin, of a yellowing white hue. Leaves are 21.6cm by 28cm on average.{% elsif page.paper == 'atemoya+' %} <em>Atemoya</em> is the most common type of paper found on the document. The paper is thin, of a yellowing white hue. Leaves are 21.6cm by 28cm on average. <em>Atemoya+</em> is of the same material as <em>atemoya,</em> except the pages are a few milimeters larger lengthwise.{% elsif page.paper == 'batata' %}The paper is thin and pink. Leaves are 21.6cm by 27.8cm on average. <em>Batata</em> paper belongs to a self-contained segment in Act 1, found towards the beginning of the play as it stands now.{% endif %}</dd>
+
+      <dt>Features</dt>
+      <dd>
+      {% assign ink = page.blue_ink, page.dark_ink, page.red_ink, page.dark_pencil, page.light_pencil, page.red_pencil | split: ", " %}
+      {% assign n = 0 %}
+
+      {% capture instruments %}{% for i in ink %}{% if page.blue_ink == "x" %}{% assign n = n | plus: 1 %}blue ink|{% endif %}{% if page.dark_ink == "x" %}{% assign n = n | plus: 1 %}dark ink|{% endif %}{% if page.red_ink == "x" %}{% assign n = n | plus: 1 %}red ink|{% endif %}{% if page.dark_pencil == "x" %}{% assign n = n | plus: 1 %}dark pencil|{% endif %}{% if page.light_pencil == "x" %}{% assign n = n | plus: 1 %}light pencil|{% endif %}{% if page.red_pencil == "x" %}{% assign n = n | plus: 1 %}red pencil|{% endif %}{% endfor %}{% endcapture %}
+
+      {% if n == 0 %}The page has no handwritten edits{% else %}The page was edited with {{ instruments | split: "|" | array_to_sentence_string  }}{% endif %}. Impressions on the page are of a {{ page.tone }} tone{% if page.carbon == "orig" %} on an original, top sheet.{% else %}, and were produced by {{ page.carbon }} carbon paper.{% endif %} The paper {% if page.residue == "clean" or page.residue == "clean+" %}is relatively clean of residue.{% elsif page.residue == "dirty" %}has large amounts of carbon residue.{% else %}has a moderate amount of carbon residue on it.{% endif %}{% if page.note %} {{ page.note }}{% endif %}</dd>
+
+      <dt>Alternative Pagination</dt>
+      <dd>
+        {% if page.p1 %}<code class="highlighter-rouge">P1.{{page.p1}}</code>&nbsp;&nbsp;{% endif %}
+        {% if page.p2 %}<code class="highlighter-rouge">P2.{{page.p2}}</code>&nbsp;&nbsp;{% endif %}
+        {% if page.p3 %}<code class="highlighter-rouge">P3.{{page.p3}}</code>&nbsp;&nbsp;{% endif %}
+        {% if page.p4 %}<code class="highlighter-rouge">P4.{{page.p4}}</code>&nbsp;&nbsp;{% endif %}
+        {% if page.p5 %}<code class="highlighter-rouge">P5.{{page.p5}}</code>&nbsp;&nbsp;{% endif %}
+        {% if page.p6 %}<code class="highlighter-rouge">P6.{{page.p6}}</code>&nbsp;&nbsp;{% endif %}
+        {% if page.p7 %}<code class="highlighter-rouge">P7.{{page.p7}}</code>&nbsp;&nbsp;{% endif %}
+        {% if page.p8 %}<code class="highlighter-rouge">P8.{{page.p8}}</code>&nbsp;&nbsp;{% endif %}
+        {% if page.p9 %}<code class="highlighter-rouge">P9.{{page.p9}}</code>&nbsp;&nbsp;{% endif %}   
+      </dd>
+    {% endif %}
+
+    <dt>Downloads</dt>
+    <dd>
+      <a href="{{ site.baseurl }}/img/derivatives/iiif/images/{{ page.pid }}/full/1140,/0/default.jpg">high-res JPG</a> (~15MB)
+    </dd>
+</dl>

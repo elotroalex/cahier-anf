@@ -1,0 +1,83 @@
+# Built with Jekyll 3.2.0
+
+# Setup
+title:               Cahier d'un retour au pays natal
+tagline:             "by Aimé Césaire."
+description:         "Edition, translation and exhibit of the 1939 typescript of Aimé Cesaire's \"Cahier d'un retour au pays natal\" housed at the Assemblée Nationale."
+url:                 'http://cesaire.elotroalex.com'
+baseurl:             '/chiens'
+
+# About/contact
+author:
+  name:              Alex Gil
+  url:               https://twitter.com/elotroalex
+  email:             colibri.alex@gmail.com
+
+# Permalinks
+
+# Color scheme. Options: red, orange, magenta, cyan, blue, brown
+color-scheme: 
+
+permalink: pretty
+permalink: /:title/
+
+# Dev exclude
+exclude: [img,images,downloads,_chiens,.sass-cache,chiens.txt,appender.py,ed..gemspec,snippets,Gemfile*,Rakefile.rb,vendor,spec,README.md,wax_theme,package.json]
+
+# Prod exclude
+# exclude: [.sass-cache,chiens.txt,appender.py,ed..gemspec,snippets,Gemfile*,Rakefile.rb,vendor,spec,README.md,wax_theme,package.json]
+
+webrick:
+  headers:
+    'Access-Control-Allow-Origin': '*'
+
+# Set encoding to UTF-8
+encoding: utf-8
+
+# Collections for texts
+collections:
+  fragiles:
+    output: true
+  texts:
+    output: true
+  chiens: # name of collection
+    output: true # makes sure pages are output as html files
+    # layout: 'item' # the layout for the pages to use
+    metadata:
+      source: 'chiens.csv' # path to the metadata file within `_data`
+    images:
+      source: 'raw_images/chiens' # path to the directory of images within `_data`
+
+
+# Markdown specs
+markdown: kramdown
+
+kramdown:
+  auto_ids:       true
+  footnote_nr:    1
+  entity_output:  as_char
+  footnote_backlink: "&#x21a9;&#xfe0e;"
+  toc_levels:     1..6
+  smart_quotes:   lsquo,rsquo,ldquo,rdquo
+  enable_coderay: false
+
+
+# Theme
+theme: "ed."
+
+# Exclude
+
+exclude: ["tex"]
+
+search:
+  main:
+    index: '/search/index.json' # file the index will get written to
+    collections:
+      chiens:
+        content: true # whether or not to index page content
+        fields: # the metadata fields to index
+          - content
+
+
+
+

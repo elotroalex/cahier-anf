@@ -1,0 +1,6 @@
+<Files MYFILE.html>
+AuthType Basic
+AuthName "Authentication Required"
+AuthUserFile /srv/users/SYSUSER/apps/APPNAME/public/.htpasswd
+Require valid-user
+</Files>

@@ -1,0 +1,52 @@
+## THIS MATCHES LINKS
+
+(\[ \d+ \]).+/P(\d+).+}
+$1(/chiens/c$2.html)
+
+## THIS MATCHES FOOTNOTES
+
+\[\^([a-z]+[0-9]+)]([^:])
+
+\[\^([a-z]+[0-9]+)](:)
+
+## Comments
+
+<!--([\s\S])*?-->
+
+## Extra empty lines
+
+^\s*$
+
+## Test
+
+htmlproofer ./_site --only-4xx --check-favicon --check-html --external_only
+
+## Removing large files from git cache
+
+git filter-branch -f --index-filter 'git rm --cached --ignore-unmatch pi/data/node-login.0'
+
+# TO TEX
+
+# Replace indented lines
+
+- {:\.i2} ([\s1-9a-zA-Z\.\,\;\-].*)$
+
+\\hspace{1cm}
+\\begin{center}$1\\end{center}
+\\indent $1 \\\\
+
+# To add vertical space
+
+\\vspace{5mm}
+
+
+
+
+# Replace links
+
+(?:__|[*#])|\[(.*?)\]\((.*?)\)
+
+\href{$2}{$1}
+
+
+

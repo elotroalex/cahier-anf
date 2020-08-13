@@ -1,0 +1,66 @@
+---
+sitemap: false
+---
+
+/*
+* Common Variables
+*
+* Feel free to change!
+*
+*/
+
+/* FONTS */
+
+$main-font: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+$heading-font: sans-serif;
+$regular-font-size: 20px;
+
+/* 
+* COLOR.
+* 
+* Make sure to leave color-scheme in config file empty for granular control
+* 
+*/
+
+$text-color: #454545;
+$heading-color: #404040;
+$link-color: #841212;
+
+/* branding */
+$logo: url("{{ '/assets/logo.png' | absolute_url }}");
+
+/* text */
+
+// $ text font size
+
+/* colors */
+
+$bg-color:        #ffffff;
+$neutral:         #eae7de;
+$accent-light:    #841212;
+$accent-dark:     #841212;
+
+/* viewport sizes */
+
+$max-width:       800px;
+
+/* margins */
+
+$less-margin:     1.0rem;
+$margin:          1.5rem;
+$more-margin:     2.0rem;
+$super-margin:    3.0rem;
+
+
+$viewer-height:   550px;
+$parallax-height: 350px;
+$footer-height:   250px;
+
+
+@import "ed";
+@import "syntax";
+
+
+
+
+
