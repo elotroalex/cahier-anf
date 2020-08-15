@@ -40,51 +40,71 @@ This reading edition corrects, normalizes and modernizes accents, punctuation an
 
 - {:.pr.i} Dans cette ville inerte, cette foule désolée sous le soleil, ne participant à rien de ce qui s'exprime, s'affirme, se libère au grand jour de cette terre sienne. Ni à l'impératrice Joséphine des Français rêvant très haut au-dessus de la négraille. Ni au libérateur figé dans sa libération de pierre blanchie. Ni au conquistador. Ni à ce mépris, ni à cette liberté, ni à cette audace.
 
-- {:.pr.i} Au bout du petit matin, cette ville inerte et ses au-delà d'éléphantiasis, de lèpres, de consomption, de famines, de peurs tapies dans les ravins, de peurs juchées dans les arbres, de peurs creusées dans le sol, de peurs en dérive dans le ciel, de peurs amoncelées et ses fumerolles d'angoisse, de peurs étalées et ses respirations de rivières.
+- {:.pr.i} Au bout du petit matin, cette ville inerte et ses au-delà de lèpres, de consomption, de famines, de peurs tapies dans les ravins, de peurs juchées dans les arbres, de peurs creusées dans le sol, de peurs en dérive dans le ciel, de peurs amoncelées et ses fumerolles d'angoisse.
 
 - {:.pr.i} Au bout du petit matin, le morne oublié, oublieux de sauter.
 
-- {:.pr.i} Au bout du petit matin, le morne au sabot inquiet et docile---son sang impaludé met en déroute le soleil de ses  pouls surchauffés.
+- {:.pr.i} Au bout du petit matin, le morne au sabot inquiet et docile---son sang impaludé met en déroute le soleil de ses pouls surchauffés.
 
 - {:.pr.i} Au bout du petit matin, l'incendie contenu du morne, comme un sanglot que l'on a bâillonné au bord de son éclatement sanguinaire, en quête d'une ignition qui se dérobe et se méconnaît.
 
 -- 4 --
 
-- {:.pr} Au bout du petit matin, le morne accroupi devant la boulimie aux aguets de foudres et de moulins, lentement vomissant ses fatigues d'hommes, le morne seul et son sang répandu, le morne et ses pansements d'ombre, le morne et ses rigoles de peur, le morne et ses grandes mains de vent.
+- {:.pr.i} Au bout du petit matin, le morne accroupi devant la boulimie aux aguets de foudres et de moulins, lentement vomissant ses fatigues d'hommes, le morne seul et son sang répandu, le morne et ses pansements d'ombre, le morne et ses rigoles de peur, le morne et ses grandes mains de vent.
 
-- {:.pr} Au bout du petit matin, le morne famélique et nul ne sait mieux que ce morne bâtard pourquoi le suicidé s'est étouffé avec complicité de son hypoglosse en retournant sa langue pour l'avaler ; pourquoi une femme semble faire la planche à la rivière Capot (son corps lumineusement obscur s'organise docilement au commandement du nombril) mais elle n'est qu'un paquet d'eau sonore.
+- {:.pr.i} Au bout du petit matin, le morne famélique et nul ne sait mieux que ce morne bâtard pourquoi le suicidé s'est étouffé avec complicité de son hypoglosse en retournant sa langue pour l'avaler ; pourquoi une femme semble faire la planche à la rivière Capot (son corps lumineusement obscur s'organise docilement au commandement du nombril) mais elle n'est qu'un paquet d'eau sonore.
 
 - {:.pr} Et ni l'instituteur dans sa classe, ni le prêtre au catéchisme ne pourront tirer un mot de ce négrillon somnolent, malgré leur manière si énergique à tous deux de tambouriner son crâne tondu, car c'est dans les marais de la faim que s'est enlisée sa voix d'inanition (un mot-un-seul-mot et je-vous-en-tiens-quitte-de-la-reine-Blanche-de-Castille, un-mot-un-seul-mot, voyez-vous-ce-petit-sauvage-qui-ne-sait-pas-un- seul-des-dix-commandements-de-Dieu), 
-- car sa voix s'oublie dans les marais de la faim, 
-- et il n'y a rien, rien à tirer vraiment de ce petit vaurien, 
-- qu'une faim qui ne sait plus grimper aux agrès de sa voix, 
-- une faim lourde et veule, 
-- une faim ensevelie au plus profond de la Faim de ce morne famélique.
+- {:.i} car sa voix s'oublie dans les marais de la faim, 
+- {:.i} et il n'y a rien, rien à tirer vraiment de ce petit vaurien, 
+- {:.i} qu'une faim qui ne sait plus grimper aux agrès de 
 
-- {:.pr} Au bout du petit matin, l'échouage hétéroclite, les puanteurs exacerbées de la corruption, les sodomies monstrueuses de l'hostie et du victimaire,  les coltis infranchissables du préjugé et de la sottise, les prostitutions, les hypocrisies, les lubricités, les trahisons, les mensonges, les faux, les concussions---l'essoufflement des lâchetés insuffisantes, l'enthousiasme sans ahan aux poussis surnuméraires, les avidités, les hystéries, les perversions, les arlequinades de la misère, les estropiements, les prurits , les urticaires, les hamacs tiédis de la dégénérescence---Ici la parade des risibles et scrofuleux bubons , les poutures de microbes
-très étranges, les poisons sans alexitère connu, les sanies de plaies antiques, les fermentations imprévisibles d'espèces putrescibles.
+-- 5 --
 
-- {:.pr} Au bout du petit matin, la grande nuit immobile, les étoiles plus mortes qu'un balafong crevé,<br>Le bulbe tératique de la nuit, germé de nos bassesses et de nos renoncements…
+sa voix, 
+- {:.i} une faim lourde et veule, 
+- {:.i} une faim ensevelie au plus profond de la Faim de ce morne famélique.
 
-- {:.pr} Et nos gestes imbéciles et fous pour faire revivre l'éclaboussement d'or des instants favorisés, le cordon ombilical restitué à sa splendeur fragile, le pain, et le vin de la complicité, le pain, le vin, le sang des épousailles véridiques.
+- {:.pr.i} Au bout du petit matin, l'échouage hétéroclite, les puanteurs exacerbées de la corruption, les sodomies monstrueuses de l'hostie et du victimaire,  les coltis infranchissables du préjugé et de la sottise, les prostitutions, les hypocrisies, les lubricités, les trahisons, les mensonges, les faux, les concussions---l'essoufflement des lâchetés insuffisantes, l'enthousiasme sans ahan aux poussis surnuméraires, les avidités, les hystéries, les perversions, les arlequinades de la misère, les estropiements, les prurits , les urticaires, les hamacs tiédis de la dégénérescence---Ici la parade des risibles et scrofuleux bubons , les poutures de microbes très étranges, les poisons sans alexitère connu, les sanies de plaies antiques, les fermentations imprévisibles d'espèces putrescibles.
 
-- {:.pr} Et cette joie ancienne m'apportant la connaissance de ma présente misère,<br>une route bossuée qui pique une tête dans un creux où elle éparpille quelque cases ; une route infatigable qui charge à fond de train un morne en haut duquel elle s'enlise brutalement dans une marede maisons pataudes, une route follement montante, témérairement descendante, et la carcasse de bois comiquement juchée sur de minuscules pattes de ciment que j'appelle « notre maison », sa coiffure de tôle ondulant au soleil comme une peau qui sèche, la salle à manger, le plancher grossier où luisent de têtes de clous, les solives de sapin et d'ombre qui courent au plafond, les chaises de paille fantômales, la lumière grise de la lampe, celle vernissée et rapide des cancrelats qui bourdonne à faire
-mal…
+- {:.pr.i} Au bout du petit matin, la grande nuit immobile, les étoiles plus mortes qu'un balafong crevé,
 
-- {:.pr} Au bout du petit matin, ce plus essentiel pays restitué à ma gourmandise, non de diffuse tendresse, mais la tourmentée concentration sensuelle du gras téton des mornes avec l'accidentel palmier comme son germe durci, la jouissance saccadée des torrents  et depuis Trinité jusqu'à Grand-Rivière, la grand'lèche hystérique de la mer.
+- {:.pr.i} Le bulbe tératique de la nuit, germé de nos bassesses et de nos renoncements…
 
-- {:.pr} Et le temps passait vite, très vite.<br>Passés août où les manguiers pavoisent de toutes leurs lunules, septembre l'accoucheur de cyclones, octobre le flambeur de cannes, novembre qui ronronne aux distilleries, c'était Noël qui commençait.
+- {:.pr.i} Et nos gestes imbéciles et fous pour faire revivre l'éclaboussement d'or des instants favorisés, le  
 
-- {:.pr} Il s'était annoncé d'abord Noël par un picotement de désirs, une soif de tendresses neuves, un bourgeonnement de rêves imprécis, puis il s'était envolé tout à coup dans le froufrou violet de ses grandes ailes de joie, et alors c'était parmi le bourg sa vertigineuse retombée qui éclatait la vie des cases comme une grenade trop mûre.
+-- 6 --
 
-- {:.pr} Noël n'était comme toutes les fêtes. Il n'aimait pas à courir les rues, à danser sur les places publiques, à s'installer sur les chevaux des bois, à profiter de la cohue pour pincer les femmes, à lancer des feux d'artifice au front des tamariniers. Il avait l'agoraphobie, Noël. Ce qu'il lui fallait c'était toute une journée d'affairement, d'apprêts, de cuisinages, de nettoyages, d'inquiétudes, de-peur-que-ça-ne-suffise-pas,<br>de-peur-que-ça-ne-manque, <br>de-peur-qu'on-ne-s'embête,---puis le soir une petite église pas intimidante, qui se laissât  emplir bienveillamment par les rires, les chuchotis, les confidences, les déclarations amoureuses, le médisances et la cacophonie gutturale d'un chantre bien d'attaque et aussi de gais copains et de franches luronnes et des cases aux entrailles riches en succulences, et pas regardantes, et l'on s'y parque une vingtaine, et la rue est déserte, et le bourg n'est plus qu'un bouquet de chants, et l'on est bien à l'intérieur, et l'on en mange du bon, et l'on en boit du réjouissant et il y a du boudin, celui étroit de deux doigts qui s'enroule en volubile, celui large et trapu, le bénin à goût de serpolet, le violent à incandescence pimentée, et du café brûlant et de l'anis sucré et du punch au lait, et le soleil liquide des rhums, et toutes sortes de bonnes choses qui vous imposent autoritairement
+cordon ombilical restitué à sa splendeur fragile, le pain, et le vin de la complicité, le pain, le vin, le sang des épousailles véridiques.
+
+- {:.pr.i} Et cette joie ancienne m'apportant la connaissance de ma présente misère,<br>une route bossuée qui pique une tête dans un creux où elle éparpille quelques cases ; une route infatigable qui charge à fond de train un morne en haut duquel elle s'enlise brutalement dans une mare de maisons pataudes, une route follement montante, témérairement descendante, et la carcasse de bois comiquement juchée sur de minuscules pattes de ciment que j'appelle « notre maison », sa coiffure de tôle ondulant au soleil comme une peau qui sèche, la salle à manger, le plancher grossier où luisent des têtes de clous, les solives de sapin et d'ombre qui courent au plafond, les chaises de paille fantômales, la lumière grise de la lampe, celle vernissée et rapide des cancrelats qui bourdonne à faire mal…
+
+- {:.pr.i} Au bout du petit matin, ce plus essentiel pays restitué à ma gourmandise, non de diffuse tendresse, mais la tourmentée concentration sensuelle du gras téton des mornes avec l'accidentel palmier comme son germe durci, la jouissance saccadée des torrents  et depuis Trinité jusqu'à Grand-Rivière, la grand'lèche hystérique de la mer.
+
+-- 7 --
+
+- {:.pr.i} Et le temps passait vite, très vite.
+- {:.pr.i} Passés août où les manguiers pavoisent de toutes leurs lunules, septembre l'accoucheur de cyclones, octobre le flambeur de cannes, novembre qui ronronne aux distilleries, c'était Noël qui commençait.
+- {:.pr.i} Il s'était annoncé d'abord Noël par un picotement de désirs, une soif de tendresses neuves, un bourgeonnement de rêves imprécis, puis il s'était envolé tout à coup dans le froufrou violet de ses grandes ailes de joie, et alors c'était parmi le bourg sa vertigineuse retombée qui éclatait la vie des cases comme une grenade trop mûre.
+- {:.pr.i} Noël n'était pas comme toutes les fêtes. Il n'aimait pas à courir les rues, à danser sur les places publiques, à s'installer sur les chevaux de bois, à profiter de la cohue pour pincer les femmes, à lancer des feux d'artifice au front des tamariniers. Il avait l'agoraphobie, Noël. Ce qu'il lui fallait c'était toute une journée d'affairement, d'apprêts, de cuisinages, de nettoyages, d'inquiétudes, de-peur-que-ça-ne-suffise-pas,
+- de-peur-que-ça-ne-manque,
+- de-peur-qu'on-ne-s'embête,
+- {:.pr} puis le soir une petite église pas intimidante, qui se laissât  emplir bienveillamment par les rires, les chuchotis, les confidences, les déclarations amoureuses, les médisances et la cacophonie gutturale d'un chantre bien d'attaque et aussi de gais copains et de franches luronnes et des cases aux entrailles riches en succulences, et pas regardantes, 
+
+-- 8 --
+
+- {:.pr} et l'on s'y parque une vingtaine, et la rue est déserte, et le bourg n'est plus qu'un bouquet de chants, et l'on est bien à l'intérieur, et l'on en mange du bon, et l'on en boit du réjouissant et il y a du boudin, celui étroit de deux doigts qui s'enroule en volubile, celui large et trapu, le bénin à goût de serpolet, le violent à incandescence pimentée, et du café brûlant et de l'anis sucré et du punch au lait, et le soleil liquide des rhums, et toutes sortes de bonnes choses qui vous imposent autoritairement
 les muqueuses ou vous les fondent en subtilités, ou vous les distillent en ravissements, ou vous les tissent de fragrances, et l'on rit, et l'on chante, et les refrains fusent à perte de vue comme des cocotiers : 
-- ALLELUIA 
-- KYRIE ELEISON … LEISON… LEISON, 
-- CHRISTE ELEISON… LEISON… LEISON. 
-- {:.pr} Et ne sont pas seulement les bouches qui chantent, mais les mains, mais les pieds, mais les fesses, mais les sexes, et la créature toute entière qui se liquéfie en sons, voix et rythme.
+- {:.pr.i} ALLELUIA 
+- {:.pr.i} KYRIE ELEISON … LEISON… LEISON, 
+- {:.pr.i} CHRISTE ELEISON… LEISON… LEISON. 
+- {:.pr.i} Et ce ne sont pas seulement les bouches qui chantent, mais les mains, mais les pieds, mais les fesses, mais les sexes, et la créature toute entière qui se liquéfie en sons, voix et rythme.
+- {:.pr.i} Arrivée au sommet de son ascension la joie crève comme un nuage. Les chants ne s'arrêtent pas, mais ils roulent maintenant inquiets et lourds par les vallées de la peur, les tunnels de l'angoisse et les feux de l'enfer.
+- {:.pr.i} Et chacun se met à tirer par la queue le diable le plus proche, jusqu'à ce que la peur s'abolisse insensiblement dans les fines sablures du rêve, et l'on vit comme dans un rêve véritablement, et l'on boit et l'on crie et l'on chante 
 
-- {:.pr} Arrivée au somment de son ascension la joie crève comme un nuage. Les chants ne s'arrêtent pas, mais ils roulent maintenant inquiets et lourds par les vallées de la peur, les tunnels de l'angoisse et les feux de l'enfer.<br>Et chacun se met à tirer par la queue le diable le plus proche, jusqu'à ce que la peur s'abolisse insensiblement dans les fines sablures du rêve, et l'on vit comme dans un rêve véritablement, et l'on boit et l'on crie et l'on chante comme dans un rêve, et l'on somnole aussi comme dans un rêve avec des paupières en pétales de rose, et le jour vient velouté comme une sapotille , et l'odeur de purin des cacaoyers, et les dindons, qui égrènent leurs pustules rouges au soleil, et l'obsession des cloches, et la pluie,
+-- 9 --
+
+- {:.pr} comme dans un rêve, et l'on somnole aussi comme dans un rêve avec des paupières en pétales de rose, et le jour vient velouté comme une sapotille , et l'odeur de purin des cacaoyers, et les dindons, qui égrènent leurs pustules rouges au soleil, et l'obsession des cloches, et la pluie,
 - les cloches… la pluie… 
 - qui tintent, tintent, tintent…
 
