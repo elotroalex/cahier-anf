@@ -12,36 +12,43 @@ This reading edition corrects, normalizes and modernizes accents, punctuation an
 
 ---
 
-- {:.centered} AIMÉ CÉSAIRE.
 
 - {:.centered} CAHIER D'UN RETOUR AU PAYS NATAL
-- {:.centered} ( 1939 ) 
+- {:.centered} Aimé Césaire
 
----
+-- 1 --
 
-- {:.pr} Au bout du petit matin bourgeonnant d'anses frêles les Antilles qui ont faim, les Antilles grêlées de petite vérole, les Antilles dynamitées d'alcool, échouées dans la boue de cette baie, dans la poussière de cette ville sinistrement échouées.
+- {:.pr.i} Au bout du petit matin bourgeonnant d'anses frêles les Antilles qui ont faim, les Antilles grêlées de petite vérole, les Antilles dynamitées d'alcool, échouées dans la boue de cette baie, dans la poussière de cette ville sinistrement échouées.
 
-- {:.pr} Au bout du petit matin, l'extrême, trompeuse désolée eschare sur la blessure des eaux ; les martyrs qui ne témoignent pas ; les fleurs du sang qui se fanent et s'éparpillent dans le vent inutile comme des cris de perroquets babillards ; une vieille vie menteusement souriante, ses lèvres ouvertes d'angoisses désaffectées ; une vieille misère  pourrissant sous le soleil, silencieusement ; un vieux silence crevant de pustules tièdes---
+- {:.pr.i} Au bout du petit matin, l'extrême, trompeuse désolée eschare sur la blessure des eaux ; les martyrs qui ne témoignent pas ; les fleurs du sang qui se fanent et s'éparpillent dans le vent inutile comme des cris de perroquets babillards ; une vieille vie menteusement souriante, ses lèvres ouvertes d'angoisses désaffectées ; une vieille misère  pourrissant sous le soleil, silencieusement ; un vieux silence crevant de pustules tièdes---
 
-- l'affreuse inanité de notre raison d'être.
+- {:.pr.i} l'affreuse inanité de notre raison d'être.
 
-- {:.pr} Au bout du petit matin, sur cette plus fragile épaisseur de terre que dépasse de façon humiliante son grandiose avenir---les volcans éclateront, l'eau nue emportera les taches mûres du soleil et il ne restera plus qu'un bouillonnement tiède picoré d'oiseaux marins---la plage des songes et l'insensé réveil.
+- {:.pr.i} Au bout du petit matin, sur cette plus fragile épaisseur de terre que dépasse de façon humiliante son grandiose avenir---les volcans éclateront, l'eau nue emportera les taches mûres du soleil et il ne restera plus qu'un bouillonnement tiède picoré d'oiseaux marins---la plage des songes et l'insensé réveil
 
-- {:.pr} Au bout du petit matin, cette ville plate---étalée, trébuchée de son bon sens, inerte, essoufflée sous son fardeau géométrique de croix éternellement recommençante, indocile à son sort, muette, contrariée de toutes façons, incapable de croître selon le suc de cette terre, embarrassée, rognée, réduite, en rupture de faune et de flore.
+-- 2 --
+
+- {:.pr.i} Au bout du petit matin, cette ville plate---étalée, trébuchée de son bon sens, inerte, essoufflée sous son fardeau géométrique de croix éternellement recommençante, indocile à son sort, muette, contrariée de toutes façons, incapable de croître selon le suc de cette terre, embarrassée, rognée, réduite, en rupture de faune et de flore.
 
 - {:.pr} Au bout du petit matin, cette ville plate---étalée...<br>Et dans cette ville inerte, cette foule criarde si étonnamment passée à côté de son cri comme cette ville à côté de son mouvement, de son sens, sans inquiétude, à côté de son vrai cri, le seul qu'on eût voulu l'entendre crier parce qu'on le sent sien lui seul ; parce qu'on le sent habiter en elle dans quelque refuge profond d'ombre et d'orgueil, dans cette ville inerte, cette foule à côté de son cri de faim, de misère, de révolte, de haine, cette foule si étrangement bavarde et muette.
 
-- {:.pr} Dans cette ville inerte, cette étrange foule qui ne s'entasse pas, ne se mêle pas : habile à découvrir le point de désencastration, de fuite, d'esquive. Cette foule qui ne sait pas faire foule, cette foule, on s'en rend compte, si parfaitement seule sous ce soleil, à la façon dont une femme, toute on eût cru à la cadence lyrique de ses fesses, interpelle brusquement une pluie hypothétique et lui intime l'ordre de ne pas tomber ; ou à un signe rapide de croix sans mobile visible ; ou à l'animalité subitement grave d'une paysanne, urinant debout, les jambes écartées, roides.
+- {:.pr} Dans cette ville inerte, cette étrange foule qui ne s'entasse pas, ne se mêle pas : habile à découvrir le point de désencastration, de fuite, d'esquive. Cette foule qui ne sait pas faire foule, cette foule, on s'en rend compte, si parfaitement seule sous ce soleil, à la façon dont une femme, toute on eût cru à la cadence lyrique de ses fesses, interpelle brusquement une pluie hypothétique et lui intime l'ordre de ne pas tomber ; ou à un signe rapide de croix sans mobile visible ; ou à l'animalité subitement grave d'une paysanne, 
 
-- {:.pr} Dans cette ville inerte, cette foule désolée sous le soleil, ne participant à rien de ce qui s'exprime, s'affirme, se libère au grand jour de cette terre sienne. Ni à l'impératrice Joséphine des Français rêvant très haut au-dessus de la négraille. Ni au libérateur figé dans sa libération de pierre blanchie. Ni au conquistador. Ni à ce mépris, ni à cette liberté, ni à cette audace.
+-- 3 --
 
-- {:.pr} Au bout du petit matin, cette ville inerte et ses au-delà d'éléphantiasis, de lèpres, de consomption, de famines, de peurs tapies dans les ravins, de peurs juchées dans les arbres, de peurs creusées dans le sol, de peurs en dérive dans le ciel, de peurs amoncelées et ses fumerolles d'angoisse, de peurs étalées et ses respirations de rivières.
+- {:.pr} urinant debout, les jambes écartées, roides.
 
-- {:.pr} Au bout du petit matin, le morne oublié, oublieux de sauter.
+- {:.pr.i} Dans cette ville inerte, cette foule désolée sous le soleil, ne participant à rien de ce qui s'exprime, s'affirme, se libère au grand jour de cette terre sienne. Ni à l'impératrice Joséphine des Français rêvant très haut au-dessus de la négraille. Ni au libérateur figé dans sa libération de pierre blanchie. Ni au conquistador. Ni à ce mépris, ni à cette liberté, ni à cette audace.
 
-- {:.pr} Au bout du petit matin, le morne au sabot inquiet et docile---son sang impaludé met en déroute le soleil de ses  pouls surchauffés.
+- {:.pr.i} Au bout du petit matin, cette ville inerte et ses au-delà d'éléphantiasis, de lèpres, de consomption, de famines, de peurs tapies dans les ravins, de peurs juchées dans les arbres, de peurs creusées dans le sol, de peurs en dérive dans le ciel, de peurs amoncelées et ses fumerolles d'angoisse, de peurs étalées et ses respirations de rivières.
 
-- {:.pr} Au bout du petit matin, l'incendie contenu du morne, comme un sanglot que l'on a bâillonné au bord de son éclatement sanguinaire, en quête d'une ignition qui se dérobe et se méconnaît.
+- {:.pr.i} Au bout du petit matin, le morne oublié, oublieux de sauter.
+
+- {:.pr.i} Au bout du petit matin, le morne au sabot inquiet et docile---son sang impaludé met en déroute le soleil de ses  pouls surchauffés.
+
+- {:.pr.i} Au bout du petit matin, l'incendie contenu du morne, comme un sanglot que l'on a bâillonné au bord de son éclatement sanguinaire, en quête d'une ignition qui se dérobe et se méconnaît.
+
+-- 4 --
 
 - {:.pr} Au bout du petit matin, le morne accroupi devant la boulimie aux aguets de foudres et de moulins, lentement vomissant ses fatigues d'hommes, le morne seul et son sang répandu, le morne et ses pansements d'ombre, le morne et ses rigoles de peur, le morne et ses grandes mains de vent.
 
