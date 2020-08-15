@@ -108,25 +108,39 @@ les muqueuses ou vous les fondent en subtilités, ou vous les distillent en ravi
 - les cloches… la pluie… 
 - qui tintent, tintent, tintent…
 
-- {:.pr} Au bout du petit matin, cette ville plate---étalée…<br>Elle rampe sur les mains sans jamais aucune envie de vriller le ciel d'une stature de protestation. Les dos de maison ont peur du ciel truffé de feu, leurs pieds des noyades du sol. Elles ont opté de se poser superficielles entre les surprises et les perfidies. Et pourtant elle avance la ville. Même qu'elle paît tous les jours plus outre sa marée de corridors carrelés, de persiennes pudibondes, de cours gluantes, de peintures qui dégoulinent. Et de petits scandales étouffés, de petites hontes tues, de petites haines immenses pétrissent en bosses et creux les rues étroites où le ruisseau grimace longitudinalement parmi l'étron…
+- {:.pr.i} Au bout du petit matin, cette ville plate---étalée…
+- {:.pr.i} Elle rampe sur les mains sans jamais aucune envie de vriller le ciel d'une stature de protestation. Les dos de maison ont peur du ciel truffé de feu, leurs pieds des noyades du sol. Elles ont opté de se poser superficielles entre les surprises et les perfidies. Et pourtant elle avance la ville. Même qu'elle paît tous les jours plus outre sa marée de corridors carrelés, de persiennes pudibondes, de cours gluantes, de peintures qui dégoulinent. Et de petits scandales étouffés, de petites hontes tues, de petites haines immenses pétrissent en bosses et creux les rues étroites où le ruisseau grimace longitudinalement parmi l'étron…
 
--  {:.pr} Au bout du petit matin, la vie prostrée, on ne sait où dépêcher ses rêves avortés, le fleuve de vie désespérément torpide dans son lit, sans turgescence ni dépression, incertain de fluer , lamentablement vide, la lourde impartialité de l'ennui, répartissant l'ombre sur toutes choses égales, l'air stagnant sans une trouée d'oiseau clair.
+-  {:.pr.i} Au bout du petit matin, la vie prostrée, on ne sait où dépêcher ses rêves avortés, le fleuve de vie désespérément torpide dans son lit, sans turgescence ni dépression, incer-
 
--  {:.pr} Au bout du petit matin, une autre petite maison noire  qui sent très mauvais dans une rue très étroite, une maison minuscule qui abrite en ses entrailles de bois pourri des dizaines de rats et la turbulence de mes six frères et sœurs, une petite maison cruelle dont l'intransigeance affole nos fin de mois et mon père fantasque grignoté d'une seule seule misère, je n'ai jamais su laquelle, qu'une imprévisible sorcellerie assoupit en mélancolique tendresse ou exalte en hautes flammes de colère ; et ma mère dont les jambes pour notre faim inlassable, de jour, de nuit, je suis même réveillé la nuit par ces jambes inlassables qui pédalent de jour, de nuit, je suis même réveillé la nuit par ces jambes inlassables qui pédalent la nuit et la morsure âpre dans la chair molle de la nuit d'une Singer et que ma mère pédale, pédale pour notre faim et de jour et de nuit.
+-- 10 --
 
--  {:.pr} Au bout du petit matin, au delà de mon père, de ma mère, la case gerçant d'ampoules, comme un pêché tourmenté de la cloque, et le toit aminci, rapiécé de morceaux de bidon de pétrole, et ça fait des marais de rouillure dans la pâte grise sordide empuantie de la paille, et quand le vent siffle, ces disparates font bizarre le bruit, comme un crépitement de friture d'abord, puis comme un tison que l'on plonge dans l'eau avec la fumée des brindilles qui s'envole… Et le lit de planches d'où s'est levée ma race, tout entière ma race de lit de planches, avec ses pattes de caisses de Kérosine , comme s'il avait l'éléphantiasis le lit, et sa peau de cabri, et ses feuilles de banane séchées, et ses haillonsune nostalgie de matelas le lit de ma grand'mère (Au-dessus du lit, dans un pot plein d'huile un lumignon dont la flamme danse comme un gros ravet … sur le pot en lettres d'or : MERCI).
+-  {:.pr} tain de fluer , lamentablement vide, la lourde impartialité de l'ennui, répartissant l'ombre sur toutes choses égales, l'air stagnant sans une trouée d'oiseau clair.
 
--  {:.pr} Et une honte, cette rue Paille, un appendice dégoûtant comme les parties honteuses du bourg qui étend à droite et à gauche tout au long de la route coloniale, la houle grise de ses toits « d'essentes ». Ici il n'y a que des toits de paille que l'embrun a brunis et que le vent épile.
+-  {:.pr.i} Au bout du petit matin, une autre petite maison noire  qui sent très mauvais dans une rue très étroite, une maison minuscule qui abrite en ses entrailles de bois pourri des dizaines de rats et la turbulence de mes six frères et sœurs, une petite maison cruelle dont l'intransigeance affole nos fin de mois et mon père fantasque grignoté d'une seule seule misère, je n'ai jamais su laquelle, qu'une imprévisible sorcellerie assoupit en mélancolique tendresse ou exalte en hautes flammes de colère ; et ma mère dont les jambes pour notre faim inlassable pédale, pédale de jour, de nuit, je suis même réveillé la nuit par ces jambes inlassables qui pédalent la nuit et la morsure âpre dans la chair molle de la nuit d'une Singer et que ma mère pédale, pédale pour notre faim et de jour et de nuit.
 
--  {:.pr} Tout le monde la méprise la rue Paille. C'est là que la jeunesse du bourg se débauche. C'est là surtout que la mer déverse ses immondices, ses chats morts et ses chiens crevés. Car la rue débouche sur la plage, et la plage ne suffit pas à la rage écumante de la mer.
+-  {:.pr.i} Au bout du petit matin, au delà de mon père, de ma mère, la case gerçant d'ampoules, comme un pêché tourmenté de la cloque, et le toit aminci, rapiécé de morceaux de bidon de pétrole, et ça fait des marais de rouillure dans la pâte grise sordide empuantie de la paille, et quand le vent siffle, ces disparates font bizarre le bruit, comme un crépitement de friture d'abord, puis comme un tison que l'on plonge dans l'eau avec la fumée des brindilles qui s'envole… Et le lit de planches d'où s'est levée ma
 
--  {:.pr} Une détresse cette plage elle aussi, avec ses tas d'ordure pourrissant, ses croupes furtives qui se soulagent, et le sable est noir, funèbre, on n'a jamais vu un sable si noir, et l'écume glisse dessus en glapissant, et la mer la frappe à grands coups de boxe, ou plutôt la mer est un gros chien qui lèche et mord la plage aux jarrets, et à force de la mordre elle finira par la dévorer, bien sûr, la plage et la rue Paille avec.
+-- 11 --
 
--  {:.pr} Au bout du petit matin, le vent de jadis qui s'élève, des fidélités trahies, du devoir incertain qui se dérobe et cet autre petit matin d'Europe…
+-  {:.pr} race, tout entière ma race de lit de planches, avec ses pattes de caisses de Kérosine , comme s'il avait l'éléphantiasis le lit, et sa peau de cabri, et ses feuilles de banane séchées, et ses haillons, une nostalgie de matelas le lit de ma grand'mère (Au-dessus du lit, dans un pot plein d'huile un lumignon dont la flamme danse comme un gros ravet… sur le pot en lettres d'or : MERCI).
 
-- {:.pr} Partir. Mon cœur bruissait de générosités emphatiques.<br>Partir … j'arriverais lisse et jeune dans ce pays mien et je dirais à ce pays dont le limon entre dans la composition de ma chair : « J'ai longtemps erré et je reviens vers la hideur désertée de vos plaies. »<br>Je viendrais à ce pays mien et je lui dirais. « Embrassez-moi sans crainte … Et si je ne sais que parler, c'est pour vous que je parlerai. »<br>Et je lui dirais encore : « Ma bouche sera la bouche des  malheurs qui n'ont point de bouche, ma voix, la liberté de celles qui s'affaissent  au cachot du désespoir. »<br>Et venant je me dirais à moi même :<br>« Et surtout mon corps aussi bien que mon âme, gardez-vous de vous croiser les bras en l'attitude stérile du spectateur, car la vie n'est pas un spectacle, car une mer de douleurs n'est pas un proscenium , car un homme qui crie n'est pas un ours qui danse… ».
+-  {:.pr.i} Et une honte, cette rue Paille,<br>un appendice dégoûtant comme les parties honteuses du bourg qui étend à droite et à gauche tout au long de la route coloniale, la houle grise de ses toits « d'essentes ». Ici il n'y a que des toits de paille que l'embrun a brunis et que le vent épile.
+-  {:.pr.i} Tout le monde la méprise la rue Paille. C'est là que la jeunesse du bourg se débauche. C'est là surtout que la mer déverse ses immondices, ses chats morts et ses chiens crevés. Car la rue débouche sur la plage, et la plage ne suffit pas à la rage écumante de la mer.
+-  {:.pr.i} Une détresse cette plage elle aussi, avec ses tas d'ordure pourrissant, ses croupes furtives qui se soulagent, et le sable est noir, funèbre, on n'a jamais vu un sable si noir, et l'écume glisse dessus en glapissant, et la mer la frappe à grands coups de boxe, ou plutôt la mer est un gros chien qui lèche et mord la plage aux jarrets, et à force de la mordre elle finira par la dévorer, bien sûr, la plage et la rue Paille avec.
 
-- Et voici que je suis venu.
+-- 12 --
+
+-  {:.pr.i} Au bout du petit matin, le vent de jadis qui s'élève, des fidélités trahies, du devoir incertain qui se dérobe et cet autre petit matin d'Europe…
+
+- {:.pr.i} Partir. Mon cœur bruissait de générosités emphatiques. Partir … j'arriverais lisse et jeune dans ce pays mien et je dirais à ce pays dont le limon entre dans la composition de ma chair : « J'ai longtemps erré et je reviens vers la hideur désertée de vos plaies. »
+- {:.pr.i} Je viendrais à ce pays mien et je lui dirais. « Embrassez-moi sans crainte … Et si je ne sais que parler, c'est pour vous que je parlerai. »
+- {:.pr.i} Et je lui dirais encore :<br>« Ma bouche sera la bouche des  malheurs qui n'ont point de bouche, ma voix, la liberté de celles qui s'affaissent  au cachot du désespoir. »
+- {:.pr.i} Et venant je me dirais à moi même :<br>« Et surtout mon corps aussi bien que mon âme, gardez-vous de vous croiser les bras en l'attitude stérile du spectateur, car la vie n'est pas un spectacle, car une mer de douleurs n'est pas un proscenium , car un homme qui crie n'est pas un ours qui danse… ».
+
+- {:.pr.i} Et voici que je suis venu !
+
+-- 13 --
 
 - {:.pr} De nouveau cette vie clopinante devant moi, non pas cette vie, cette mort, cette mort sans sens ni piété, cette mort où la grandeur piteusement échoue, l'éclatante petitesse de cette mort, cette mort qui clopine de petitesses en petitesses ; ces pelletées de petites avidités sur le conquistador ; ces pelletées de petits larbins sur le grand sauvage ; ces pelletées de petites âmes sur le Caraïbe aux trois âmes. 
 - et toutes ces morts futiles 
@@ -137,24 +151,34 @@ les muqueuses ou vous les fondent en subtilités, ou vous les distillent en ravi
 - puis, chavirée, se tait 
 - chaude élection de cendres, de ruines et d'affaissements
 
-- {:.pr} ---Encore une objection ! une seule, mais de grâce une seule : je n'ai pas le droit de calculer la vie à mon seul empan fuligineux ; de me réduire à ce petit rien ellipsoïdal qui tremble à quatre doigts au-dessus de la line, moi homme d'ainsi bouleverser la création, que je me comprenne entre latitude et longitude !
+- {:.pr.i} ---Encore une objection ! une seule, mais de grâce une seule : je n'ai pas le droit de calculer la vie à mon seul empan fuligineux ; de me réduire à ce petit rien ellipsoïdal qui tremble à quatre doigts au-dessus de la line, moi homme d'ainsi bouleverser la création, que je me comprenne entre latitude et longitude !
 
-- Au bout du petit matin, 
+- {:.pr.i} Au bout du petit matin, 
 - la mâle soif et l'entêté désir, 
 - me voici divisé des oasis fraîches de la fraternité 
 - ce rien pudique frise d'échardes dures 
+
+-- 14 --
+
 - cet horizon trop sûr tressaille comme un geôlier.
 
-- {:.pr} Ton dernier triomphe, corbeau tenace de la Trahison.<br>Ce qui est à moi, ces quelques milliers de mortiférés qui tournent en rond dans la calebasse d'une île et ce qui est à moi aussi, l'archipel arqué comme le désir inquiet de se nier, on dirait une anxiété maternelle pour protéger la ténuité plus délicate qui sépare l'une de l'autre Amérique ; et ses flancs qui sécrètent pour l'Europe la bonne liqueur d'un Gulf Stream, et l'un des deux versants d'incandescence entre quoi l'Équateur funambule vers l'Afrique. Et mon île non-clôture, sa claire audace debout
+- {:.pr.i} Ton dernier triomphe, corbeau tenace de la Trahison.
+- {:.pr.i} Ce qui est à moi, ces quelques milliers de mortiférés qui tournent en rond dans la calebasse d'une île et ce qui est à moi aussi, l'archipel arqué comme le désir inquiet de se nier, on dirait une anxiété maternelle pour protéger la ténuité plus délicate qui sépare l'une de l'autre Amérique ; et ses flancs qui sécrètent pour l'Europe la bonne liqueur d'un Gulf Stream, et l'un des deux versants d'incandescence entre quoi l'Équateur funambule vers l'Afrique. Et mon île non-clôture, sa claire audace debout
 à l'arrière de cette polynésie, devant elle, la Guadeloupe fendue en deux de sa raie dorsale et de même misère que nous, Haïti où la négritude se mit debout pour la première fois et dit qu'elle croyait à son humanité et la comique petite queue de la Floride où d'un nègre s'achève la strangulation, et l'Afrique gigantesquement chenillant jusqu'au pied hispanique de l'Europe, sa nudité où la Mort fauche à larges andains.
 
-- {:.pr} Et je me dis Bordeaux et Nantes et Liverpool et<br>pas un bout de ce monde qui ne porte mon empreinte digitale et mon calcanéum sur le dos des gratte-ciel et ma crasse dans le scintillement des gemmes ! 
-- Qui peut se vanter d'avoir mieux que moi ? Virginie. Tennessee. Géorgie. Alabama. 
-- Putréfactions monstrueuses de révoltes inopérantes,  marais  et de sang putrides
+- {:.pr.i} Et je me dis Bordeaux et Nantes et Liverpool et
+- et New-York et San-Francisco
+- {:.pr} pas un bout de ce monde qui ne porte mon empreinte digitale et mon calcanéum sur le dos des gratte-ciel et ma crasse dans le scintillement des gemmes ! 
+- Qui peut se vanter d'avoir mieux que moi ? 
+- Virginie. Tennessee. Géorgie. Alabama.
+
+-- 15 --
+
+- Putréfactions monstrueuses de révoltes inopérantes,  - marais de sang putrides
 - trompettes absurdement bouchées 
 - Terres rouges terres sanguines terres consanguines.
 
-- Ce qui est à moi aussi : une petite cellule dans le Jura, 
+- {:.pr.i} Ce qui est à moi aussi : une petite cellule dans le Jura, 
 - une petite,cellule, la neige la double de barreaux blancs 
 - la neige est un geôlier blanc qui monte la garde devant une prison 
 - Ce qui est à moi 
@@ -171,7 +195,11 @@ les muqueuses ou vous les fondent en subtilités, ou vous les distillent en ravi
 - la mort luit dans l'ombre comme des yeux de chat 
 - la mort hoquette comme l'eau sous les Cayes 
 - la mort est un oiseau blessé 
-- la mort décroît la mort vacille 
+- la mort décroît 
+- la mort vacille 
+
+-- 16 --
+
 - la mort est un patyura ombrageux 
 - la mort expire dans une blanche mare desilence.
 
@@ -181,21 +209,26 @@ les muqueuses ou vous les fondent en subtilités, ou vous les distillent en ravi
 - cris debout de terre muette 
 - la splendeur de ce sang n'éclatera-t-elle point ?
 
-- Et maintenant un dernier zut : 
-- au soleil (Il ne suffit pas à soûler ma tête trop forte) à la nuit farineuse avec les pondaisons d'or des lucioles incertaines 
+- {:.pr.i} Et maintenant un dernier zut : 
+- au soleil (Il ne suffit pas à soûler ma tête trop forte) 
+- à la nuit farineuse avec les pondaisons d'or des lucioles incertaines 
 - à la chevelure qui tremble tout au haut de la falaise, 
 - le vent  y saute en inconstantes cavaleries salées 
 - je lis bien à mon pouls que l'exotisme n'est pas provende pour moi.
 
-- Au sortir de l'Europe toute révulsée de cris
+- {:.pr.i} Au sortir de l'Europe toute révulsée de cris
 - les courants silencieux de la désespérance
 - au sortir de l'Europe peureuse qui se reprend et fière se surestime
 - je veux cet égoïsme beau et qui s'aventure
 - et mon labour me remémore d'une implacable étrave.
 
-- Que de sang dans ma mémoire ! Dans ma mémoire sont des lagunes. Elles sont couvertes de têtes de morts. Elles ne sont pas couvertes de nénuphars.<br>Dans ma mémoire sont des lagunes. Sur leurs rives ne sont  pas étendus des pagnes de femmes.<br>Ma mémoire est entourée de sang. Ma mémoire a sa ceinture de cadavres ! 
+-- 16 bis --
 
-- et mitraille de barils de rhum génialement arrosant nos révoltes ignobles, pâmoison d'yeux doux d'avoir lampé la liberté féroce
+- {:.pr} Que de sang dans ma mémoire ! Dans ma mémoire sont des lagunes. Elles sont couvertes de têtes de morts. Elles ne sont pas couvertes de nénuphars.
+- {:.pr} Dans ma mémoire sont des lagunes. Sur leurs rives ne sont  pas étendus des pagnes de femmes.
+- {:.pr} Ma mémoire est entourée de sang. Ma mémoire a sa ceinture de cadavres ! 
+
+- {:.pr} et mitraille de barils de rhum génialement arrosant nos révoltes ignobles, pâmoison d'yeux doux d'avoir lampé la liberté féroce
 - (les nègres-sont-tous-les-mêmes, je-vous-le-dis
 - les vices-tous-les-vices, c'est-moi-qui-vous-le-dis
 - l'odeur-du-nègre ça-fait-pousser-la-canne
@@ -203,6 +236,8 @@ les muqueuses ou vous les fondent en subtilités, ou vous les distillent en ravi
 - autour des rocking-chairs méditant la volupté des rigoises…
 
 - Je tourne, inapaisée pouliche
+
+-- 17 --
 
 - Ou bien tout simplement comme on nous aime !
 - Obscènes gaiement, très doudous de Jazz sur leur excès d'ennui.
