@@ -1,9 +1,9 @@
 ---
 layout: poem
-title: "reading edition"
+title: "edition de lecture"
 description: "An interpretation of the final stage of the Cahier typescript." 
 author: Aimé Césaire
-editor: Alex Gil and Kora Verón
+editor: Kora Véron
 ---
 
 ---
