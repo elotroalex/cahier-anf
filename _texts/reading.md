@@ -201,9 +201,9 @@ les muqueuses ou vous les fondent en subtilités, ou vous les distillent en ravi
 -- 16 --
 
 - la mort est un patyura ombrageux 
-- la mort expire dans une blanche mare desilence.
+- la mort expire dans une blanche mare de silence.
 
-- Gonflements de nuits aux quatre coins de ce petit matin
+- Gonflements de nuit aux quatre coins de ce petit matin
 - soubresauts de mort figée 
 - destin tenace 
 - cris debout de terre muette 
@@ -260,7 +260,7 @@ les muqueuses ou vous les fondent en subtilités, ou vous les distillent en ravi
 
 - {:.pr} Par une inattendue et bienfaisante révolution intérieure, j'honore maintenant mes laideurs repoussantes.
 
-- {:.pr} À la Saint-Jean-Baptiste, dès que tom bent les premières ombres sur le bourg du Gros-Morne, des centaines de maquignons se réunissent pour échanger leurs chevaux, dans la rue « DE PROFUNDIS », dont le nom a du moins la franchise d'avertir d'une ruée des bas-fonds de la Mort. Et c'est de la Mort véritablement, de ses mille mesquines formes locales (fringales inassouvies d'herbe de Para et rond asservissement des distilleries) que surgit vers la grand'vie déclose
+- {:.pr} À la Saint-Jean-Baptiste, dès que tombent les premières ombres sur le bourg du Gros-Morne, des centaines de maquignons se réunissent pour échanger leurs chevaux, dans la rue « DE PROFUNDIS », dont le nom a du moins la franchise d'avertir d'une ruée des bas-fonds de la Mort. Et c'est de la Mort véritablement, de ses mille mesquines formes locales (fringales inassouvies d'herbe de Para et rond asservissement des distilleries) que surgit vers la grand'vie déclose
 
 -- 18 --
 
@@ -449,7 +449,7 @@ dans ses actes.
 - Eia pour l'amour
 - Eia pour la douleur aux pis de larmes réincarnées
 
-- {:.i} Et voici au bout de ce petit matinma prière virile
+- {:.i} Et voici au bout de ce petit matin ma prière virile
 - que je n'entende ni les rires ni les cris, les yeux fixés 
 - sur cette ville que je prophétise, belle,
 
@@ -490,7 +490,7 @@ dans ses actes.
 - la sommer libre enfin 
 
 - de produire de son intimité close
-- la succulence de fruits.
+- la succulence des fruits.
 
 -- 28 --
 
@@ -593,7 +593,7 @@ volcans et le gigantesque pouls sismique qui bat maintenant la mesure d'un corps
 -- 33 --
 
 - {:.pr} Je tiens maintenant le sens de l'ordalie : mon pays est la « lance de nuit » de mes ancêtres Bambaras. Elle se ratatine et sa pointe fuit désespérément vers le manche si c'est de sang de poulet qu'on l'arrose et elle dit que c'est du sang d'homme qu'il faut à son tempérament, de la graisse, du foie, du cœur d'homme, non du sang de poulet. 
-- {:.pr} Et je cherche pour mon pays non des cœurs de datte, mais des cœurs d'homme  entrer aux villes d'argent par la grand'porte trapézoïdale, qu'ils battent le sang viril, et mes yeux balayent mes kilomètres carrés de terre paternelle et je dénombre les plaies avec une sorte d'allégresse comme  et je les entasse l'une sur l'autre comme rares espèces, et mon compte s'allonge toujours d'imprévus monnayages de la bassesse.
+- {:.pr} Et je cherche pour mon pays non des cœurs de datte, mais des cœurs d'homme qui c'est pour entrer aux villes d'argent par la grand'porte trapézoïdale, qu'ils battent le sang viril, et mes yeux balayent mes kilomètres carrés de terre paternelle et je dénombre les plaies avec une sorte d'allégresse comme  et je les entasse l'une sur l'autre comme rares espèces, et mon compte s'allonge toujours d'imprévus monnayages de la bassesse.
 - {:.pr} Et voici ceux qui ne se consolent point de n'être pas faits à la ressemblance de Dieu mais du diable, ceux qui considèrent que l'on est nègre comme commis de seconde classe : en attendant mieux et avec possibilité de monter plus haut ; ceux qui battent la chamade devant soi-même, ceux qui vivent dans un cul de basse fosse de soi-même ; ceux qui se drapent de pseudomorphose fière ; ceux qui disent à l'Europe : « Voyez, je sais comme vous faire des courbettes, comme vous présenter mes hommages, en somme, je ne suis pas différent de vous ; ne faites pas attention
 à ma peau noire : c'est le soleil qui m'a brûlé ».
 
@@ -607,7 +607,7 @@ volcans et le gigantesque pouls sismique qui bat maintenant la mesure d'un corps
 - Les Blancs disent que c'était un bon nègre, un vrai bon nègre, le bon nègre à son bon maître.
 - Je dis hurrah !
 - C'était un très bon nègre
-- {:.pr} la misère lui avait blessé poitrine et dos et on avait fourré dans sa pauvre cervelle qu'une fatalité pesait sur lui qu'on ne prend pas au collet ; qu'il n'avait pas puissance sur son propre destin ; qu'un Seigneur méchant avait de toute éternité écrit des lois d'interdiction en sa nature pelvienne ; et d'être le bon nègre ; de se contenter honnêtement d'être le bon nègre ; de croire honnêtement à son indignité, sans curiosité perverse devérifier jamais les hiéroglyphes fatidiques.
+- {:.pr} la misère lui avait blessé poitrine et dos et on avait fourré dans sa pauvre cervelle qu'une fatalité pesait sur lui qu'on ne prend pas au collet ; qu'il n'avait pas puissance sur son propre destin ; qu'un Seigneur méchant avait de toute éternité écrit des lois d'interdiction en sa nature pelvienne ; et d'être le bon nègre ; de se contenter honnêtement d'être le bon nègre ; de croire honnêtement à son indignité, sans curiosité perverse de vérifier jamais les hiéroglyphes fatidiques.
 
 - C'était un très bon nègre
 
