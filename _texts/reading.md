@@ -240,13 +240,15 @@ les muqueuses ou vous les fondent en subtilités, ou vous les distillent en ravi
 -- 17 --
 
 - Ou bien tout simplement comme on nous aime !
-- Obscènes gaiement, très doudous de Jazz sur leur excès d'ennui.
-- Je sais le tracking , le Lindy-hop et les claquettes.
-- Pour les bonnes bouches la sourdine de nos plaintes enrobées de oua-oua . Attendez…
-- Tout est dans l'ordre. Mon bon ange broute du néon. J'avale des baguettes. Ma dignité se vautre dans les dégobillements…
+- {:.pr} Obscènes gaiement, très doudous de Jazz sur leur excès d'ennui.
+- Je sais le tracking, le Lindy-hop et les claquettes.
+- {:.pr} Pour les bonnes bouches la sourdine de nos plaintes enrobées de oua-oua . Attendez…
+- {:.pr} Tout est dans l'ordre. Mon bon ange broute du néon. J'avale des baguettes. Ma dignité se vautre dans les dégobillements…
 
-- Soleil, Soleil, Ange Soleil, Ange frisé du Soleil.
-- Pour un bond par delà la nage verdâtre et douce des eaux de l'abjection !
+-- 17 bis --
+
+- {:.pr.i} Soleil, Soleil, Ange Soleil, Ange frisé du Soleil.
+- {:.pr.i} Pour un bond par delà la nage verdâtre et douce des eaux de l'abjection !
 - {:.pr} Mais je me suis adressé au mauvais sorcier. Sur cette terre exorcisée, larguée à la dérive de sa précieuse intention maléfique, cette voix qui crie, lentement enrouée, vainement, vainement enrouée, et il n'y a que les fientes accumulées de nos mensonges---et qui ne répondent pas !
 
 - Quelle folie le merveilleux entrechat par moi rêvé 
@@ -258,52 +260,72 @@ les muqueuses ou vous les fondent en subtilités, ou vous les distillent en ravi
 
 - {:.pr} Par une inattendue et bienfaisante révolution intérieure, j'honore maintenant mes laideurs repoussantes.
 
-- {:.pr} À la Saint-Jean-Baptiste, dès que tom bent les premières ombres sur le bourg du Gros-Morne, des centaines de maquignons se réunissent pour échanger leurs chevaux, dans la rue « DE PROFUNDIS », dont le nom a du moins la franchise d'avertir d'une ruée des bas-fonds de la Mort. Et c'est de la Mort véritablement, de ses mille mesquines formes locales (fringales inassouvies d'herbe de Para et rond asservissement des distilleries) que surgit vers la grand'vie déclose<br>l'étonnante cavalerie des rosses impétueuses. Et quels galops ! quels hennissements ! quelles sincères urines ! quelles fientes mirobolantes ! « un beau cheval difficile au montoir »---« Une altière jument sensible à la molette ! »---« Un intrépide poulain vaillamment jointé ! »<br>Et le malin compère dont le gilet se barre d'une fière chaîne de montre, refile au lieu de pleines mamelles, d'ardeurs juvéniles, de rotondités authentiques, ou les boursouflures régulières de guêpes complaisantes, ou les obscènes morsures du gingembre, ou la bienfaisante circulation d'un décalitre d'eau sucrée.
+- {:.pr} À la Saint-Jean-Baptiste, dès que tom bent les premières ombres sur le bourg du Gros-Morne, des centaines de maquignons se réunissent pour échanger leurs chevaux, dans la rue « DE PROFUNDIS », dont le nom a du moins la franchise d'avertir d'une ruée des bas-fonds de la Mort. Et c'est de la Mort véritablement, de ses mille mesquines formes locales (fringales inassouvies d'herbe de Para et rond asservissement des distilleries) que surgit vers la grand'vie déclose
 
-- {:.pr} Je refuse de me donner mes boursouflures comme d'authentiques gloires.<br>Et je ris de mes anciennes imaginations puériles.<br>Non, nous n'avons jamais été amazones du roi de Dahomey, ni princes de Ghana avec huit cents chameaux, ni docteurs à Tombouctou Askia le Grand étant roi, ni architectes de Djenné, ni Mahdis, ni guerriers. Nous ne nous sentons pas sous l'aisselle la démangeaison de ceux qui tinrent jadis la lance. Et puisque j'ai juré de ne rien celer de notre histoire, (moi qui n'admire rien tant que le mouton broutant son ombre d'après-midi), je veux avouer que nous fûmes de tout temps d'assez piètres laveurs de vaisselle, des cireurs de chaussures sans envergure mettons les choses au mieux, d'assez consciencieux sorciers, et le seul indiscutable record que nous ayons battu est celui d'endurance
-- à la chicotte …
+-- 18 --
 
-- {:.pr} Et ce pays cria pendant des siècles que nous sommes des bêtes brutes ; que les pulsations de l'humanité s'arrêtent aux portes de la négrerie ; que nous sommes un fumier ambulant hideusement prometteurs de cannes tendres et de coton soyeux et l'on nous marquait au fer rouge et nous dormions dans nos excréments et l'on nous vendait sur les places et l'aune de drap anglais et la viande salée d'Irlande coûtaient moins cher que nous, et ce pays était calme, tranquille, disant que l'esprit de Dieu était
+- {:.pr} l'étonnante cavalerie des rosses impétueuses. Et quels galops ! quels hennissements ! quelles sincères urines ! quelles fientes mirobolantes ! « un beau cheval difficile au montoir »---« Une altière jument sensible à la molette ! »---« Un intrépide poulain vaillamment jointé ! »
+- {:.pr.i} Et le malin compère dont le gilet se barre d'une fière chaîne de montre, refile au lieu de pleines mamelles, d'ardeurs juvéniles, de rotondités authentiques, ou les boursouflures régulières de guêpes complaisantes, ou les obscènes morsures du gingembre, ou la bienfaisante circulation d'un décalitre d'eau sucrée.
+
+- {:.pr.i} Je refuse de me donner mes boursouflures comme d'authentiques gloires.
+- {:.pr.i} Et je ris de mes anciennes imaginations puériles.
+- {:.pr.i} Non, nous n'avons jamais été amazones du roi de Dahomey, ni princes de Ghana avec huit cents chameaux, ni docteurs à Tombouctou Askia le Grand étant roi, ni architectes de Djenné, ni Mahdis, ni guerriers. Nous ne nous sentons pas sous l'aisselle la démangeaison de ceux qui tinrent jadis la lance. Et puisque j'ai juré de ne rien celer de notre histoire, (moi qui n'admire rien tant que le mouton broutant son ombre d'après-midi), je veux avouer que nous fûmes de tout temps d'assez piètres laveurs de vaisselle, des cireurs de chaussures sans envergure mettons les choses au mieux, d'assez consciencieux sorciers, et le seul indiscutable record que nous ayons battu est celui d'endurance à la chicotte …
+
+-- 19 --
+
+- {:.pr.i} Et ce pays cria pendant des siècles que nous sommes des bêtes brutes ; que les pulsations de l'humanité s'arrêtent aux portes de la négrerie ; que nous sommes un fumier ambulant hideusement prometteurs de cannes tendres et de coton soyeux et l'on nous marquait au fer rouge et nous dormions dans nos excréments et l'on nous vendait sur les places et l'aune de drap anglais et la viande salée d'Irlande coûtaient moins cher que nous, et ce pays était calme, tranquille, disant que l'esprit de Dieu était
 dans ses actes.
 
 - {:.pr} Le négrier ! proclame mon sûr et ténébreux instinct<br>les voiles de noirs nuages, la polymature de forêts sombres et des dures magnificences des Calebars, insigne souvenir à la proue blanchoyant – ce squelette !
 
-- J'entends de la cale monter les malédictions enchaînées, les hoquetements des mourants, le bruit d'un qu'on jette à la mer… les abois d'une femme en gésine… farfouillis de vermine parmi des lassitudes… 
+- {:.pr} J'entends de la cale monter les malédictions enchaînées, les hoquetements des mourants, le bruit d'un qu'on jette à la mer… les abois d'une femme en gésine… farfouillis de vermine parmi des lassitudes… 
 
-- Rien ne put nous insurger jamais vers quelque noble aventure désespérée.
+- {:.pr} Rien ne put nous insurger jamais vers quelque noble aventure désespérée.
 - Ainsi soit-il. Ainsi soit-il.
-- Je ne suis d'aucune nationalité prévue par les chancelleries
+- {:.pr} Je ne suis d'aucune nationalité prévue par les chancelleries
 - Je défie le craniomètre . Homo sum etc.
 - Et qu'ils servent et trahissent et meurent
 - Ainsi soit-il. Ainsi soit-il. C'était écrit dans la forme de leur bassin.
+
+-- 20 --
 
 - Et moi, et moi,
 - moi qui chantai le poing dur
 - Il faut savoir jusqu'où je poussai la lâcheté.
 - Un soir dans un tramway en face de moi, un nègre.
-- C'était un nègre grand comme un pongon qui essayait de se faire tout petit sur un banc de tramway. Il essayait d'abandonner sur ce banc crasseux de tramway ses jambes gigantesques et ses mains tremblantes de boxeur affamé. Et tout l'avait laissé, le laissait. Son nez qui semblait une péninsule en dérade et sa négritude même qui se décolorait sous l'action d'une inlassable mégie. Et le mégissier était là Misère. Un gros oreillard subit dont les coups de griffes sur ce visage s'étaient cicatrisés en îlots scabieux. Ou plutôt, c'était un ouvrier infatigable, la Misère travaillant à quelque cartouche hideux. On voyait très bien comment le pouce industrieux et malveillant avait modelé le front en bosse, percé le nez de deux tunnels parallèles et inquiétants, allongé la démesure de la lippe, et par un chef d'œuvre caricatural, raboté, poli, verni la plus minuscule mignonne petite oreille de la création.
-- C'était un nègre dégingandé sans rythme ni mesure.
-- Un nègre à la voix embrumée d'alcool et de misère.
+- {:.pr.i} C'était un nègre grand comme un pongon qui essayait de se faire tout petit sur un banc de tramway. Il essayait d'abandonner sur ce banc crasseux de tramway ses jambes gigantesques et ses mains tremblantes de boxeur affamé. Et tout l'avait laissé, le laissait. Son nez qui semblait une péninsule en dérade et sa négritude même qui se décolorait sous l'action d'une inlassable mégie. Et le mégissier était là Misère. Un gros oreillard subit dont les coups de griffes sur ce visage s'étaient cicatrisés en îlots scabieux. Ou plutôt, c'était un ouvrier infatigable, la Misère travaillant à quelque cartouche hideux. On voyait très bien comment le pouce industrieux et malveillant avait modelé le front en bosse, percé le nez de deux tunnels parallèles et inquiétants, allongé la démesure de la lippe, et par un chef d'œuvre caricatural, raboté, poli, verni la plus minuscule mignonne petite oreille de la création.
+- {:.pr.i} C'était un nègre dégingandé sans rythme ni mesure.
+- {:.pr.i} Un nègre à la voix embrumée d'alcool et de misère.
 - Un nègre dont les yeux roulaient une lassitude sanguinolente.
-- Un nègre sans pudeur et ses orteils ricanaient de façon assez puante au fond de la tanière entrebâillée de ses souliers.
-- La Misère, on ne pouvait pas dire, s'était donné un mal fou pour l'achever.
-- Elle avait creusé l'orbite, l'avait fardée d'un fard de poussière et de chassie mêlées.
-- {:.pr} Elle avait tendu l'espace vide entre l'accrochement solide des mâchoires et les pommettes d'une vieille joue décatie. Elle avait planté dessus les petits pieux luisants d'une barbe de plusieurs jours. Elle avait affolé le cœur, voûté le dos.<br>Et l'ensemble faisait parfaitement un nègre hideux, un nègre grognon, un nègre mélancolique, un nègre affalé, ses mains réunies en prière sur un bâton noueux. Un nègre enseveli dans une vieille veste élimée. Un nègre comique et laid et des femmes derrière moi ricanaient en le regardant.
-- Moi je me tournai, mes yeux proclamant que je n'avais rien de commun avec ce singe.
-- Il était COMIQUE ET LAID,
-- COMIQUE ET LAID pour sûr.
-- J'arborai un grand sourire complice…
-- Ma lâcheté retrouvée !
-- Je salue les trois siècles qui soutiennent mes droits civiques et mon sang minimisé.
+- {:.pr.i} Un nègre sans pudeur et ses orteils ricanaient de façon assez puante au fond de la tanière entrebâillée de ses souliers.
+
+-- 21 --
+
+- {:.pr.i} La Misère, on ne pouvait pas dire, s'était donné un mal fou pour l'achever.
+- {:.pr.i} Elle avait creusé l'orbite, l'avait fardée d'un fard de poussière et de chassie mêlées.
+- {:.pr.i} Elle avait tendu l'espace vide entre l'accrochement solide des mâchoires et les pommettes d'une vieille joue décatie. Elle avait planté dessus les petits pieux luisants d'une barbe de plusieurs jours. Elle avait affolé le cœur, voûté le dos.
+- {:.pr.i} Et l'ensemble faisait parfaitement un nègre hideux, un nègre grognon, un nègre mélancolique, un nègre affalé, ses mains réunies en prière sur un bâton noueux. Un nègre enseveli dans une vieille veste élimée. Un nègre comique et laid et des femmes derrière moi ricanaient en le regardant.
+- {:.i} Moi je me tournai, mes yeux proclamant que je n'avais rien de commun avec ce singe.
+- {:.i} Il était COMIQUE ET LAID,
+- {:.i} COMIQUE ET LAID pour sûr.
+- {:.i} J'arborai un grand sourire complice…
+- {:.i} Ma lâcheté retrouvée !
+- {:.pr} Je salue les trois siècles qui soutiennent mes droits civiques et mon sang minimisé.
 - Mon héroïsme, quelle farce !
 - Cette ville est à ma taille.
 - Et mon âme est couchée. Comme cette ville dans la crasse et dans la boue couchée.
 - Cette ville, ma face de boue.
 - L'eau du baptême sur mon front se sèche.
+
+-- 22 --
+
 - Je réclame pour ma face la louange éclatante du crachat !…
-- Alors, nous étant tels, à nous l'élan viril, le genou vainqueur, les plaines à grosses mottes de l'avenir !
-- Tiens, je préfère avouer que j'ai généreusement déliré, mon cœur dans ma cervelle ainsi qu'un genou ivre.
+
+- {:.pr} Alors, nous étant tels, à nous l'élan viril, le genou vainqueur, les plaines à grosses mottes de l'avenir !
+- {:.pr} Tiens, je préfère avouer que j'ai généreusement déliré, mon cœur dans ma cervelle ainsi qu'un genou ivre.
+
 - Mon étoile maintenant, le menfenil funèbre.
+
 - Et sur ce rêve ancien mes cruautés cannibales
 - Les balles sont dans la bouche salive épaisse
 - Notre cœur de quotidienne bassesse éclate
@@ -311,18 +333,21 @@ dans ses actes.
 - des terres sautent suivant la division fatale des fleuves
 - et le morne qui depuis des siècles retient son cri au dedans de lui-même, c'est lui qui à son tour écartèle le silence
 - et ce peuple vaillance rebondissante !
-
 - et nos membres vainement disjoints par les plus raffinés supplices, et la vie plus impétueuse jaillissant de ce fumier---comme le corrossollier imprévu de la décomposition des fruits du jacquier !
+
 - Sur ce rêve vieux en moi mes cruautés cannibales
 
 - Je me cachais derrière une vanité stupide
 - le destin m'appelait j'étais caché derrière
 - et voici l'homme par terre ! Sa très fragile défense dispersée,
-- Ses maximes sacrées foulées aux pieds, ses déclamations pédantesques rendant du vent par chaque blessure.
 
+-- 23 --
+
+- Ses maximes sacrées foulées aux pieds, ses déclamations pédantesques rendant du vent par chaque blessure.
 - Voici l'homme par terre.
 - et son âme est comme nue
 - et le destin triomphe qui contemple se muer en l'ancestral bourbier cette âme qui le défiait.
+
 - Je dis que cela est bien ainsi.
 - Mon dos exploitera victorieusement la chalasie des fibres.
 - Je pavoiserai de reconnaissance mon obséquiosité naturelle.
@@ -331,7 +356,9 @@ dans ses actes.
 - Je dis que cela est bien ainsi.
 - Je vis pour le plus plat de mon âme. Pour le plus terne de ma chair !
 
-- Tiède petit matin de chaleur et de peur ancestrales
+-- 23 bis --
+
+- {:.pr.i} Tiède petit matin de chaleur et de peur ancestrales 
 - je tremble maintenant du commun tremblement
 - que notre sang docile chante dans le madrépore.
 
@@ -349,13 +376,18 @@ dans ses actes.
 - tam-tams inanes de plaies sonores
 - tam-tams burlesques de trahison tabide
 
-- Tiède petit matin de chaleurs et de peurs ancestrales
+- {:.pr.i} Tiède petit matin de chaleurs et de peurs ancestrales
+
+-- 24 --
+
 - par dessus bord mes richesses pérégrines 
 - par dessus bord mes faussetés authentiques
 
 - Mais quel étrange orgueil tout soudain m'illumine ?
-- lumière amicale
-- fraîche source de la lumière
+
+- O lumière amicale
+- O fraîche source de la lumière
+
 - ceux qui n'ont inventé ni la poudre ni la boussole
 - ceux qui n'ont jamais su dompter la vapeur ni l'électricité
 - ceux qui n'ont exploré ni les mers ni le ciel
@@ -372,9 +404,13 @@ dans ses actes.
 - elle troue l'accablement opaque de sa droite patience.
 
 - Eia pour le kaïlcédrat royal !
+
+-- 25 --
+
 - Eia pour ceux qui n'ont jamais rien inventé
 - pour ceux qui n'ont jamais rien exploré
 - pour ceux qui n'ont jamais rien dompté
+
 - mais ils s'abandonnent, saisis, à l'essence de toutes choses
 - ignorants des surfaces mais saisis par le mouvement de toutes choses
 - insoucieux de dompter, mais jouant le jeu du monde
@@ -383,31 +419,39 @@ dans ses actes.
 - lit sans drain de toutes les eaux du monde
 - étincelle du feu sacré du monde
 - chair de la chair du monde palpitant du mouvement même du monde !
+
 - Tiède petit matin de vertus ancestrales
 - Sang ! Sang ! tout notre sang ému par le cœur mâle du soleil
 
 - ceux qui savent la féminité de la lune au corps d'huile
 - l'exaltation réconciliée de l'antilope et de l'étoile
 - ceux dont la survie chemine en la germination de l'herbe !
+
 - Eia parfait cercle du monde et close concordance !
 
 - Écoutez le monde blanc
 - horriblement las de son effort immense
-- ses articulations rebelles craquer sous les étoiles dures
+
+-- 26 --
+
+- {:.pr} ses articulations rebelles craquer sous les étoiles dures
 - ses raideurs d'acier bleu transperçant la chair mystique
 - écoute ses victoires proditoires trompeter ses défaites
 - écoute aux alibis grandioses son piètre trébuchement
+
 - Pitié pour nos vainqueurs omniscients et naïfs !
 
 - Eia pour ceux qui n'ont jamais rien inventé
 - pour ceux qui n'ont jamais rien exploré
 - pour ceux qui n'ont jamais rien dompté
+
 - Eia pour la joie
 - Eia pour l'amour
 - Eia pour la douleur aux pis de larmes réincarnées
 
-- Et voici au bout de ce petit matinma prière virile
-- que je n'entende ni les rires ni les cris, les yeux fixés sur cette ville que je prophétise, belle,
+- {:.i} Et voici au bout de ce petit matinma prière virile
+- que je n'entende ni les rires ni les cris, les yeux fixés 
+- sur cette ville que je prophétise, belle,
 
 - donnez-moi le courage du martyr
 - donnez-moi la foi sauvage du sorcier
@@ -417,6 +461,9 @@ dans ses actes.
 - et de moi-même, mon cœur, ne faites ni un père, ni un frère,
 - ni un fils, mais le père, mais le frère, mais le fils,
 - ni un mari, mais l'amant de cet unique peuple.
+
+-- 27 --
+
 - Faites-moi rebelle à toute vanité, mais docile à son génie
 - comme le poing à l'allongée du bras !
 - Faites-moi commissaire de son sang
@@ -425,7 +472,9 @@ dans ses actes.
 - faites de moi un homme d'initiation
 - faites de moi un homme de recueillement
 - mais faites aussi de moi un homme d'ensemencement
+
 - faites de moi l'exécuteur de ces œuvres hautes
+
 - voici le temps de se ceindre les reins comme un vaillant homme.
 
 -  Mais les faisant, mon cœur, préservez-moi de toute haine
@@ -437,9 +486,13 @@ dans ses actes.
 - que ce que ce que je veux
 - c'est pour la faim universelle
 - pour la soif universelle
+
 - la sommer libre enfin 
+
 - de produire de son intimité close
 - la succulence de fruits.
+
+-- 28 --
 
 -  Et voyez l'arbre de nos mains !
 - il tourne pour tous, les blessures incises en son tronc
@@ -456,14 +509,19 @@ dans ses actes.
 - et sa vigueur marine.
 
 - La voici avancer par escalades et retombées sur le flot pulvérisé
+
+-- 29 --
+
 - la voici danser la danse sacrée devant la grisaille du bourg
 - la voici barrir d'un lambi vertigineux
 - voici galoper le lambi jusqu'à l'indécision des mornes
-- et voici par vingt fois d'un labour vigoureux la pagaie forcer l'eau
+- et voici par vingt fois d'un labour vigoureux la pagaie 
+- forcer l'eau
 - la pirogue se cabre sous l'assaut de la lame, dévie un instant, tente de fuir, mais la caresse rude de la pagaie la vire, alors elle fonce, un frémissement parcourt l'échine de la vague, la mer bave et gronde
 - la pirogue comme un traîneau file sur le sable.
 
-- Au bout de ce petit matin, ma prière virile : 
+- {:.pr.i} Au bout de ce petit matin, ma prière virile : 
+
 - donnez-moi les muscles de cette pirogue sur la mer démontée
 - et l'allégresse convaincante du lambi de la bonne nouvelle !
 
@@ -471,15 +529,18 @@ dans ses actes.
 - je ne suis plus qu'un homme qui accepte n'ayant plus de colère
 - (il n'a plus dans le cœur que de l'amour immense)
 
-- j'accepte… entièrement, sans réserve…
+- J'accepte… j'accepte… entièrement, sans réserve…
+
 - ma race qu'aucune ablution d'hysope et de lys mêlés ne pourrait purifier
 - ma race rongée de macules
 - ma race raisin mûr pour pieds ivres
 - ma reine des crachats et des lèpres
+
+-- 30 --
+
 - ma reine des fouets et des scrofules
 - ma reine des squasmes et des chloasmes (oh ces reines que j'aimais jadis aux jardins printaniers et lointains avec derrière l'illumination de toutes les bougies de marronniers !).
 - J'accepte. J'accepte.
-
 - et le nègre fustigé qui dit : « Pardon mon maître »
 - et les vingt-neuf coups de fouet légal
 - et le cachot de quatre pieds de haut
@@ -491,7 +552,6 @@ dans ses actes.
 - et Monsieur de FOURNIOL
 - et Monsieur de la MAHAUDIÈRE
 - et le pian
-
 - le molosse
 - le suicide
 - la promiscuité
@@ -501,15 +561,23 @@ dans ses actes.
 - la cippe
 - le frontal
 
+-- 31 --
+
 - {:.pr} Et mon originale géographie aussi ; la carte du monde faite à mon usage, non pas teinte aux arbitraires couleurs des savants, mais à la géométrie de mon sang répandu
+
 - {:.pr} et la détermination de ma biologie, non prisonnière d'un angle facial, d'une forme de cheveux, d'un nez suffisamment aplati, d'un teint suffisamment mélanien, et la négritude, non plus un indice céphalique, ou un plasma, ou un soma, mais mesurée au compas de la souffrance
-- {:.pr} et le nègre chaque jour plus bas, plus lâche, plus stérile, moins profond, plus répandu au dehors, plus séparé de soi-même, plus rusé avec soi-même, moins immédiat avec soi-même<br>j'accepte, j'accepte tout cela
 
-- {:.pr} et loin de la mer de palais qui déferle sous la syzygie suppurante des ampoules, merveilleusement couché le corps de mon pays dans le désespoir de mes bras, ses os ébranlés et dans ses veines, le sang qui hésite comme la goutte de lait végétal à la pointe blessée du bulbe… Et voici soudain que force et vie m'assaillent comme un taureau et je renouvelle ONAN qui confia son sperme à la terre féconde et l'onde de vie circonvient la papille du morne, et voilà toutes les veines et veinules qui s'affairent
-au sang neuf et l'énorme poumon des cyclones qui respire et le feu thésaurisé des volcans et le gigantesque pouls sismique qui bat maintenant la mesure d'un corps vivant en mon ferme embrassement.
+- {:.pr} et le nègre chaque jour plus bas, plus lâche, plus stérile, moins profond, plus répandu au dehors, plus séparé de soi-même, plus rusé avec soi-même, moins immédiat avec soi-même
 
-- {:.pr} Et nous sommes debout maintenant, mon pays et moi, les cheveux dans levent, ma main petite maintenant dans son poing énorme et la force n'est pas en nous, mais au dessus de nous, dans une voix qui vrille la nuit et l'audience comme la pénétrance d'une guêpe apocalyptique.
+- j'accepte, j'accepte tout cela
 
+- {:.pr} et loin de la mer de palais qui déferle sous la syzygie suppurante des ampoules, merveilleusement couché le corps de mon pays dans le désespoir de mes bras, ses os ébranlés et dans ses veines, le sang qui hésite comme la goutte de lait végétal à la pointe blessée du bulbe… Et voici soudain que force et vie m'assaillent comme un taureau et je renouvelle ONAN qui confia son sperme à la terre féconde et l'onde de vie circonvient la papille du morne, et voilà toutes les veines et veinules qui s'affairent au sang neuf et l'énorme poumon des cyclones qui respire et le feu thésaurisé des
+
+-- 32 --
+
+volcans et le gigantesque pouls sismique qui bat maintenant la mesure d'un corps vivant en mon ferme embrassement.
+
+- {:.pr} Et nous sommes debout maintenant, mon pays et moi, les cheveux dans le vent, ma main petite maintenant dans son poing énorme et la force n'est pas en nous, mais au dessus de nous, dans une voix qui vrille la nuit et l'audience comme la pénétrance d'une guêpe apocalyptique.
 - {:.pr} Et la voix prononce que l'Europe nous a pendant des siècles, gavés de mensonges et gonflés de pestilences,
 - car il n'est point vrai que l'œuvre de l'homme est finie
 - que nous n'avons rien à faire au monde
@@ -517,15 +585,22 @@ au sang neuf et l'énorme poumon des cyclones qui respire et le feu thésaurisé
 - qu'il suffit que nous nous mettions au pas du monde
 
 - mais l'œuvre de l'homme vient seulement de commencer
+
 - et il reste à l'homme de conquérir toute interdiction immobilisée aux coins de sa ferveur
 - et aucune race ne possède le monopole de la beauté, de l'intelligence, de la force
 - {:.pr} et il est place pour tous au rendez-vous de la conquête et nous savons maintenant que le soleil tourne autour de notre terre éclairant la parcelle qu'a fixée notre volonté seule et que toute étoile chute de ciel en terre à notre commandement sans limite.
 
-- {:.pr} Je tiens maintenant le sens de l'ordalie : mon pays est la « lance de nuit » de mes ancêtres Bambaras. <br>Elle se ratatine et sa pointe fuit désespérément vers le manche si c'est de sang de poulet qu'on l'arrose et elle dit que c'est du sang d'homme qu'il faut à son tempérament, de la graisse, du foie, du cœur d'homme, non du sang de poulet. <br>Et je cherche pour mon pays non des cœurs de datte, mais des cœurs d'homme  entrer aux villes d'argent par la grand'porte trapézoïdale, qu'ils battent le sang viril, <br>et mes yeux balayent mes kilomètres carrés de terre paternelle <br>et je dénombre les plaies avec une sorte d'allégresse comme  et je les entasse l'une sur l'autre comme rares espèces, et mon compte s'allonge toujours d'imprévus monnayages de la bassesse.
+-- 33 --
 
+- {:.pr} Je tiens maintenant le sens de l'ordalie : mon pays est la « lance de nuit » de mes ancêtres Bambaras. Elle se ratatine et sa pointe fuit désespérément vers le manche si c'est de sang de poulet qu'on l'arrose et elle dit que c'est du sang d'homme qu'il faut à son tempérament, de la graisse, du foie, du cœur d'homme, non du sang de poulet. 
+- {:.pr} Et je cherche pour mon pays non des cœurs de datte, mais des cœurs d'homme  entrer aux villes d'argent par la grand'porte trapézoïdale, qu'ils battent le sang viril, et mes yeux balayent mes kilomètres carrés de terre paternelle et je dénombre les plaies avec une sorte d'allégresse comme  et je les entasse l'une sur l'autre comme rares espèces, et mon compte s'allonge toujours d'imprévus monnayages de la bassesse.
 - {:.pr} Et voici ceux qui ne se consolent point de n'être pas faits à la ressemblance de Dieu mais du diable, ceux qui considèrent que l'on est nègre comme commis de seconde classe : en attendant mieux et avec possibilité de monter plus haut ; ceux qui battent la chamade devant soi-même, ceux qui vivent dans un cul de basse fosse de soi-même ; ceux qui se drapent de pseudomorphose fière ; ceux qui disent à l'Europe : « Voyez, je sais comme vous faire des courbettes, comme vous présenter mes hommages, en somme, je ne suis pas différent de vous ; ne faites pas attention
 à ma peau noire : c'est le soleil qui m'a brûlé ».
+
+-- 34 --
+
 - Et il y a le maquereau nègre, l'askari nègre, et tous zèbres se secouent à leur manière pour faire tomber leurs zébrures en une rosée de lait frais.
+
 - Et au milieu de tout cela je dis hurrah ! mon grand-père meurt, je dis hurrah !
 - la vieille négritude progressivement se cadavérise.
 - Il n'y a pas à dire : c'était un bon nègre.
@@ -533,17 +608,35 @@ au sang neuf et l'énorme poumon des cyclones qui respire et le feu thésaurisé
 - Je dis hurrah !
 - C'était un très bon nègre
 - {:.pr} la misère lui avait blessé poitrine et dos et on avait fourré dans sa pauvre cervelle qu'une fatalité pesait sur lui qu'on ne prend pas au collet ; qu'il n'avait pas puissance sur son propre destin ; qu'un Seigneur méchant avait de toute éternité écrit des lois d'interdiction en sa nature pelvienne ; et d'être le bon nègre ; de se contenter honnêtement d'être le bon nègre ; de croire honnêtement à son indignité, sans curiosité perverse devérifier jamais les hiéroglyphes fatidiques.
+
 - C'était un très bon nègre
+
 - et il ne lui venait pas à l'idée qu'il pourrait houer, fouir, couper tout, tout autre chose vraiment que la canne insipide
 
-- C'était un très bon nègre. 
+-- 35 --
+
+- C'était un très bon nègre.
+
 - {:.pr} Et on lui jetait des pierres, des bouts de ferraille, des tessons de bouteille, mais ni ces pierres, ni cette ferraille, ni ces bouteilles…
 - quiètes années de Dieu sur cette motte terraquée !
+
 - Et le fouet disputa au bombillement des mouches la rosée sucrée de nos plaies
 
-- {:.pr} Je dis hurrah ! La vieille négritude progressivement se cadavérise <br>l'horizon se défait, recule et s'élargit <br>et voici parmi des déchirements de nuages la fulgurance d'un signe <br>le négrier craque de toute part… Son ventre se convulse et résonne… L'affreux ténia de sa cargaison ronge les boyaux fétides de l'étrange nourrisson des mers ! <br>Et ni l'allégresse des voiles gonflées comme une poche de doublons rebondie, ni les tours joués à la sottise dangereuse des frégates policières ne l'empêchent d'entendre la menace de ses grondements intestins. <br>En vain pour s'en distraire le capitaine pend à sa grand'vergue le nègre le plus braillard ou le jette à la mer, ou le livre à l'appétit de ses molosses <br>La négraille aux senteurs d'oignon frit retrouve dans son sang répandu le goût amer de la liberté
+- {:.pr} Je dis hurrah ! La vieille négritude progressivement se cadavérise 
+- l'horizon se défait, recule et s'élargit 
+- et voici parmi des déchirements de nuages la fulgurance d'un signe 
+- le négrier craque de toute part… Son ventre se convulse et résonne… L'affreux ténia de sa cargaison ronge les boyaux fétides de l'étrange nourrisson des mers ! 
+
+- {:.pr} Et ni l'allégresse des voiles gonflées comme une poche de doublons rebondie, ni les tours joués à la sottise dangereuse des frégates policières ne l'empêchent d'entendre la menace de ses grondements intestins. 
+
+- {:.pr} En vain pour s'en distraire le capitaine pend à sa grand'vergue le nègre le plus braillard ou le jette à la mer, ou le livre à l'appétit de ses molosses 
+
+-- 36 --
+
+- {:.pr} La négraille aux senteurs d'oignon frit retrouve dans son sang répandu le goût amer de la liberté
 
 - Et elle est debout la négraille
+
 - la négraille assise
 - inattendument debout
 - debout dans la cale
@@ -552,9 +645,10 @@ au sang neuf et l'énorme poumon des cyclones qui respire et le feu thésaurisé
 - debout dans le vent
 - debout sous le soleil
 - debout dans le sang
-- debout
-- {:.i3} et
-- {:.i4} libre
+- {:.i3} debout
+- {:.i6} et
+- {:.i7} libre
+
 - debout et non point pauvre folle dans sa liberté et son dénuement maritimes girant en la dérive parfaite
 - et la voici :
 - plus inattendument debout
@@ -563,12 +657,17 @@ au sang neuf et l'énorme poumon des cyclones qui respire et le feu thésaurisé
 - debout à la boussole
 - debout à la carte
 
+-- 37 --
+
 - debout sous les étoiles
-- debout
-- {:.i3} et
-- {:.i4} libre
+- {:.i3} debout
+- {:.i6} et
+- {:.i7} libre
+
 - et le navire lustral s'avancer impavide sur les eaux écroulées.
+
 - Et maintenant tombent et maintenant pourrissent nos flocs d'ignominie
+
 - à moi mes danses
 - mes danses de mauvais nègre
 - la danse brise-carcan
@@ -580,14 +679,17 @@ au sang neuf et l'énorme poumon des cyclones qui respire et le feu thésaurisé
 - pose-toi sur mes doigts mesurés
 - Je te livre ma conscience et son rythme de chair
 - Je te livre les feux où brasille ma faiblesse
+
+-- 38 --
+
 - Je te livre le chain-gang
 - Je te livre le marais
 - Je te livre l'in-tourist du circuit triangulaire
 - Dévore vent
 - Je te livre mes paroles abruptes
 - Dévore et enroule-toi
-
 - Et t'enroulant embrasse-moi d'un plus vaste frisson
+
 - Embrasse-moi jusqu'au nous furieux
 - Embrasse, embrasse NOUS
 - Mais nous ayant également mordus !
@@ -597,9 +699,11 @@ au sang neuf et l'énorme poumon des cyclones qui respire et le feu thésaurisé
 - Comme un champ de justes filaos
 - le soir
 - nos multicolores puretés.
-
 - Et lie, lie-moi sans remords
 - lie-moi de tes vastes bras à l'argile lumineuse
+
+-- 39 --
+
 - lie ma noire vibration au nombril même du monde
 - Lie, lie-moi, fraternité âpre
 - Puis, m'étranglant de ton lasso d'étoiles
