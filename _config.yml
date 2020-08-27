@@ -40,13 +40,14 @@ collections:
     output: true
   texts:
     output: true
-  chiens: # name of collection
+  cahier: # name of collection
     output: true # makes sure pages are output as html files
     # layout: 'item' # the layout for the pages to use
+    layout: 'item'
     metadata:
-      source: 'chiens.csv' # path to the metadata file within `_data`
+      source: 'cahier.csv' # path to the metadata file within `_data`
     images:
-      source: 'raw_images/chiens' # path to the directory of images within `_data`
+      source: 'cahier' # path to the directory of images within `_data`
 
 
 # Markdown specs
@@ -73,7 +74,7 @@ search:
   main:
     index: '/search/index.json' # file the index will get written to
     collections:
-      chiens:
+      cahier:
         content: true # whether or not to index page content
         fields: # the metadata fields to index
           - content

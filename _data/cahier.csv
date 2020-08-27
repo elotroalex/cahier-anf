@@ -1,45 +1,45 @@
-pid,label,,,,,,,,,,,,,,,,,,,,,,,,,,,
-letter,Cover letter,,,,,,,,,,,,,,,,,,,,,,,,,,,
-ms00,Title page,,,,,,,,,,,,,,,,,,,,,,,,,,,
-ms01,Page 1,,,,,,,,,,,,,,,,,,,,,,,,,,,
-ms02,Page 2,,,,,,,,,,,,,,,,,,,,,,,,,,,
-ms03,Page 3,,,,,,,,,,,,,,,,,,,,,,,,,,,
-ms04,Page 4,,,,,,,,,,,,,,,,,,,,,,,,,,,
-ms05,Page 5,,,,,,,,,,,,,,,,,,,,,,,,,,,
-ms06,Page 6,,,,,,,,,,,,,,,,,,,,,,,,,,,
-ms07,Page 7,,,,,,,,,,,,,,,,,,,,,,,,,,,
-ms08,Page 8,,,,,,,,,,,,,,,,,,,,,,,,,,,
-ms09,Page 9,,,,,,,,,,,,,,,,,,,,,,,,,,,
-ms10,Page 10,,,,,,,,,,,,,,,,,,,,,,,,,,,
-ms11,Page 11,,,,,,,,,,,,,,,,,,,,,,,,,,,
-ms12,Page 12,,,,,,,,,,,,,,,,,,,,,,,,,,,
-ms13,Page 13,,,,,,,,,,,,,,,,,,,,,,,,,,,
-ms14,Page 14,,,,,,,,,,,,,,,,,,,,,,,,,,,
-ms15,Page 15,,,,,,,,,,,,,,,,,,,,,,,,,,,
-ms16,Page 16,,,,,,,,,,,,,,,,,,,,,,,,,,,
-ms16bis,Page 16 bis,,,,,,,,,,,,,,,,,,,,,,,,,,,
-ms17,Page 17,,,,,,,,,,,,,,,,,,,,,,,,,,,
-ms17bis,Page 17 bis,,,,,,,,,,,,,,,,,,,,,,,,,,,
-ms18,Page 18,,,,,,,,,,,,,,,,,,,,,,,,,,,
-ms19,Page 19,,,,,,,,,,,,,,,,,,,,,,,,,,,
-ms20,Page 20,,,,,,,,,,,,,,,,,,,,,,,,,,,
-ms21,Page 21,,,,,,,,,,,,,,,,,,,,,,,,,,,
-ms22,Page 22,,,,,,,,,,,,,,,,,,,,,,,,,,,
-ms23,Page 23,,,,,,,,,,,,,,,,,,,,,,,,,,,
-ms23bis,Page 23 bis,,,,,,,,,,,,,,,,,,,,,,,,,,,
-ms24,Page 24,,,,,,,,,,,,,,,,,,,,,,,,,,,
-ms25,Page 25,,,,,,,,,,,,,,,,,,,,,,,,,,,
-ms26,Page 26,,,,,,,,,,,,,,,,,,,,,,,,,,,
-ms27,Page 27,,,,,,,,,,,,,,,,,,,,,,,,,,,
-ms28,Page 28,,,,,,,,,,,,,,,,,,,,,,,,,,,
-ms29,Page 29,,,,,,,,,,,,,,,,,,,,,,,,,,,
-ms30,Page 30,,,,,,,,,,,,,,,,,,,,,,,,,,,
-ms31,Page 31,,,,,,,,,,,,,,,,,,,,,,,,,,,
-ms32,Page 32,,,,,,,,,,,,,,,,,,,,,,,,,,,
-ms33,Page 33,,,,,,,,,,,,,,,,,,,,,,,,,,,
-ms34,Page 34,,,,,,,,,,,,,,,,,,,,,,,,,,,
-ms35,Page 35,,,,,,,,,,,,,,,,,,,,,,,,,,,
-ms36,Page 36,,,,,,,,,,,,,,,,,,,,,,,,,,,
-ms37,Page 37,,,,,,,,,,,,,,,,,,,,,,,,,,,
-ms38,Page 38,,,,,,,,,,,,,,,,,,,,,,,,,,,
-ms39,Page 39,,,,,,,,,,,,,,,,,,,,,,,,,,,
+pid,label,order,collection,layout,thumbnail,full,manifest
+letter,Cover letter,0,cahier,item,"/img/derivatives/iiif/images/letter/full/250,/0/default.jpg",/img/derivatives/iiif/images/letter/full/full/0/default.jpg,/img/derivatives/iiif/letter/manifest.json
+ms00,Title page,1,cahier,item,"/img/derivatives/iiif/images/ms00/full/250,/0/default.jpg",/img/derivatives/iiif/images/ms00/full/full/0/default.jpg,/img/derivatives/iiif/ms00/manifest.json
+ms09,Page 9,10,cahier,item,"/img/derivatives/iiif/images/ms09/full/250,/0/default.jpg",/img/derivatives/iiif/images/ms09/full/full/0/default.jpg,/img/derivatives/iiif/ms09/manifest.json
+ms10,Page 10,11,cahier,item,"/img/derivatives/iiif/images/ms10/full/250,/0/default.jpg",/img/derivatives/iiif/images/ms10/full/full/0/default.jpg,/img/derivatives/iiif/ms10/manifest.json
+ms11,Page 11,12,cahier,item,"/img/derivatives/iiif/images/ms11/full/250,/0/default.jpg",/img/derivatives/iiif/images/ms11/full/full/0/default.jpg,/img/derivatives/iiif/ms11/manifest.json
+ms12,Page 12,13,cahier,item,"/img/derivatives/iiif/images/ms12/full/250,/0/default.jpg",/img/derivatives/iiif/images/ms12/full/full/0/default.jpg,/img/derivatives/iiif/ms12/manifest.json
+ms13,Page 13,14,cahier,item,"/img/derivatives/iiif/images/ms13/full/250,/0/default.jpg",/img/derivatives/iiif/images/ms13/full/full/0/default.jpg,/img/derivatives/iiif/ms13/manifest.json
+ms14,Page 14,15,cahier,item,"/img/derivatives/iiif/images/ms14/full/250,/0/default.jpg",/img/derivatives/iiif/images/ms14/full/full/0/default.jpg,/img/derivatives/iiif/ms14/manifest.json
+ms15,Page 15,16,cahier,item,"/img/derivatives/iiif/images/ms15/full/250,/0/default.jpg",/img/derivatives/iiif/images/ms15/full/full/0/default.jpg,/img/derivatives/iiif/ms15/manifest.json
+ms16,Page 16,17,cahier,item,"/img/derivatives/iiif/images/ms16/full/250,/0/default.jpg",/img/derivatives/iiif/images/ms16/full/full/0/default.jpg,/img/derivatives/iiif/ms16/manifest.json
+ms16bis,Page 16 bis,18,cahier,item,"/img/derivatives/iiif/images/ms16bis/full/250,/0/default.jpg",/img/derivatives/iiif/images/ms16bis/full/full/0/default.jpg,/img/derivatives/iiif/ms16bis/manifest.json
+ms17,Page 17,19,cahier,item,"/img/derivatives/iiif/images/ms17/full/250,/0/default.jpg",/img/derivatives/iiif/images/ms17/full/full/0/default.jpg,/img/derivatives/iiif/ms17/manifest.json
+ms01,Page 1,2,cahier,item,"/img/derivatives/iiif/images/ms01/full/250,/0/default.jpg",/img/derivatives/iiif/images/ms01/full/full/0/default.jpg,/img/derivatives/iiif/ms01/manifest.json
+ms17bis,Page 17 bis,20,cahier,item,"/img/derivatives/iiif/images/ms17bis/full/250,/0/default.jpg",/img/derivatives/iiif/images/ms17bis/full/full/0/default.jpg,/img/derivatives/iiif/ms17bis/manifest.json
+ms18,Page 18,21,cahier,item,"/img/derivatives/iiif/images/ms18/full/250,/0/default.jpg",/img/derivatives/iiif/images/ms18/full/full/0/default.jpg,/img/derivatives/iiif/ms18/manifest.json
+ms19,Page 19,22,cahier,item,"/img/derivatives/iiif/images/ms19/full/250,/0/default.jpg",/img/derivatives/iiif/images/ms19/full/full/0/default.jpg,/img/derivatives/iiif/ms19/manifest.json
+ms20,Page 20,23,cahier,item,"/img/derivatives/iiif/images/ms20/full/250,/0/default.jpg",/img/derivatives/iiif/images/ms20/full/full/0/default.jpg,/img/derivatives/iiif/ms20/manifest.json
+ms21,Page 21,24,cahier,item,"/img/derivatives/iiif/images/ms21/full/250,/0/default.jpg",/img/derivatives/iiif/images/ms21/full/full/0/default.jpg,/img/derivatives/iiif/ms21/manifest.json
+ms22,Page 22,25,cahier,item,"/img/derivatives/iiif/images/ms22/full/250,/0/default.jpg",/img/derivatives/iiif/images/ms22/full/full/0/default.jpg,/img/derivatives/iiif/ms22/manifest.json
+ms23,Page 23,26,cahier,item,"/img/derivatives/iiif/images/ms23/full/250,/0/default.jpg",/img/derivatives/iiif/images/ms23/full/full/0/default.jpg,/img/derivatives/iiif/ms23/manifest.json
+ms23bis,Page 23 bis,27,cahier,item,"/img/derivatives/iiif/images/ms23bis/full/250,/0/default.jpg",/img/derivatives/iiif/images/ms23bis/full/full/0/default.jpg,/img/derivatives/iiif/ms23bis/manifest.json
+ms24,Page 24,28,cahier,item,"/img/derivatives/iiif/images/ms24/full/250,/0/default.jpg",/img/derivatives/iiif/images/ms24/full/full/0/default.jpg,/img/derivatives/iiif/ms24/manifest.json
+ms25,Page 25,29,cahier,item,"/img/derivatives/iiif/images/ms25/full/250,/0/default.jpg",/img/derivatives/iiif/images/ms25/full/full/0/default.jpg,/img/derivatives/iiif/ms25/manifest.json
+ms02,Page 2,3,cahier,item,"/img/derivatives/iiif/images/ms02/full/250,/0/default.jpg",/img/derivatives/iiif/images/ms02/full/full/0/default.jpg,/img/derivatives/iiif/ms02/manifest.json
+ms26,Page 26,30,cahier,item,"/img/derivatives/iiif/images/ms26/full/250,/0/default.jpg",/img/derivatives/iiif/images/ms26/full/full/0/default.jpg,/img/derivatives/iiif/ms26/manifest.json
+ms27,Page 27,31,cahier,item,"/img/derivatives/iiif/images/ms27/full/250,/0/default.jpg",/img/derivatives/iiif/images/ms27/full/full/0/default.jpg,/img/derivatives/iiif/ms27/manifest.json
+ms28,Page 28,32,cahier,item,"/img/derivatives/iiif/images/ms28/full/250,/0/default.jpg",/img/derivatives/iiif/images/ms28/full/full/0/default.jpg,/img/derivatives/iiif/ms28/manifest.json
+ms29,Page 29,33,cahier,item,"/img/derivatives/iiif/images/ms29/full/250,/0/default.jpg",/img/derivatives/iiif/images/ms29/full/full/0/default.jpg,/img/derivatives/iiif/ms29/manifest.json
+ms30,Page 30,34,cahier,item,"/img/derivatives/iiif/images/ms30/full/250,/0/default.jpg",/img/derivatives/iiif/images/ms30/full/full/0/default.jpg,/img/derivatives/iiif/ms30/manifest.json
+ms31,Page 31,35,cahier,item,"/img/derivatives/iiif/images/ms31/full/250,/0/default.jpg",/img/derivatives/iiif/images/ms31/full/full/0/default.jpg,/img/derivatives/iiif/ms31/manifest.json
+ms32,Page 32,36,cahier,item,"/img/derivatives/iiif/images/ms32/full/250,/0/default.jpg",/img/derivatives/iiif/images/ms32/full/full/0/default.jpg,/img/derivatives/iiif/ms32/manifest.json
+ms33,Page 33,37,cahier,item,"/img/derivatives/iiif/images/ms33/full/250,/0/default.jpg",/img/derivatives/iiif/images/ms33/full/full/0/default.jpg,/img/derivatives/iiif/ms33/manifest.json
+ms34,Page 34,38,cahier,item,"/img/derivatives/iiif/images/ms34/full/250,/0/default.jpg",/img/derivatives/iiif/images/ms34/full/full/0/default.jpg,/img/derivatives/iiif/ms34/manifest.json
+ms35,Page 35,39,cahier,item,"/img/derivatives/iiif/images/ms35/full/250,/0/default.jpg",/img/derivatives/iiif/images/ms35/full/full/0/default.jpg,/img/derivatives/iiif/ms35/manifest.json
+ms03,Page 3,4,cahier,item,"/img/derivatives/iiif/images/ms03/full/250,/0/default.jpg",/img/derivatives/iiif/images/ms03/full/full/0/default.jpg,/img/derivatives/iiif/ms03/manifest.json
+ms36,Page 36,40,cahier,item,"/img/derivatives/iiif/images/ms36/full/250,/0/default.jpg",/img/derivatives/iiif/images/ms36/full/full/0/default.jpg,/img/derivatives/iiif/ms36/manifest.json
+ms37,Page 37,41,cahier,item,"/img/derivatives/iiif/images/ms37/full/250,/0/default.jpg",/img/derivatives/iiif/images/ms37/full/full/0/default.jpg,/img/derivatives/iiif/ms37/manifest.json
+ms38,Page 38,42,cahier,item,"/img/derivatives/iiif/images/ms38/full/250,/0/default.jpg",/img/derivatives/iiif/images/ms38/full/full/0/default.jpg,/img/derivatives/iiif/ms38/manifest.json
+ms39,Page 39,43,cahier,item,"/img/derivatives/iiif/images/ms39/full/250,/0/default.jpg",/img/derivatives/iiif/images/ms39/full/full/0/default.jpg,/img/derivatives/iiif/ms39/manifest.json
+ms04,Page 4,5,cahier,item,"/img/derivatives/iiif/images/ms04/full/250,/0/default.jpg",/img/derivatives/iiif/images/ms04/full/full/0/default.jpg,/img/derivatives/iiif/ms04/manifest.json
+ms05,Page 5,6,cahier,item,"/img/derivatives/iiif/images/ms05/full/250,/0/default.jpg",/img/derivatives/iiif/images/ms05/full/full/0/default.jpg,/img/derivatives/iiif/ms05/manifest.json
+ms06,Page 6,7,cahier,item,"/img/derivatives/iiif/images/ms06/full/250,/0/default.jpg",/img/derivatives/iiif/images/ms06/full/full/0/default.jpg,/img/derivatives/iiif/ms06/manifest.json
+ms07,Page 7,8,cahier,item,"/img/derivatives/iiif/images/ms07/full/250,/0/default.jpg",/img/derivatives/iiif/images/ms07/full/full/0/default.jpg,/img/derivatives/iiif/ms07/manifest.json
+ms08,Page 8,9,cahier,item,"/img/derivatives/iiif/images/ms08/full/250,/0/default.jpg",/img/derivatives/iiif/images/ms08/full/full/0/default.jpg,/img/derivatives/iiif/ms08/manifest.json
