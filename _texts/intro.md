@@ -1,11 +1,34 @@
----
-layout: narrative
-title: introduction
-description: "A few notes..." 
-author: Kora Verón
----
+Introduction à [Cahier d'un retour au pays natal]{.smallcaps} 1
 
+Avant le [Cahier]{.smallcaps} 1
 
+juin 1913 -- septembre 1931 1
+
+octobre 1931-- juillet 1935 2
+
+Première version du [Cahier]{.smallcaps} 3
+
+Une gestation douloureuse 3
+
+Le tapuscrit 5
+
+Un patchwork poétique 6
+
+Rendre intelligible la composition du Cahier 9
+
+Le [Cahier]{.smallcaps} pendant la guerre 12
+
+*[Retorno al país natal]{.smallcaps}* 12
+
+Le *[Cahier]{.smallcaps}* chez Brentano's 12
+
+Le [Cahier]{.smallcaps} chez Bordas 16
+
+Le [Cahier]{.smallcaps} chez Présence africaine 21
+
+Conclusion : la stabilité d'une œuvre instable 23
+
+Corpus 26
 
 Introduction à [Cahier d'un retour au pays natal]{.smallcaps}
 =============================================================
@@ -1128,4 +1151,3 @@ Corpus
     Fallois, p. 179.
 
 [^18]: Éditons du Seuil, février 1960.
-
