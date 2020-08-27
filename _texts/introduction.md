@@ -1,17 +1,14 @@
 ---
 layout: narrative
-title: introduction
+title: Introduction
 description: "A few notes..." 
 author: Kora Verón
 ---
 
 
+---
 
-Introduction à [Cahier d'un retour au pays natal]{.smallcaps}
-=============================================================
-
-Avant le [Cahier]{.smallcaps}
------------------------------
+## Avant le *Cahier*
 
 ### juin 1913 -- septembre 1931
 
@@ -32,7 +29,7 @@ lycée Schœlcher, à Fort-de-France. Il quitte la Martinique le 24
 septembre 1931, pour s'inscrire en classe préparatoire au lycée
 Louis-le-Grand, à Paris.
 
-### octobre 1931-- juillet 1935
+### octobre 1931 -- juillet 1935
 
 Césaire passe quatre années scolaires en hypokhâgne puis en khâgne, à
 Louis-le-Grand, où il prépare le concours d'entrée à l'École normale
@@ -48,13 +45,13 @@ l'on trouve ses premiers écrits, et déjà un article du Sénégalais
 Léopold Sédar Senghor, son grand ami rencontré dès son arrivée à Paris.
 
 Les débats sont très animés et Césaire signe dans les différents numéros
-de *L'Étudiant noir* un éditorial intitulé « « Nègreries » qui témoigne
+de *L'Étudiant noir* un éditorial intitulé « Nègreries » qui témoigne
 de son engagement dans la lutte contre l'assimilation culturelle.
 
 \[image premières « nègreries\]
 
 C'est dans le troisième numéro, daté de mai-juin 1935, dans « Nègreries
-: Conscience raciale et révolution sociale », qu'il utilise sans doute
+\: Conscience raciale et révolution sociale », qu'il utilise sans doute
 pour la première fois un terme promis à une grande renommée, celui de
 « négritude ». Cet article vise à définir ses priorités révolutionnaires
 en contestant celles des étudiants noirs communistes dont faisaient
@@ -89,8 +86,9 @@ Césaire écrit des poèmes, dont il n'est pas satisfait. Le premier qu'il
 publie, dans ce numéro, est la traduction partielle de « *I Have Seen
 Black Hands* » de Richard Wright.
 
-Première version du [Cahier]{.smallcaps}
-----------------------------------------
+<br>
+
+## Première version du *Cahier*
 
 ### Une gestation douloureuse
 
@@ -116,15 +114,7 @@ est en réalité une presqu'île, et non une île, et, en recoupant les
 sources, il s'avère que Césaire n'a pas pu se rendre chez Guberina en
 1935, mais certainement l'été suivant.
 
-L'écriture du *Cahier* fut, comme en témoigne Senghor, « une parturition
-dans la souffrance[^2]. » Dans le même registre, il précise : « Je
-connais telle œuvre qui fut moralement, physiquement et métaphysiquement
-vécue jusqu'au bord de la démence[^3]. » Une crise qui oblige Césaire
-a-à interrompre des études à plusieurs reprises, et à rentrer quelque
-temps à la Martinique, au lieu de reprendre sa scolarité, en octobre
-1936. Peu après, par conséquent, son voyage en Croatie. L'essentiel de
-*Cahier d'un retour au pays natal* est certainement né de ce retour à la
-Martinique.
+L'écriture du *Cahier* fut, comme en témoigne Senghor, « une parturition dans la souffrance[^2]. » Dans le même registre, il précise : « Je connais telle œuvre qui fut moralement, physiquement et métaphysiquement vécue jusqu'au bord de la démence[^3]. » Une crise qui oblige Césaire a-à interrompre des études à plusieurs reprises, et à rentrer quelque temps à la Martinique, au lieu de reprendre sa scolarité, en octobre 1936. Peu après, par conséquent, son voyage en Croatie. L'essentiel de *Cahier d'un retour au pays natal* est certainement né de ce retour à la Martinique.
 
 Sa santé semble s'améliorer après son mariage, le 10 juillet 1937, avec
 Jeanne Aimée Marie Suzanne Roussi, une jeune Martiniquaise âgée de
@@ -193,33 +183,34 @@ les ajouts à une version antérieure. La dactylographie, à l'encre
 violette, a été corrigée manuellement au stylo noir, au crayon bleu et
 au crayon gris, pour rectifier l'orthographe de certains mots :
 
-Au bout du petit matin bourgeonnant ~~danses~~ d'anses,
+> Au bout du petit matin bourgeonnant ~~danses~~ d'anses,
 
 En laissant cependant de nombreuses coquilles ou fautes de frappe :
 
-l'eau nue emportera les tâches muresd u soleil ;
+> l'eau nue emportera les tâches muresd u soleil ;
 
 Pour compléter des syntagmes syntaxiquement incomplets :
 
-Le bulbe tératique de la nuit, germé de nos bassesses et de nos
+> Le bulbe tératique de la nuit, germé de nos bassesses et de nos
 renoncements... ;
 
 Pour modifier un terme :
 
-dans la ~~chair~~ pâte grise sordide empuantie de la paille,
+> dans la ~~chair~~ pâte grise sordide empuantie de la paille,
 
 Pour supprimer un passage :
 
-la jouissance saccadée des torrents ~~au\[t\]our du clitoris volcanique
+> la jouissance saccadée des torrents ~~au\[t\]our du clitoris volcanique
 des rochers~~
 
 D'autres sont ajoutés manuellement, soit par Aimé Césaire :
 
-> \[image du manuscrit\]
+\[image du manuscrit\]
 
 Soit vraisemblablement par Suzanne Césaire :
 
 \[image du manuscrit\]
+
 
 ### Un patchwork poétique
 
@@ -303,18 +294,18 @@ relatifs à l'odeur des Nègres :
 > Livonnière, que j\'interrogeai sur la cause de cette perception assez
 > désagréable, me demanda de quoi je voulais parler.
 >
-> \- Mais de l\'odeur affadissante qui me suit partout ! lui
+> Mais de l\'odeur affadissante qui me suit partout ! lui
 > répondis-je.
 >
-> \- Tu sens l\'oignon frit, n\'est-ce pas, me dit-il, en retroussant un
+> Tu sens l\'oignon frit, n\'est-ce pas, me dit-il, en retroussant un
 > coin de sa lèvre supérieure, avec une expressive contraction de nez.
 >
-> \- Eh ! oui, sans doute; je sens quelque chose comme ça!
+> Eh ! oui, sans doute; je sens quelque chose comme ça!
 >
-> \- Eh bien ! c\'est la négraille qui a cette senteur là, mon ami.
->
-> Le poète reprend donc à son compte, pour le moquer, le jeu sur la
-> sonorité dépréciative de « négraille » qui évoque le « graillon »
+> Eh bien ! c\'est la négraille qui a cette senteur là, mon ami.
+
+Le poète reprend donc à son compte, pour le moquer, le jeu sur la
+sonorité dépréciative de « négraille » qui évoque le « graillon ».
 
 Dans *Mille plateaux*[^6], Gilles Deleuze et Félix Guattari citent un
 passage du roman de William Faulkner, *Sartoris*[^7], pour illustrer
@@ -333,17 +324,12 @@ Le fil permanent principal est bien sûr l'anaphore du syntagme « au bout
 du petit matin ». Systématique au début du poème, elle est ensuite
 régulièrement reprise dans le tapuscrit, ou modulée en :
 
--   « autre petit matin d'Europe »
-
--   « brusque scène de ce petit matin »,
-
--   « aux quatre coins de ce petit matin »,
-
--   « Tiède petit matin de chaleur et de peur ancestrales »,
-
--   « Tiède petit matin de vertus ancestrales »,
-
--   « ce petit matin ma prière virile » ...
+-   *autre petit matin d'Europe*
+-   *brusque scène de ce petit matin*,
+-   *aux quatre coins de ce petit matin*,
+-   *Tiède petit matin de chaleur et de peur ancestrales*,
+-   *Tiède petit matin de vertus ancestrales*,
+-   *ce petit matin ma prière virile* ...
 
 Césaire utilise aussi ce fil pour coudre des fragment des versions
 ultérieures. Par exemple, dans l'édition Brentano's :
@@ -405,85 +391,52 @@ Pour le tapuscrit, deux types de blocs correspondent aux parties
 
 La structure du tapuscrit se présente donc ainsi :
 
-+----------------------------------------------------------------------+
-| **I Retour dans un pays natal catastrophique**                       |
-+======================================================================+
-| Un nouveau bloc est inséré à partir de Bordas                        |
-+----------------------------------------------------------------------+
-| **TAP1**                                                             |
-+----------------------------------------------------------------------+
-| **II Un illusoire retour rédempteur**                                |
-+----------------------------------------------------------------------+
-| Un nouveau bloc est inséré à partir de Brentano's                    |
-+----------------------------------------------------------------------+
-| TAP2                                                                 |
-+----------------------------------------------------------------------+
-| De nouveaux blocs sont insérés à partir de Brentano's :              |
-|                                                                      |
-| la place de l'insertion sera inversée chez Bordas et chez Présence   |
-| africaine                                                            |
-|                                                                      |
-| avec des suppressions et des déplacements chez Présence africaine    |
-+----------------------------------------------------------------------+
-| Un nouveau bloc est inséré chez Présence africaine                   |
-+----------------------------------------------------------------------+
-| **TAP3**                                                             |
-+----------------------------------------------------------------------+
-| **MA1(-A)**                                                          |
-+----------------------------------------------------------------------+
-| **MA1(-B)**                                                          |
-+----------------------------------------------------------------------+
-| **III Les étapes d'une « bienfaisante révolution intérieure »**      |
-+----------------------------------------------------------------------+
-| **TAP4**                                                             |
-+----------------------------------------------------------------------+
-| **TAP5**                                                             |
-+----------------------------------------------------------------------+
-| Un nouveau bloc remplace **TAP5** chez Présence africaine            |
-+----------------------------------------------------------------------+
-| **TAP6**                                                             |
-+----------------------------------------------------------------------+
-| **MA2(-A)**                                                          |
-+----------------------------------------------------------------------+
-| **TAP7**                                                             |
-+----------------------------------------------------------------------+
-| De nouveaux blocs sont insérés à partir de Brentano's :              |
-|                                                                      |
-| la place de l'insertion sera inversée chez Bordas et chez Présence   |
-| africaine                                                            |
-|                                                                      |
-| avec des suppressions et des déplacement chez Présence africaine     |
-+----------------------------------------------------------------------+
-| Un nouveau bloc est inséré à partir de Bordas                        |
-+----------------------------------------------------------------------+
-| **TAP8**                                                             |
-+----------------------------------------------------------------------+
-| Un nouveau bloc est inséré chez Présence africaine                   |
-+----------------------------------------------------------------------+
-| **TAP9**                                                             |
-+----------------------------------------------------------------------+
-| **MA3(-B)**                                                          |
-+----------------------------------------------------------------------+
-| Un nouveau bloc est inséré à partir de Bordas                        |
-+----------------------------------------------------------------------+
-| **MA4-B**                                                            |
-+----------------------------------------------------------------------+
+<!-- 
+**I. Retour dans un pays natal catastrophique**                      |
+Un nouveau bloc est inséré à partir de Bordas                        |
+**TAP1**                                                             |
+**II. Un illusoire retour rédempteur**                               |
+Un nouveau bloc est inséré à partir de Brentano's                    |
+TAP2                                                                 |
+De nouveaux blocs sont insérés à partir de Brentano's : la place de l'insertion sera inversée chez Bordas et chez Présence africaine avec des suppressions et des déplacements chez Présence africaine         |
+Un nouveau bloc est inséré chez Présence africaine                   |
+**TAP3**                                                             |
+**MA1(-A)**                                                          |
+**MA1(-B)**                                                          |
+**III Les étapes d'une « bienfaisante révolution intérieure »**      |
+**TAP4**                                                             |
+**TAP5**                                                             |
+Un nouveau bloc remplace **TAP5** chez Présence africaine            |
+**TAP6**                                                             |
+**MA2(-A)**                                                          |
+**TAP7**                                                             |
+De nouveaux blocs sont insérés à partir de Brentano's :  la place de l'insertion sera inversée chez Bordas et chez Présence africaine avec des suppressions et des déplacement chez Présence africaine          |
+Un nouveau bloc est inséré à partir de Bordas                        |
+**TAP8**                                                             |
+Un nouveau bloc est inséré chez Présence africaine                   |
+**TAP9**                                                             |
+**MA3(-B)**                                                          |
+Un nouveau bloc est inséré à partir de Bordas                        |
+**MA4-B**                                                            |
+ -->
+
+[table]
 
 L'édition de *Volontés* n'apporte guère de changement au tapuscrit. Les
 corrections --- dont les suppressions --- prévues sont prises en compte,
 quelques coquilles supplémentaires sont corrigées, comme l'accent dans :
 
-un appendice dégoûtant comme les parties honteuses du bourg,
+> un appendice dégoûtant comme les parties honteuses du bourg,
 
 Mais pas toutes, puisque, par exemple, le mot « cyclone » reste mal
 orthographié :
 
-septembre l'accoucheur de cyclônes,
+> septembre l'accoucheur de cyclônes,
 
 D'autres sont introduites, comme « froulou » à la place de « 
 froufrou » :
 
-dans le froulou violet de ses grandes ailes de joie.
+> dans le froulou violet de ses grandes ailes de joie.
 
 La mise en page est modifiée pour correspondre aux normes de la revue et
 les grands espaces rythmant le tapuscrit sont supprimés.
@@ -497,8 +450,7 @@ enceinte de Jean-Paul, accompagnés de leur premier fils, Jacques,
 rentrent à la Martinique à bord du *Bretagne*. Aimé Césaire a vingt-six
 ans.
 
-Le [Cahier]{.smallcaps} pendant la guerre
------------------------------------------
+### Le *Cahier* pendant la guerre
 
 La guerre est bientôt déclarée. L'amiral Georges Robert arrive à Fort-de
 France le 14 septembre 1939 pour commander les forces navales de
@@ -529,7 +481,7 @@ rencontre André Breton et sa femme, Jacqueline, Wifredo Lam et sa future
 femme, Helena Holzer, ainsi qu'André Masson qui arrive quelques jours
 plus tard.
 
-### *[Retorno al país natal]{.smallcaps}*
+### *Retorno al país natal*
 
 > \[image de la couverture + éventuellement lien vers le fac simile de
 > l'édition\]
@@ -541,13 +493,13 @@ traduction est signée par l'écrivain-anthropologue Lydia Cabrera, qui
 s'est liée d'amitié avec Wifredo Lam et Helena Holzer à leur arrivée à
 Cuba.
 
-### Le *[Cahier]{.smallcaps}* chez Brentano's
+### Le *Cahier* chez Brentano's
 
 **\[**image de la couverture\]
 
 Installé à New York, Breton propose vite à Césaire de l'aider à faire
 connaître sa poésie dans des revues américaines[^10], comme le révèle
-une lettre de Suzanne Césaire, adressée aux Breton  le 21 octobre 1941 :
+une lettre de Suzanne Césaire, adressée aux Breton  le 21 octobre 1941 \:
 « Vous devinez sans peine l'émotion d'Aimé à l'idée d'être publié par
 vous. Il s'en remet entièrement à vous pour tout ce qui concerne la
 publication. Il joint à cette lettre des poèmes inédits. »
@@ -635,8 +587,11 @@ L'édition Brentano's reprend l'intégralité du tapuscrit édité dans
 *Volontés* et intègre des passages inédits (BRE), qui côtoient une
 grande partie du poème « En guise de manifeste littéraire » (MANIF) et
 un très court extrait de « En Rupture de Mer Morte », paru dans
-*Tropiques* n° 3, en octobre 1941(MERMORTE) :
+*Tropiques* n° 3, en octobre 1941(MERMORTE) \:
 
+[table]
+
+<!-- 
   **Retour dans un pays natal catastrophique**
   -------------------------------------------------------------
   **TAP1**
@@ -666,9 +621,9 @@ un très court extrait de « En Rupture de Mer Morte », paru dans
   **TAP9**
   **MA3(-B)**
   **MA4-B**
+ -->
 
-Le [Cahier]{.smallcaps} chez Bordas
------------------------------------
+### Le *Cahier* chez Bordas
 
 À la fin de la guerre, Césaire se lance dans la vie politique aux côtés
 des communistes. Il est élu maire de Fort-de-France, en mai 1945 ; et
@@ -735,6 +690,9 @@ Brentano's. Schématiquement, le poète crée un chiasme entre Brentano's
 et Bordas : la version initiale est interrompue deux fois, aux mêmes
 places que chez Brentano's, mais l'ordre des ajouts est croisé :
 
+[table]
+
+<!-- 
   **Brentano's**                             **Bordas**
   ------------------------------------------ --------------
   **Premier croisement à partir de TAP2**    
@@ -760,7 +718,7 @@ places que chez Brentano's, mais l'ordre des ajouts est croisé :
   **MANIF4**                                 
   **BRE6**                                   BRE2
   **TAP8**                                   
-
+ 
 Ce qui donne pour Bordas :
 
   **I Retour dans un pays natal catastrophique**
@@ -794,7 +752,7 @@ Ce qui donne pour Bordas :
   **TAP9**
   **MA3(-B)**
   **BO3**
-  **MA4-B**
+  **MA4-B** -->
 
 Sans disposer du document, mais en connaissant les habitudes de
 l'écrivain, on peut deviner que Césaire a découpé avec une paire de
@@ -810,8 +768,7 @@ La permutation rend l'illusoire retour rédempteur plus pénible encore,
 tandis que le rythme de la « bienfaisante révolution intérieure » est
 accéléré.
 
-Le [Cahier]{.smallcaps} chez Présence africaine
------------------------------------------------
+### Le *Cahier* chez Présence africaine
 
 \[image de la page de couverture\]
 
@@ -854,7 +811,9 @@ réécriture. Césaire procède à de nombreuses coupures dans ce qui avait
 partie correspondant à « En guise de manifeste littéraire », dont il
 modifie l'ordre des strophes.
 
-Ce qui aboutit à :
+[table]
+
+<!-- Ce qui aboutit à :
 
   -----------------------------------------------------------------
   **I Retour dans un pays natal catastrophique**
@@ -890,9 +849,9 @@ Ce qui aboutit à :
   **BO3**
   **MA4(-B)**
   -----------------------------------------------------------------
+ -->
 
-Conclusion : la stabilité d'une œuvre instable
-----------------------------------------------
+## Conclusion : la stabilité d'une œuvre instable
 
 Il peut être tentant d'interpréter les incessantes modifications en
 fonction d'éléments extérieurs. Il est évident que les éditions de 1947
@@ -916,7 +875,9 @@ poème. Césaire est en effet doublement resté fidèle à son édition de
 > courte, plus proche finalement du dessin élaboré lorsqu'il était
 > étudiant.
 
-Ce qui apparaît (en principe) à la lecture du tableau comparatif :
+[table]
+
+<!-- Ce qui apparaît (en principe) à la lecture du tableau comparatif :
 
 +----------------+----------------+--------------+----------------+
 | **Tapuscrit    | **Brentano's** | **Bordas**   | **Présence     |
@@ -1025,14 +986,16 @@ Ce qui apparaît (en principe) à la lecture du tableau comparatif :
 +----------------+----------------+--------------+----------------+
 | **MA4-B**      | **MA4-B**      | **MA4-B**    | **MA4-B**      |
 +----------------+----------------+--------------+----------------+
+ -->
 
 Je rendrai compte cependant des modifications du poème dans l'étude de
 ses fragments
 
 \[Lien sur la page de l'édition critique\]
 
-Corpus
-------
+---
+
+## Corpus
 
 -   Tapuscrit corrigé à la main, propriété de l'Assemblée nationale.
 
@@ -1059,6 +1022,10 @@ Corpus
     1939 en frontispice. Première édition française en volume.
 
 -   Présence Africaine, 29 juin 1956. Préface de Petar Guberina
+
+---
+
+## Notes
 
 [^1]: Ngal, Georges. 1994. Aimé Césaire. *Un homme à la recherche d'une
     patrie*. Présence africaine, p 79.
@@ -1094,9 +1061,9 @@ Corpus
     vers : ironie, insouciance, désinvolture, goût (surréaliste) du
     hasard objectif ? Il est délicat de trancher. »
 
-[^10]: Voir mon article « **Les archives d'Aimé Césaire sur le site
+[^10]: Voir mon article « Les archives d'Aimé Césaire sur le site
     André Breton », *Continents manuscrits*, n° 7, 2017 :
-    <https://journals.openedition.org/coma/855?lang=en#tocto2n7>**
+    <https://journals.openedition.org/coma/855?lang=en#tocto2n7>
 
 [^11]: Lu par André Breton à la Troisième soirée Dada, au Théâtre de la
     Maison de l\'Œuvre (Paris, le 27 mars 1920) et publié dans *Dada* n°
@@ -1108,8 +1075,8 @@ Corpus
     en exil avec un choix de ses lettres des Amériques*. Tübingen :
     Narr.
 
-[^13]: Voir mon article « **Césaire at the Crossroads in Haiti:
-    Correspondence with Henri Seyrig »,** *Comparative Literature
+[^13]: Voir mon article « Césaire at the Crossroads in Haiti:
+    Correspondence with Henri Seyrig », *Comparative Literature
     Studies* Vol. 50, No. 3 (2013), p. 430-444.
     <https://www.jstor.org/stable/10.5325/complitstudies.50.3.0430?seq=1>
 
