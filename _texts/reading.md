@@ -174,7 +174,8 @@ les muqueuses ou vous les fondent en subtilités, ou vous les distillent en ravi
 
 -- 15 --
 
-- Putréfactions monstrueuses de révoltes inopérantes,  - marais de sang putrides
+- Putréfactions monstrueuses de révoltes inopérantes,  
+- marais de sang putrides
 - trompettes absurdement bouchées 
 - Terres rouges terres sanguines terres consanguines.
 
