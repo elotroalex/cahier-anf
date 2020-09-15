@@ -1,9 +1,9 @@
 import os
 import re
 
-cahier = open("cahier.txt","r")
+cahier = open("_texts/raw.txt","r")
 t = cahier.read()
-s = re.compile("-- [1-9][1-9] (.*)--").split(t)
+s = re.compile("-- [1-9].* --").split(t)
 fl = []
 
 for filename in os.listdir("_cahier/"):
