@@ -183,7 +183,7 @@ les ajouts à une version antérieure. La dactylographie, à l'encre
 violette, a été corrigée manuellement au stylo noir, au crayon bleu et
 au crayon gris, pour rectifier l'orthographe de certains mots :
 
-> Au bout du petit matin bourgeonnant ~~danses~~ d'anses,
+> <span style="color:green">Au bout du petit matin bourgeonnant</span> ~~<span style="color:orange">danses</span>~~ d'anses,
 
 En laissant cependant de nombreuses coquilles ou fautes de frappe :
 

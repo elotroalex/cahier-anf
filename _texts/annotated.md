@@ -6,9 +6,6 @@ author: Aimé Césaire
 editor: Kora Véron
 ---
 
-<p class=MsoNormal align=center style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
-auto;text-align:center;line-height:normal;mso-outline-level:3'><b><span
-lang=FR style='font-size:13.5pt;color:#AB2441'>Édition annotée<o:p></o:p></span></b></p>
 
 <p class=MsoNormal><span lang=FR style='mso-fareast-font-family:Times;
 mso-bidi-font-family:"Times New Roman";mso-fareast-language:JA'><span

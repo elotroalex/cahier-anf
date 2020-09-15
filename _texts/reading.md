@@ -6,11 +6,11 @@ author: Aimé Césaire
 editor: Kora Véron
 ---
 
----
+--- 
 
 This reading edition corrects, normalizes and modernizes accents, punctuation and spelling in the original. 
 
----
+--- 
 
 
 - {:.centered} CAHIER D'UN RETOUR AU PAYS NATAL
@@ -20,31 +20,33 @@ This reading edition corrects, normalizes and modernizes accents, punctuation an
 
 - {:.pr.i} Au bout du petit matin bourgeonnant d'anses frêles les Antilles qui ont faim, les Antilles grêlées de petite vérole, les Antilles dynamitées d'alcool, échouées dans la boue de cette baie, dans la poussière de cette ville sinistrement échouées.
 
-- {:.pr.i} Au bout du petit matin, l'extrême, trompeuse désolée eschare sur la blessure des eaux ; les martyrs qui ne témoignent pas ; les fleurs du sang qui se fanent et s'éparpillent dans le vent inutile comme des cris de perroquets babillards ; une vieille vie menteusement souriante, ses lèvres ouvertes d'angoisses désaffectées ; une vieille misère  pourrissant sous le soleil, silencieusement ; un vieux silence crevant de pustules tièdes---
+- {:.pr.i} Au bout du petit matin, l'extrême, trompeuse désolée eschare sur la blessure des eaux ; les martyrs qui ne témoignent pas ; les fleurs du sang qui se fanent et s'éparpillent dans le vent inutile comme des cris de perroquets babillards ; une vieille vie menteusement souriante, ses lèvres ouvertes d'angoisses désaffectées ; une vieille misère  pourrissant sous le soleil, silencieusement ; un vieux silence crevant de pustules tièdes --- 
 
 - {:.pr.i} l'affreuse inanité de notre raison d'être.
 
-- {:.pr.i} Au bout du petit matin, sur cette plus fragile épaisseur de terre que dépasse de façon humiliante son grandiose avenir---les volcans éclateront, l'eau nue emportera les taches mûres du soleil et il ne restera plus qu'un bouillonnement tiède picoré d'oiseaux marins---la plage des songes et l'insensé réveil
+- {:.pr.i} Au bout du petit matin, sur cette plus fragile épaisseur de terre que dépasse de façon humiliante son grandiose avenir --- les volcans éclateront, l'eau nue emportera les taches mûres du soleil et il ne restera plus qu'un bouillonnement tiède picoré d'oiseaux marins --- la plage des songes et l'insensé réveil
 
 -- 2 --
 
-- {:.pr.i} Au bout du petit matin, cette ville plate---étalée, trébuchée de son bon sens, inerte, essoufflée sous son fardeau géométrique de croix éternellement recommençante, indocile à son sort, muette, contrariée de toutes façons, incapable de croître selon le suc de cette terre, embarrassée, rognée, réduite, en rupture de faune et de flore.
+- {:.pr.i} Au bout du petit matin, cette ville plate --- étalée, trébuchée de son bon sens, inerte, essoufflée sous son fardeau géométrique de croix éternellement recommençante, indocile à son sort, muette, contrariée de toutes façons, incapable de croître selon le suc de cette terre, embarrassée, rognée, réduite, en rupture de faune et de flore.
 
-- {:.pr} Au bout du petit matin, cette ville plate---étalée...<br>Et dans cette ville inerte, cette foule criarde si étonnamment passée à côté de son cri comme cette ville à côté de son mouvement, de son sens, sans inquiétude, à côté de son vrai cri, le seul qu'on eût voulu l'entendre crier parce qu'on le sent sien lui seul ; parce qu'on le sent habiter en elle dans quelque refuge profond d'ombre et d'orgueil, dans cette ville inerte, cette foule à côté de son cri de faim, de misère, de révolte, de haine, cette foule si étrangement bavarde et muette.
+- {:.pr.i} Au bout du petit matin, cette ville plate --- étalée...
 
-- {:.pr} Dans cette ville inerte, cette étrange foule qui ne s'entasse pas, ne se mêle pas : habile à découvrir le point de désencastration, de fuite, d'esquive. Cette foule qui ne sait pas faire foule, cette foule, on s'en rend compte, si parfaitement seule sous ce soleil, à la façon dont une femme, toute on eût cru à la cadence lyrique de ses fesses, interpelle brusquement une pluie hypothétique et lui intime l'ordre de ne pas tomber ; ou à un signe rapide de croix sans mobile visible ; ou à l'animalité subitement grave d'une paysanne, 
+- {:.pr.i} Et dans cette ville inerte, cette foule criarde si étonnamment passée à côté de son cri comme cette ville à côté de son mouvement, de son sens, sans inquiétude, à côté de son vrai cri, le seul qu'on eût voulu l'entendre crier parce qu'on le sent sien lui seul ; parce qu'on le sent habiter en elle dans quelque refuge profond d'ombre et d'orgueil, dans cette ville inerte, cette foule à côté de son cri de faim, de misère, de révolte, de haine, cette foule si étrangement bavarde et muette.
+
+- {:.pr.i} Dans cette ville inerte, cette étrange foule qui ne s'entasse pas, ne se mêle pas : habile à découvrir le point de désencastration, de fuite, d'esquive. Cette foule qui ne sait pas faire foule, cette foule, on s'en rend compte, si parfaitement seule sous ce soleil, à la façon dont une femme, toute on eût cru à la cadence lyrique de ses fesses, interpelle brusquement une pluie hypothétique et lui intime l'ordre de ne pas tomber ; ou à un signe rapide de croix sans mobile visible ; ou à l'animalité subitement grave d'une paysanne, 
 
 -- 3 --
 
 - {:.pr} urinant debout, les jambes écartées, roides.
 
-- {:.pr.i} Dans cette ville inerte, cette foule désolée sous le soleil, ne participant à rien de ce qui s'exprime, s'affirme, se libère au grand jour de cette terre sienne. Ni à l'impératrice Joséphine des Français rêvant très haut au-dessus de la négraille. Ni au libérateur figé dans sa libération de pierre blanchie. Ni au conquistador. Ni à ce mépris, ni à cette liberté, ni à cette audace.
+- {:.pr.i} Dans cette ville inerte, cette foule désolée sous le soleil, ne participant à rien de ce qui s'exprime, s'affirme, se libère au grand jour de cette terre sienne. Ni à l'Impératrice Joséphine des Français rêvant très haut au-dessus de la négraille. Ni au libérateur figé dans sa libération de pierre blanchie. Ni au conquistador. Ni à ce mépris, ni à cette liberté ni à cette audace.
 
 - {:.pr.i} Au bout du petit matin, cette ville inerte et ses au-delà de lèpres, de consomption, de famines, de peurs tapies dans les ravins, de peurs juchées dans les arbres, de peurs creusées dans le sol, de peurs en dérive dans le ciel, de peurs amoncelées et ses fumerolles d'angoisse.
 
 - {:.pr.i} Au bout du petit matin, le morne oublié, oublieux de sauter.
 
-- {:.pr.i} Au bout du petit matin, le morne au sabot inquiet et docile---son sang impaludé met en déroute le soleil de ses pouls surchauffés.
+- {:.pr.i} Au bout du petit matin, le morne au sabot inquiet et docile --- son sang impaludé met en déroute le soleil de ses pouls surchauffés.
 
 - {:.pr.i} Au bout du petit matin, l'incendie contenu du morne, comme un sanglot que l'on a bâillonné au bord de son éclatement sanguinaire, en quête d'une ignition qui se dérobe et se méconnaît.
 
@@ -65,11 +67,11 @@ sa voix,
 - {:.i} une faim lourde et veule, 
 - {:.i} une faim ensevelie au plus profond de la Faim de ce morne famélique.
 
-- {:.pr.i} Au bout du petit matin, l'échouage hétéroclite, les puanteurs exacerbées de la corruption, les sodomies monstrueuses de l'hostie et du victimaire,  les coltis infranchissables du préjugé et de la sottise, les prostitutions, les hypocrisies, les lubricités, les trahisons, les mensonges, les faux, les concussions---l'essoufflement des lâchetés insuffisantes, l'enthousiasme sans ahan aux poussis surnuméraires, les avidités, les hystéries, les perversions, les arlequinades de la misère, les estropiements, les prurits , les urticaires, les hamacs tiédis de la dégénérescence---Ici la parade des risibles et scrofuleux bubons , les poutures de microbes très étranges, les poisons sans alexitère connu, les sanies de plaies antiques, les fermentations imprévisibles d'espèces putrescibles.
+- {:.pr.i} Au bout du petit matin, l'échouage hétéroclite, les puanteurs exacerbées de la corruption, les sodomies monstrueuses de l'hostie et du victimaire,  les coltis infranchissables du préjugé et de la sottise, les prostitutions, les hypocrisies, les lubricités, les trahisons, les mensonges, les faux, les concussions --- l'essoufflement des lâchetés insuffisantes, l'enthousiasme sans ahan aux poussis surnuméraires, les avidités, les hystéries, les perversions, les arlequinades de la misère, les estropiements, les prurits , les urticaires, les hamacs tiédis de la dégénérescence --- Ici la parade des risibles et scrofuleux bubons , les poutures de microbes très étranges, les poisons sans alexitère connu, les sanies de plaies antiques, les fermentations imprévisibles d'espèces putrescibles.
 
 - {:.pr.i} Au bout du petit matin, la grande nuit immobile, les étoiles plus mortes qu'un balafong crevé,
 
-- {:.pr.i} Le bulbe tératique de la nuit, germé de nos bassesses et de nos renoncements…
+- {:.pr.i} Le bulbe tératique de la nuit, germé de nos bassesses et de nos renoncements...
 
 - {:.pr.i} Et nos gestes imbéciles et fous pour faire revivre l'éclaboussement d'or des instants favorisés, le  
 
@@ -77,7 +79,7 @@ sa voix,
 
 cordon ombilical restitué à sa splendeur fragile, le pain, et le vin de la complicité, le pain, le vin, le sang des épousailles véridiques.
 
-- {:.pr.i} Et cette joie ancienne m'apportant la connaissance de ma présente misère,<br>une route bossuée qui pique une tête dans un creux où elle éparpille quelques cases ; une route infatigable qui charge à fond de train un morne en haut duquel elle s'enlise brutalement dans une mare de maisons pataudes, une route follement montante, témérairement descendante, et la carcasse de bois comiquement juchée sur de minuscules pattes de ciment que j'appelle « notre maison », sa coiffure de tôle ondulant au soleil comme une peau qui sèche, la salle à manger, le plancher grossier où luisent des têtes de clous, les solives de sapin et d'ombre qui courent au plafond, les chaises de paille fantômales, la lumière grise de la lampe, celle vernissée et rapide des cancrelats qui bourdonne à faire mal…
+- {:.pr.i} Et cette joie ancienne m'apportant la connaissance de ma présente misère,<br>une route bossuée qui pique une tête dans un creux où elle éparpille quelques cases ; une route infatigable qui charge à fond de train un morne en haut duquel elle s'enlise brutalement dans une mare de maisons pataudes, une route follement montante, témérairement descendante, et la carcasse de bois comiquement juchée sur de minuscules pattes de ciment que j'appelle « notre maison », sa coiffure de tôle ondulant au soleil comme une peau qui sèche, la salle à manger, le plancher grossier où luisent des têtes de clous, les solives de sapin et d'ombre qui courent au plafond, les chaises de paille fantômales, la lumière grise de la lampe, celle vernissée et rapide des cancrelats qui bourdonne à faire mal...
 
 - {:.pr.i} Au bout du petit matin, ce plus essentiel pays restitué à ma gourmandise, non de diffuse tendresse, mais la tourmentée concentration sensuelle du gras téton des mornes avec l'accidentel palmier comme son germe durci, la jouissance saccadée des torrents  et depuis Trinité jusqu'à Grand-Rivière, la grand'lèche hystérique de la mer.
 
@@ -89,27 +91,27 @@ cordon ombilical restitué à sa splendeur fragile, le pain, et le vin de la com
 - {:.pr.i} Noël n'était pas comme toutes les fêtes. Il n'aimait pas à courir les rues, à danser sur les places publiques, à s'installer sur les chevaux de bois, à profiter de la cohue pour pincer les femmes, à lancer des feux d'artifice au front des tamariniers. Il avait l'agoraphobie, Noël. Ce qu'il lui fallait c'était toute une journée d'affairement, d'apprêts, de cuisinages, de nettoyages, d'inquiétudes, de-peur-que-ça-ne-suffise-pas,
 - de-peur-que-ça-ne-manque,
 - de-peur-qu'on-ne-s'embête,
-- {:.pr} puis le soir une petite église pas intimidante, qui se laissât  emplir bienveillamment par les rires, les chuchotis, les confidences, les déclarations amoureuses, les médisances et la cacophonie gutturale d'un chantre bien d'attaque et aussi de gais copains et de franches luronnes et des cases aux entrailles riches en succulences, et pas regardantes, 
+- {:.pr} puis le soir une petite église pas intimidante, qui se laissât  emplir bienveillamment par les rires, les chuchotis, les confidences, les déclarations amoureuses, les médisances et la cacophonie gutturale d'un chantre bien d'attaque et aussi de gais copains et de franches luronnes et des cases aux entrailles riches en succulences, et pas regardantes, et
 
 -- 8 --
 
-- {:.pr} et l'on s'y parque une vingtaine, et la rue est déserte, et le bourg n'est plus qu'un bouquet de chants, et l'on est bien à l'intérieur, et l'on en mange du bon, et l'on en boit du réjouissant et il y a du boudin, celui étroit de deux doigts qui s'enroule en volubile, celui large et trapu, le bénin à goût de serpolet, le violent à incandescence pimentée, et du café brûlant et de l'anis sucré et du punch au lait, et le soleil liquide des rhums, et toutes sortes de bonnes choses qui vous imposent autoritairement
+- {:.pr} l'on s'y parque une vingtaine, et la rue est déserte, et le bourg n'est plus qu'un bouquet de chants, et l'on est bien à l'intérieur, et l'on en mange du bon, et l'on en boit du réjouissant et il y a du boudin, celui étroit de deux doigts qui s'enroule en volubile, celui large et trapu, le bénin à goût de serpolet, le violent à incandescence pimentée, et du café brûlant et de l'anis sucré et du punch au lait, et le soleil liquide des rhums, et toutes sortes de bonnes choses qui vous imposent autoritairement
 les muqueuses ou vous les fondent en subtilités, ou vous les distillent en ravissements, ou vous les tissent de fragrances, et l'on rit, et l'on chante, et les refrains fusent à perte de vue comme des cocotiers : 
 - {:.pr.i} ALLELUIA 
-- {:.pr.i} KYRIE ELEISON … LEISON… LEISON, 
-- {:.pr.i} CHRISTE ELEISON… LEISON… LEISON. 
+- {:.pr.i} KYRIE ELEISON ... LEISON... LEISON, 
+- {:.pr.i} CHRISTE ELEISON... LEISON... LEISON. 
 - {:.pr.i} Et ce ne sont pas seulement les bouches qui chantent, mais les mains, mais les pieds, mais les fesses, mais les sexes, et la créature toute entière qui se liquéfie en sons, voix et rythme.
-- {:.pr.i} Arrivée au sommet de son ascension la joie crève comme un nuage. Les chants ne s'arrêtent pas, mais ils roulent maintenant inquiets et lourds par les vallées de la peur, les tunnels de l'angoisse et les feux de l'enfer.
+- {:.pr.i} Arrivée au sommet de son ascension, la joie crève comme un nuage. Les chants ne s'arrêtent pas, mais ils roulent maintenant inquiets et lourds par les vallées de la peur, les tunnels de l'angoisse et les feux de l'enfer.
 - {:.pr.i} Et chacun se met à tirer par la queue le diable le plus proche, jusqu'à ce que la peur s'abolisse insensiblement dans les fines sablures du rêve, et l'on vit comme dans un rêve véritablement, et l'on boit et l'on crie et l'on chante 
 
 -- 9 --
 
 - {:.pr} comme dans un rêve, et l'on somnole aussi comme dans un rêve avec des paupières en pétales de rose, et le jour vient velouté comme une sapotille , et l'odeur de purin des cacaoyers, et les dindons, qui égrènent leurs pustules rouges au soleil, et l'obsession des cloches, et la pluie,
-- les cloches… la pluie… 
-- qui tintent, tintent, tintent…
+- les cloches... la pluie... 
+- qui tintent, tintent, tintent...
 
-- {:.pr.i} Au bout du petit matin, cette ville plate---étalée…
-- {:.pr.i} Elle rampe sur les mains sans jamais aucune envie de vriller le ciel d'une stature de protestation. Les dos de maison ont peur du ciel truffé de feu, leurs pieds des noyades du sol. Elles ont opté de se poser superficielles entre les surprises et les perfidies. Et pourtant elle avance la ville. Même qu'elle paît tous les jours plus outre sa marée de corridors carrelés, de persiennes pudibondes, de cours gluantes, de peintures qui dégoulinent. Et de petits scandales étouffés, de petites hontes tues, de petites haines immenses pétrissent en bosses et creux les rues étroites où le ruisseau grimace longitudinalement parmi l'étron…
+- {:.pr.i} Au bout du petit matin, cette ville plate --- étalée...
+- {:.pr.i} Elle rampe sur les mains sans jamais aucune envie de vriller le ciel d'une stature de protestation. Les dos de maison ont peur du ciel truffé de feu, leurs pieds des noyades du sol. Elles ont opté de se poser superficielles entre les surprises et les perfidies. Et pourtant elle avance la ville. Même qu'elle paît tous les jours plus outre sa marée de corridors carrelés, de persiennes pudibondes, de cours gluantes, de peintures qui dégoulinent. Et de petits scandales étouffés, de petites hontes tues, de petites haines immenses pétrissent en bosses et creux les rues étroites où le ruisseau grimace longitudinalement parmi l'étron...
 
 -  {:.pr.i} Au bout du petit matin, la vie prostrée, on ne sait où dépêcher ses rêves avortés, le fleuve de vie désespérément torpide dans son lit, sans turgescence ni dépression, incer-
 
@@ -117,13 +119,13 @@ les muqueuses ou vous les fondent en subtilités, ou vous les distillent en ravi
 
 -  {:.pr} tain de fluer , lamentablement vide, la lourde impartialité de l'ennui, répartissant l'ombre sur toutes choses égales, l'air stagnant sans une trouée d'oiseau clair.
 
--  {:.pr.i} Au bout du petit matin, une autre petite maison noire  qui sent très mauvais dans une rue très étroite, une maison minuscule qui abrite en ses entrailles de bois pourri des dizaines de rats et la turbulence de mes six frères et sœurs, une petite maison cruelle dont l'intransigeance affole nos fin de mois et mon père fantasque grignoté d'une seule seule misère, je n'ai jamais su laquelle, qu'une imprévisible sorcellerie assoupit en mélancolique tendresse ou exalte en hautes flammes de colère ; et ma mère dont les jambes pour notre faim inlassable pédale, pédale de jour, de nuit, je suis même réveillé la nuit par ces jambes inlassables qui pédalent la nuit et la morsure âpre dans la chair molle de la nuit d'une Singer et que ma mère pédale, pédale pour notre faim et de jour et de nuit.
+-  {:.pr.i} Au bout du petit matin, une autre petite maison noire  qui sent très mauvais dans une rue très étroite, une maison minuscule qui abrite en ses entrailles de bois pourri des dizaines de rats et la turbulence de mes six frères et sœurs, une petite maison cruelle dont l'intransigeance affole nos fin de mois et mon père fantasque grignoté d'une seule seule misère, je n'ai jamais su laquelle, qu'une imprévisible sorcellerie assoupit en mélancolique tendresse ou exalte en hautes flammes de colère ; et ma mère dont les jambes pour notre faim inlassable pédalent, pédalent de jour, de nuit, je suis même réveillé la nuit par ces jambes inlassables qui pédalent la nuit et la morsure âpre dans la chair molle de la nuit d'une Singer et que ma mère pédale, pédale pour notre faim et de jour et de nuit.
 
--  {:.pr.i} Au bout du petit matin, au delà de mon père, de ma mère, la case gerçant d'ampoules, comme un pêché tourmenté de la cloque, et le toit aminci, rapiécé de morceaux de bidon de pétrole, et ça fait des marais de rouillure dans la pâte grise sordide empuantie de la paille, et quand le vent siffle, ces disparates font bizarre le bruit, comme un crépitement de friture d'abord, puis comme un tison que l'on plonge dans l'eau avec la fumée des brindilles qui s'envole… Et le lit de planches d'où s'est levée ma
+-  {:.pr.i} Au bout du petit matin, au-delà de mon père, de ma mère, la case gerçant d'ampoules, comme un pêché tourmenté de la cloque, et le toit aminci, rapiécé de morceaux de bidon de pétrole, et ça fait des marais de rouillure dans la pâte grise sordide empuantie de la paille, et quand le vent siffle, ces disparates font bizarre le bruit, comme un crépitement de friture d'abord, puis comme un tison que l'on plonge dans l'eau avec la fumée des brindilles qui s'envole... Et le lit de planches d'où s'est levée ma
 
 -- 11 --
 
--  {:.pr} race, tout entière ma race de lit de planches, avec ses pattes de caisses de Kérosine , comme s'il avait l'éléphantiasis le lit, et sa peau de cabri, et ses feuilles de banane séchées, et ses haillons, une nostalgie de matelas le lit de ma grand'mère (Au-dessus du lit, dans un pot plein d'huile un lumignon dont la flamme danse comme un gros ravet… sur le pot en lettres d'or : MERCI).
+-  {:.pr} race, tout entière ma race de lit de planches, avec ses pattes de caisses de Kérosine , comme s'il avait l'éléphantiasis le lit, et sa peau de cabri, et ses feuilles de banane séchées, et ses haillons, une nostalgie de matelas le lit de ma grand'mère (Au-dessus du lit, dans un pot plein d'huile un lumignon dont la flamme danse comme un gros ravet... sur le pot en lettres d'or : MERCI).
 
 -  {:.pr.i} Et une honte, cette rue Paille,<br>un appendice dégoûtant comme les parties honteuses du bourg qui étend à droite et à gauche tout au long de la route coloniale, la houle grise de ses toits « d'essentes ». Ici il n'y a que des toits de paille que l'embrun a brunis et que le vent épile.
 -  {:.pr.i} Tout le monde la méprise la rue Paille. C'est là que la jeunesse du bourg se débauche. C'est là surtout que la mer déverse ses immondices, ses chats morts et ses chiens crevés. Car la rue débouche sur la plage, et la plage ne suffit pas à la rage écumante de la mer.
@@ -131,18 +133,18 @@ les muqueuses ou vous les fondent en subtilités, ou vous les distillent en ravi
 
 -- 12 --
 
--  {:.pr.i} Au bout du petit matin, le vent de jadis qui s'élève, des fidélités trahies, du devoir incertain qui se dérobe et cet autre petit matin d'Europe…
+-  {:.pr.i} Au bout du petit matin, le vent de jadis qui s'élève, des fidélités trahies, du devoir incertain qui se dérobe et cet autre petit matin d'Europe...
 
-- {:.pr.i} Partir. Mon cœur bruissait de générosités emphatiques. Partir … j'arriverais lisse et jeune dans ce pays mien et je dirais à ce pays dont le limon entre dans la composition de ma chair : « J'ai longtemps erré et je reviens vers la hideur désertée de vos plaies. »
-- {:.pr.i} Je viendrais à ce pays mien et je lui dirais. « Embrassez-moi sans crainte … Et si je ne sais que parler, c'est pour vous que je parlerai. »
+- {:.pr.i} Partir. Mon cœur bruissait de générosités emphatiques. Partir ... j'arriverais lisse et jeune dans ce pays mien et je dirais à ce pays dont le limon entre dans la composition de ma chair : « J'ai longtemps erré et je reviens vers la hideur désertée de vos plaies. »
+- {:.pr.i} Je viendrais à ce pays mien et je lui dirais. « Embrassez-moi sans crainte ... Et si je ne sais que parler, c'est pour vous que je parlerai. »
 - {:.pr.i} Et je lui dirais encore :<br>« Ma bouche sera la bouche des  malheurs qui n'ont point de bouche, ma voix, la liberté de celles qui s'affaissent  au cachot du désespoir. »
-- {:.pr.i} Et venant je me dirais à moi même :<br>« Et surtout mon corps aussi bien que mon âme, gardez-vous de vous croiser les bras en l'attitude stérile du spectateur, car la vie n'est pas un spectacle, car une mer de douleurs n'est pas un proscenium , car un homme qui crie n'est pas un ours qui danse… ».
+- {:.pr.i} Et venant je me dirais à moi même :<br>« Et surtout mon corps aussi bien que mon âme, gardez-vous de vous croiser les bras en l'attitude stérile du spectateur, car la vie n'est pas un spectacle, car une mer de douleurs n'est pas un proscenium , car un homme qui crie n'est pas un ours qui danse... ».
 
 - {:.pr.i} Et voici que je suis venu !
 
 -- 13 --
 
-- {:.pr} De nouveau cette vie clopinante devant moi, non pas cette vie, cette mort, cette mort sans sens ni piété, cette mort où la grandeur piteusement échoue, l'éclatante petitesse de cette mort, cette mort qui clopine de petitesses en petitesses ; ces pelletées de petites avidités sur le conquistador ; ces pelletées de petits larbins sur le grand sauvage ; ces pelletées de petites âmes sur le Caraïbe aux trois âmes. 
+- {:.pr.i} De nouveau cette vie clopinante devant moi, non pas cette vie, cette mort, cette mort sans sens ni piété, cette mort où la grandeur piteusement échoue, l'éclatante petitesse de cette mort, cette mort qui clopine de petitesses en petitesses ; ces pelletées de petites avidités sur le conquistador ; ces pelletées de petits larbins sur le grand sauvage ; ces pelletées de petites âmes sur le Caraïbe aux trois âmes. 
 - et toutes ces morts futiles 
 - absurdités sous l'éclaboussement de ma conscience ouverte 
 - tragiques futilités éclairées de cette seule noctiluque 
@@ -151,7 +153,7 @@ les muqueuses ou vous les fondent en subtilités, ou vous les distillent en ravi
 - puis, chavirée, se tait 
 - chaude élection de cendres, de ruines et d'affaissements
 
-- {:.pr.i} ---Encore une objection ! une seule, mais de grâce une seule : je n'ai pas le droit de calculer la vie à mon seul empan fuligineux ; de me réduire à ce petit rien ellipsoïdal qui tremble à quatre doigts au-dessus de la line, moi homme d'ainsi bouleverser la création, que je me comprenne entre latitude et longitude !
+- {:.pr.i}  --- Encore une objection ! une seule, mais de grâce une seule : je n'ai pas le droit de calculer la vie à mon seul empan fuligineux ; de me réduire à ce petit rien ellipsoïdal qui tremble à quatre doigts au-dessus de la ligne, moi homme d'ainsi bouleverser la création, que je me comprenne entre latitude et longitude !
 
 - {:.pr.i} Au bout du petit matin, 
 - la mâle soif et l'entêté désir, 
@@ -167,14 +169,15 @@ les muqueuses ou vous les fondent en subtilités, ou vous les distillent en ravi
 à l'arrière de cette polynésie, devant elle, la Guadeloupe fendue en deux de sa raie dorsale et de même misère que nous, Haïti où la négritude se mit debout pour la première fois et dit qu'elle croyait à son humanité et la comique petite queue de la Floride où d'un nègre s'achève la strangulation, et l'Afrique gigantesquement chenillant jusqu'au pied hispanique de l'Europe, sa nudité où la Mort fauche à larges andains.
 
 - {:.pr.i} Et je me dis Bordeaux et Nantes et Liverpool et
-- et New-York et San-Francisco
+- et New York et San Francisco
 - {:.pr} pas un bout de ce monde qui ne porte mon empreinte digitale et mon calcanéum sur le dos des gratte-ciel et ma crasse dans le scintillement des gemmes ! 
 - Qui peut se vanter d'avoir mieux que moi ? 
 - Virginie. Tennessee. Géorgie. Alabama.
 
 -- 15 --
 
-- Putréfactions monstrueuses de révoltes inopérantes,  - marais de sang putrides
+- Putréfactions monstrueuses de révoltes inopérantes,
+- marais de sang putrides
 - trompettes absurdement bouchées 
 - Terres rouges terres sanguines terres consanguines.
 
@@ -229,30 +232,32 @@ les muqueuses ou vous les fondent en subtilités, ou vous les distillent en ravi
 - {:.pr} Ma mémoire est entourée de sang. Ma mémoire a sa ceinture de cadavres ! 
 
 - {:.pr} et mitraille de barils de rhum génialement arrosant nos révoltes ignobles, pâmoison d'yeux doux d'avoir lampé la liberté féroce
-- (les nègres-sont-tous-les-mêmes, je-vous-le-dis
+
+- {:.pr} (les nègres-sont-tous-les-mêmes, je-vous-le-dis
 - les vices-tous-les-vices, c'est-moi-qui-vous-le-dis
 - l'odeur-du-nègre ça-fait-pousser-la-canne
-- rappelez-vous-le-vieux-dicton : battre-un-nègre, c'est le nourrir)
-- autour des rocking-chairs méditant la volupté des rigoises…
+- rappelez-vous-le-vieux-dicton : 
+- battre-un-nègre, c'est le nourrir)
 
-- Je tourne, inapaisée pouliche
+- {:.pr} autour des rocking-chairs méditant la volupté des rigoises...
+
+- {:.pr} Je tourne, inapaisée pouliche
 
 -- 17 --
 
 - Ou bien tout simplement comme on nous aime !
 - {:.pr} Obscènes gaiement, très doudous de Jazz sur leur excès d'ennui.
 - Je sais le tracking, le Lindy-hop et les claquettes.
-- {:.pr} Pour les bonnes bouches la sourdine de nos plaintes enrobées de oua-oua . Attendez…
-- {:.pr} Tout est dans l'ordre. Mon bon ange broute du néon. J'avale des baguettes. Ma dignité se vautre dans les dégobillements…
+- {:.pr} Pour les bonnes bouches la sourdine de nos plaintes enrobées de oua-oua . Attendez...
+- {:.pr} Tout est dans l'ordre. Mon bon ange broute du néon. J'avale des baguettes. Ma dignité se vautre dans les dégobillements...
 
 -- 17 bis --
 
-- {:.pr.i} Soleil, Soleil, Ange Soleil, Ange frisé du Soleil.
+- {:.pr.i} Soleil, Ange Soleil, Ange frisé du Soleil.
 - {:.pr.i} Pour un bond par delà la nage verdâtre et douce des eaux de l'abjection !
-- {:.pr} Mais je me suis adressé au mauvais sorcier. Sur cette terre exorcisée, larguée à la dérive de sa précieuse intention maléfique, cette voix qui crie, lentement enrouée, vainement, vainement enrouée, et il n'y a que les fientes accumulées de nos mensonges---et qui ne répondent pas !
+- {:.pr.i} Mais je me suis adressé au mauvais sorcier. Sur cette terre exorcisée, larguée à la dérive de sa précieuse intention maléfique, cette voix qui crie, lentement enrouée, vainement, vainement enrouée, et il n'y a que les fientes accumulées de nos mensonges --- et qui ne répondent pas !
 
-- Quelle folie le merveilleux entrechat par moi rêvé 
-- au dessus de la bassesse ! 
+- Quelle folie le merveilleux entrechat par moi rêvé au dessus de la bassesse ! 
 - Parbleu les Blancs sont de grands guerriers 
 - hosannah pour le maître et pour le châtre-nègre ! 
 - Victoire ! Victoire, vous dis-je : les vaincus sont contents ! 
@@ -264,21 +269,22 @@ les muqueuses ou vous les fondent en subtilités, ou vous les distillent en ravi
 
 -- 18 --
 
-- {:.pr} l'étonnante cavalerie des rosses impétueuses. Et quels galops ! quels hennissements ! quelles sincères urines ! quelles fientes mirobolantes ! « un beau cheval difficile au montoir »---« Une altière jument sensible à la molette ! »---« Un intrépide poulain vaillamment jointé ! »
+- {:.pr} l'étonnante cavalerie des rosses impétueuses. Et quels galops ! quels hennissements ! quelles sincères urines ! quelles fientes mirobolantes ! « un beau cheval difficile au montoir » --- « Une altière jument sensible à la molette ! » --- « Un intrépide poulain vaillamment jointé ! »
 - {:.pr.i} Et le malin compère dont le gilet se barre d'une fière chaîne de montre, refile au lieu de pleines mamelles, d'ardeurs juvéniles, de rotondités authentiques, ou les boursouflures régulières de guêpes complaisantes, ou les obscènes morsures du gingembre, ou la bienfaisante circulation d'un décalitre d'eau sucrée.
 
 - {:.pr.i} Je refuse de me donner mes boursouflures comme d'authentiques gloires.
 - {:.pr.i} Et je ris de mes anciennes imaginations puériles.
-- {:.pr.i} Non, nous n'avons jamais été amazones du roi de Dahomey, ni princes de Ghana avec huit cents chameaux, ni docteurs à Tombouctou Askia le Grand étant roi, ni architectes de Djenné, ni Mahdis, ni guerriers. Nous ne nous sentons pas sous l'aisselle la démangeaison de ceux qui tinrent jadis la lance. Et puisque j'ai juré de ne rien celer de notre histoire, (moi qui n'admire rien tant que le mouton broutant son ombre d'après-midi), je veux avouer que nous fûmes de tout temps d'assez piètres laveurs de vaisselle, des cireurs de chaussures sans envergure mettons les choses au mieux, d'assez consciencieux sorciers, et le seul indiscutable record que nous ayons battu est celui d'endurance à la chicotte …
+- {:.pr.i} Non, nous n'avons jamais été amazones du roi de Dahomey, ni princes de Ghana avec huit cents chameaux, ni docteurs à Tombouctou Askia le Grand étant roi, ni architectes de Djenné, ni Mahdis, ni guerriers. Nous ne nous sentons pas sous l'aisselle la démangeaison de ceux qui tinrent jadis la lance. Et puisque j'ai juré de ne rien celer de notre histoire, (moi qui n'admire rien tant que le mouton broutant son ombre d'après-midi), je veux avouer que nous fûmes de tout temps d'assez piètres laveurs de vaisselle, des cireurs de chaussures sans envergure mettons les choses au mieux, d'assez consciencieux sorciers, et le seul indiscutable record que nous ayons battu est celui d'endurance à la chicotte ...
 
 -- 19 --
 
-- {:.pr.i} Et ce pays cria pendant des siècles que nous sommes des bêtes brutes ; que les pulsations de l'humanité s'arrêtent aux portes de la négrerie ; que nous sommes un fumier ambulant hideusement prometteurs de cannes tendres et de coton soyeux et l'on nous marquait au fer rouge et nous dormions dans nos excréments et l'on nous vendait sur les places et l'aune de drap anglais et la viande salée d'Irlande coûtaient moins cher que nous, et ce pays était calme, tranquille, disant que l'esprit de Dieu était
+- {:.pr.i} Et ce pays cria pendant des siècles que nous sommes des bêtes brutes ; que les pulsations de l'humanité s'arrêtent aux portes de la négrerie ; que nous sommes un fumier ambulant hideusement prometteur de cannes tendres et de coton soyeux et l'on nous marquait au fer rouge et nous dormions dans nos excréments et l'on nous vendait sur les places et l'aune de drap anglais et la viande salée d'Irlande coûtaient moins cher que nous, et ce pays était calme, tranquille, disant que l'esprit de Dieu était
 dans ses actes.
 
-- {:.pr} Le négrier ! proclame mon sûr et ténébreux instinct<br>les voiles de noirs nuages, la polymature de forêts sombres et des dures magnificences des Calebars, insigne souvenir à la proue blanchoyant – ce squelette !
+- {:.pr} Le négrier ! proclame mon sûr et ténébreux instinct
+- {:.pr} les voiles de noirs nuages, la polymature de forêts sombres et des dures magnificences des Calebars, insigne souvenir à la proue blanchoyant --- ce squelette !
 
-- {:.pr} J'entends de la cale monter les malédictions enchaînées, les hoquetements des mourants, le bruit d'un qu'on jette à la mer… les abois d'une femme en gésine… farfouillis de vermine parmi des lassitudes… 
+- {:.pr} J'entends de la cale monter les malédictions enchaînées, les hoquetements des mourants, le bruit d'un qu'on jette à la mer... les abois d'une femme en gésine... des raclements d'ongles cherchant des gorges... des ricanements de fouet... des farfouillis de vermine parmi des lassitudes... 
 
 - {:.pr} Rien ne put nous insurger jamais vers quelque noble aventure désespérée.
 - Ainsi soit-il. Ainsi soit-il.
@@ -293,7 +299,8 @@ dans ses actes.
 - moi qui chantai le poing dur
 - Il faut savoir jusqu'où je poussai la lâcheté.
 - Un soir dans un tramway en face de moi, un nègre.
-- {:.pr.i} C'était un nègre grand comme un pongon qui essayait de se faire tout petit sur un banc de tramway. Il essayait d'abandonner sur ce banc crasseux de tramway ses jambes gigantesques et ses mains tremblantes de boxeur affamé. Et tout l'avait laissé, le laissait. Son nez qui semblait une péninsule en dérade et sa négritude même qui se décolorait sous l'action d'une inlassable mégie. Et le mégissier était là Misère. Un gros oreillard subit dont les coups de griffes sur ce visage s'étaient cicatrisés en îlots scabieux. Ou plutôt, c'était un ouvrier infatigable, la Misère travaillant à quelque cartouche hideux. On voyait très bien comment le pouce industrieux et malveillant avait modelé le front en bosse, percé le nez de deux tunnels parallèles et inquiétants, allongé la démesure de la lippe, et par un chef d'œuvre caricatural, raboté, poli, verni la plus minuscule mignonne petite oreille de la création.
+- {:.pr.i} C'était un nègre grand comme un pongon qui essayait de se faire tout petit sur un banc de tramway. Il essayait d'abandonner sur ce banc crasseux de tramway ses jambes gigantesques et ses mains tremblantes de boxeur affamé. 
+- {:.pr} Et tout l'avait laissé, le laissait. Son nez qui semblait une péninsule en dérade et sa négritude même qui se décolorait sous l'action d'une inlassable mégie. Et le mégissier était là Misère. Un gros oreillard subit dont les coups de griffes sur ce visage s'étaient cicatrisés en îlots scabieux. Ou plutôt, c'était un ouvrier infatigable, la Misère travaillant à quelque cartouche hideux. On voyait très bien comment le pouce industrieux et malveillant avait modelé le front en bosse, percé le nez de deux tunnels parallèles et inquiétants, allongé la démesure de la lippe, et par un chef d'œuvre caricatural, raboté, poli, verni la plus minuscule mignonne petite oreille de la création.
 - {:.pr.i} C'était un nègre dégingandé sans rythme ni mesure.
 - {:.pr.i} Un nègre à la voix embrumée d'alcool et de misère.
 - Un nègre dont les yeux roulaient une lassitude sanguinolente.
@@ -308,7 +315,7 @@ dans ses actes.
 - {:.i} Moi je me tournai, mes yeux proclamant que je n'avais rien de commun avec ce singe.
 - {:.i} Il était COMIQUE ET LAID,
 - {:.i} COMIQUE ET LAID pour sûr.
-- {:.i} J'arborai un grand sourire complice…
+- {:.i} J'arborai un grand sourire complice...
 - {:.i} Ma lâcheté retrouvée !
 - {:.pr} Je salue les trois siècles qui soutiennent mes droits civiques et mon sang minimisé.
 - Mon héroïsme, quelle farce !
@@ -319,7 +326,7 @@ dans ses actes.
 
 -- 22 --
 
-- Je réclame pour ma face la louange éclatante du crachat !…
+- Je réclame pour ma face la louange éclatante du crachat !...
 
 - {:.pr} Alors, nous étant tels, à nous l'élan viril, le genou vainqueur, les plaines à grosses mottes de l'avenir !
 - {:.pr} Tiens, je préfère avouer que j'ai généreusement déliré, mon cœur dans ma cervelle ainsi qu'un genou ivre.
@@ -333,7 +340,7 @@ dans ses actes.
 - des terres sautent suivant la division fatale des fleuves
 - et le morne qui depuis des siècles retient son cri au dedans de lui-même, c'est lui qui à son tour écartèle le silence
 - et ce peuple vaillance rebondissante !
-- et nos membres vainement disjoints par les plus raffinés supplices, et la vie plus impétueuse jaillissant de ce fumier---comme le corrossollier imprévu de la décomposition des fruits du jacquier !
+- et nos membres vainement disjoints par les plus raffinés supplices, et la vie plus impétueuse jaillissant de ce fumier --- comme le corrossollier imprévu de la décomposition des fruits du jacquier !
 
 - Sur ce rêve vieux en moi mes cruautés cannibales
 
@@ -385,8 +392,8 @@ dans ses actes.
 
 - Mais quel étrange orgueil tout soudain m'illumine ?
 
-- O lumière amicale
-- O fraîche source de la lumière
+- Ô lumière amicale
+- Ô fraîche source de la lumière
 
 - ceux qui n'ont inventé ni la poudre ni la boussole
 - ceux qui n'ont jamais su dompter la vapeur ni l'électricité
@@ -414,7 +421,8 @@ dans ses actes.
 - mais ils s'abandonnent, saisis, à l'essence de toutes choses
 - ignorants des surfaces mais saisis par le mouvement de toutes choses
 - insoucieux de dompter, mais jouant le jeu du monde
-- véritablement les fils aînés du monde poreux à tous les souffles du monde
+- véritablement les fils aînés du monde 
+- poreux à tous les souffles du monde
 - aire fraternelle de tous les souffles du monde
 - lit sans drain de toutes les eaux du monde
 - étincelle du feu sacré du monde
@@ -529,7 +537,7 @@ dans ses actes.
 - je ne suis plus qu'un homme qui accepte n'ayant plus de colère
 - (il n'a plus dans le cœur que de l'amour immense)
 
-- J'accepte… j'accepte… entièrement, sans réserve…
+- J'accepte... j'accepte... entièrement, sans réserve...
 
 - ma race qu'aucune ablution d'hysope et de lys mêlés ne pourrait purifier
 - ma race rongée de macules
@@ -539,7 +547,8 @@ dans ses actes.
 -- 30 --
 
 - ma reine des fouets et des scrofules
-- ma reine des squasmes et des chloasmes (oh ces reines que j'aimais jadis aux jardins printaniers et lointains avec derrière l'illumination de toutes les bougies de marronniers !).
+- ma reine des squasmes et des chloasmes 
+- (oh ces reines que j'aimais jadis aux jardins printaniers et lointains avec derrière l'illumination de toutes les bougies de marronniers !).
 - J'accepte. J'accepte.
 - et le nègre fustigé qui dit : « Pardon mon maître »
 - et les vingt-neuf coups de fouet légal
@@ -571,7 +580,7 @@ dans ses actes.
 
 - j'accepte, j'accepte tout cela
 
-- {:.pr} et loin de la mer de palais qui déferle sous la syzygie suppurante des ampoules, merveilleusement couché le corps de mon pays dans le désespoir de mes bras, ses os ébranlés et dans ses veines, le sang qui hésite comme la goutte de lait végétal à la pointe blessée du bulbe… Et voici soudain que force et vie m'assaillent comme un taureau et je renouvelle ONAN qui confia son sperme à la terre féconde et l'onde de vie circonvient la papille du morne, et voilà toutes les veines et veinules qui s'affairent au sang neuf et l'énorme poumon des cyclones qui respire et le feu thésaurisé des
+- {:.pr} et loin de la mer de palais qui déferle sous la syzygie suppurante des ampoules, merveilleusement couché le corps de mon pays dans le désespoir de mes bras, ses os ébranlés et dans ses veines, le sang qui hésite comme la goutte de lait végétal à la pointe blessée du bulbe... Et voici soudain que force et vie m'assaillent comme un taureau et je renouvelle ONAN qui confia son sperme à la terre féconde et l'onde de vie circonvient la papille du morne, et voilà toutes les veines et veinules qui s'affairent au sang neuf et l'énorme poumon des cyclones qui respire et le feu thésaurisé des
 
 -- 32 --
 
@@ -592,7 +601,8 @@ volcans et le gigantesque pouls sismique qui bat maintenant la mesure d'un corps
 
 -- 33 --
 
-- {:.pr} Je tiens maintenant le sens de l'ordalie : mon pays est la « lance de nuit » de mes ancêtres Bambaras. Elle se ratatine et sa pointe fuit désespérément vers le manche si c'est de sang de poulet qu'on l'arrose et elle dit que c'est du sang d'homme qu'il faut à son tempérament, de la graisse, du foie, du cœur d'homme, non du sang de poulet. 
+- {:.pr} Je tiens maintenant le sens de l'ordalie : mon pays est la « lance de nuit » de mes ancêtres Bambaras. 
+- {:.pr} Elle se ratatine et sa pointe fuit désespérément vers le manche si c'est de sang de poulet qu'on l'arrose et elle dit que c'est du sang d'homme qu'il faut à son tempérament, de la graisse, du foie, du cœur d'homme, non du sang de poulet. 
 - {:.pr} Et je cherche pour mon pays non des cœurs de datte, mais des cœurs d'homme qui c'est pour entrer aux villes d'argent par la grand'porte trapézoïdale, qu'ils battent le sang viril, et mes yeux balayent mes kilomètres carrés de terre paternelle et je dénombre les plaies avec une sorte d'allégresse comme  et je les entasse l'une sur l'autre comme rares espèces, et mon compte s'allonge toujours d'imprévus monnayages de la bassesse.
 - {:.pr} Et voici ceux qui ne se consolent point de n'être pas faits à la ressemblance de Dieu mais du diable, ceux qui considèrent que l'on est nègre comme commis de seconde classe : en attendant mieux et avec possibilité de monter plus haut ; ceux qui battent la chamade devant soi-même, ceux qui vivent dans un cul de basse fosse de soi-même ; ceux qui se drapent de pseudomorphose fière ; ceux qui disent à l'Europe : « Voyez, je sais comme vous faire des courbettes, comme vous présenter mes hommages, en somme, je ne suis pas différent de vous ; ne faites pas attention
 à ma peau noire : c'est le soleil qui m'a brûlé ».
@@ -601,7 +611,7 @@ volcans et le gigantesque pouls sismique qui bat maintenant la mesure d'un corps
 
 - Et il y a le maquereau nègre, l'askari nègre, et tous zèbres se secouent à leur manière pour faire tomber leurs zébrures en une rosée de lait frais.
 
-- Et au milieu de tout cela je dis hurrah ! mon grand-père meurt, je dis hurrah !
+- Et au milieu de tout cela je dis hurrah ! mon grand-père meurt, je dis hurrah
 - la vieille négritude progressivement se cadavérise.
 - Il n'y a pas à dire : c'était un bon nègre.
 - Les Blancs disent que c'était un bon nègre, un vrai bon nègre, le bon nègre à son bon maître.
@@ -617,7 +627,7 @@ volcans et le gigantesque pouls sismique qui bat maintenant la mesure d'un corps
 
 - C'était un très bon nègre.
 
-- {:.pr} Et on lui jetait des pierres, des bouts de ferraille, des tessons de bouteille, mais ni ces pierres, ni cette ferraille, ni ces bouteilles…
+- {:.pr} Et on lui jetait des pierres, des bouts de ferraille, des tessons de bouteille, mais ni ces pierres, ni cette ferraille, ni ces bouteilles...
 - quiètes années de Dieu sur cette motte terraquée !
 
 - Et le fouet disputa au bombillement des mouches la rosée sucrée de nos plaies
@@ -625,7 +635,7 @@ volcans et le gigantesque pouls sismique qui bat maintenant la mesure d'un corps
 - {:.pr} Je dis hurrah ! La vieille négritude progressivement se cadavérise 
 - l'horizon se défait, recule et s'élargit 
 - et voici parmi des déchirements de nuages la fulgurance d'un signe 
-- le négrier craque de toute part… Son ventre se convulse et résonne… L'affreux ténia de sa cargaison ronge les boyaux fétides de l'étrange nourrisson des mers ! 
+- le négrier craque de toute part... Son ventre se convulse et résonne... L'affreux ténia de sa cargaison ronge les boyaux fétides de l'étrange nourrisson des mers ! 
 
 - {:.pr} Et ni l'allégresse des voiles gonflées comme une poche de doublons rebondie, ni les tours joués à la sottise dangereuse des frégates policières ne l'empêchent d'entendre la menace de ses grondements intestins. 
 
@@ -666,7 +676,8 @@ volcans et le gigantesque pouls sismique qui bat maintenant la mesure d'un corps
 
 - et le navire lustral s'avancer impavide sur les eaux écroulées.
 
-- Et maintenant tombent et maintenant pourrissent nos flocs d'ignominie
+- Et maintenant tombent 
+- et maintenant pourrissent nos flocs d'ignominie
 
 - à moi mes danses
 - mes danses de mauvais nègre
@@ -707,13 +718,13 @@ volcans et le gigantesque pouls sismique qui bat maintenant la mesure d'un corps
 - lie ma noire vibration au nombril même du monde
 - Lie, lie-moi, fraternité âpre
 - Puis, m'étranglant de ton lasso d'étoiles
-- monte, Colombe
-- monte
-- monte
-- monte
+- {:.i} monte, Colombe
+- {:.i} monte
+- {:.i} monte
+- {:.i} monte
 - Je te suis, imprimée en mon ancestrale cornée blanche
 - Monte lécheur de ciel
 
 - Et le grand trou noir où je voulais me noyer l'autre lune
-- c'est là que je veux pêcher maintenant
+- C'est là que je veux pêcher maintenant
 - la langue maléfique de la nuit en son immobile verrition !
