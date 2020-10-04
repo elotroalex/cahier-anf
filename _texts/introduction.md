@@ -44,13 +44,13 @@ Césaire écrit des poèmes, dont il n'est pas satisfait. Le premier qu'il publi
 
 ### Une gestation douloureuse
 
-![Aimé Césaire en octobre 1935](/images/cesaire1935.jpg)
+![Aimé Césaire en octobre 1935]({{site.baseurl}}/img/figures/cesaire1935.jpg)
 
 
 Césaire entre à l'École normale supérieure en octobre 1935. Il est, comme il le confiera à Ngal, « à bout de souffle, littéralement[^1] ». C'est à partir de cette rentrée que le jeune homme entreprend
 progressivement l'écriture de *Cahier d'un retour au pays natal,* sans qu'il soit possible de définir précisément quand.
 
-![À la bibliothèque et l'école sur les bancs de laquelle ce livre fut en partie écrit.](images/nom_de_mon_image.jpg)
+![À la bibliothèque et l'école sur les bancs de laquelle ce livre fut en partie écrit.]({{site.baseurl}}/img/figures/nom_de_mon_image.jpg)
 
 Une légende entretenue par l'auteur voudrait que Césaire en ait commencé la rédaction pendant l'été 1935, alors qu'il séjournait à *Šibenik*, en Croatie, invité dans la famille d'un étudiant rencontré à la Cité
 universitaire, Petar Guberina. Il aurait remarqué au large une île nommée Martinska et, fasciné par un paysage et un nom évocateurs d'une Martinique plus lointaine, il aurait demandé à son ami un cahier que serait devenu *Cahier d'un retour au pays natal*. Pourtant, Martinska est en réalité une presqu'île, et non une île, et, en recoupant les sources, il s'avère que Césaire n'a pas pu se rendre chez Guberina en 1935, mais certainement l'été suivant. 
@@ -240,14 +240,13 @@ De nombreux artistes et intellectuels qui se rendent en Amérique pour fuir le n
 
 ## L'édition cubaine
 
-> \[image de la couverture + éventuellement lien vers le fac simile de
-> l'édition\]
+![Volontés No. 20]({{site.baseurl}}/img/figures/volontes.jpg)
 
 Le tiré à part de *Volontés* offert aux Lam aboutit à la première édition en volume du poème, en langue espagnole, *Retorno al país natal*, avec des illustrations de Lam et une préface élogieuse de Benjamin Péret datant de 1942. La traduction est signée par l'écrivain-anthropologue Lydia Cabrera, qui s'est liée d'amitié avec Wifredo Lam et Helena Holzer à leur arrivée à Cuba.
 
 ## L'édition Brentano's
 
-**\[**image de la couverture\]
+![Brentano's]({{site.baseurl}}/img/figures/brentanos.jpg)
 
 Installé à New York, Breton propose vite à Césaire de l'aider à faire connaître sa poésie dans des revues américaines[^10], comme le révèle une lettre de Suzanne Césaire, adressée aux Breton  le 21 octobre 1941 :
 
@@ -296,6 +295,7 @@ L'édition Brentano's :
 
 ## L'édition Bordas
 
+
 À la fin de la guerre, Césaire se lance dans la vie politique aux côtés des communistes. Il est élu maire de Fort-de-France, en mai 1945, et député de la première Constituante, en novembre de la même année.
 Entre-temps, Raymond Queneau, dans une lettre du 25 septembre 1945, lui a proposé de l'éditer chez Gallimard, en lui rappelant leurs rencontres à la rédaction de *Volontés*.
 
@@ -308,7 +308,7 @@ Queneau avait envoyé à Césaire son contrat avec une lettre qui précise :
 
 Pourquoi se projet n'aboutit-il pas ? Les éditeurs ne parviennent-ils pas à s'entendre ? Césaire n'est-il plus satisfait d'une version datant de 1943 ? Rien ne l'indique dans les archives. 
 
-\[image de la couverture + lien vers l'édition du fac simile, si possible\]
+![Bordas]({{site.baseurl}}/img/figures/bordas.jpg)
 
 Ayant fait la connaissance de Jean Marcenac, Césaire entreprend rapidement une nouvelle révision de son texte, pour le publier chez Bordas en mars 1947, soit quelques semaines après la parution de
 l'édition Brentano's, à New York. Sans l'accord de Gallimard. Jean Marcenac[^15], communiste, résistant dans le maquis du Lot, avait fréquenté Pierre Yoyotte et Étienne Léro (membres de *Légitime défense*), lorsqu'il étudiait la philosophie à la Sorbonne[^16]. Proche d'Éluard et d'Aragon, Marcenac a traduit la poésie de Pablo Neruda. Césaire privilégie à l'évidence un éditeur correspondant à la fois à ses réseaux estudiantins et à ses nouveaux horizons politiques et poétiques.
@@ -327,7 +327,7 @@ La permutation rend l'illusoire retour rédempteur plus pénible encore,tandis q
 
 ## L'édition Présence africaine
 
-\[image de la page de couverture\]
+![Présence africaine]({{site.baseurl}}/img/figures/pa56.jpg)
 
 En 1947, le Sénégalais Alioune Diop fonde la revue *Présence africaine*, à laquelle est bientôt associée une maison d'édition. Césaire ne participera à l'aventure que de fort loin jusqu'en 1955. Au moment où ses doutes au sujet du Parti communiste français s'intensifient, il décide cependant un repli stratégique. L'année 1955 est marquée par la publication de nombreux poèmes dans différentes revues, qui seront repris dans son recueil *Ferrements*[^18], et par la virulente querelle sur la « poésie nationale » qui l'oppose à Louis Aragon, *via* René
 Depestre dans *Présence africaine*. Elle révèle l'exaspération de Césaire concernant les injonctions poétiques d'Aragon. Le poète officiel du Parti avait prôné un art poétique « national » fondé sur une esthétique réaliste et le retour à une versification régulière. Depestre donne son assentiment à ces prescriptions. Césaire interpelle
@@ -402,7 +402,7 @@ L'amenuisement progressif de la part faite à ce « manifeste littéraire » �
 
 ## Corpus
 
--   Tapuscrit corrigé à la main, propriété de l'Assemblée nationale.
+-  Tapuscrit corrigé à la main, propriété de l'Assemblée nationale.
 
 -   *Volontés* (revue littéraire mensuelle dirigée par Georges
     Pelorson), n° 20, août 1939, p. 23-51.
