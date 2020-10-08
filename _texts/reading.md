@@ -1,7 +1,7 @@
 ---
 layout: poem
-title: "edition de lecture"
-description: "An interpretation of the final stage of the Cahier typescript." 
+title: "transcription linéaire"
+description: "Transcription linéarisée" 
 author: Aimé Césaire
 editor: Kora Véron
 ---
@@ -39,7 +39,6 @@ This reading edition corrects, normalizes and modernizes accents, punctuation an
 -- 3 --
 
 - {:.pr} urinant debout, les jambes écartées, roides.
-
 - {:.pr.i} Dans cette ville inerte, cette foule désolée sous le soleil, ne participant à rien de ce qui s'exprime, s'affirme, se libère au grand jour de cette terre sienne. Ni à l'Impératrice Joséphine des Français rêvant très haut au-dessus de la négraille. Ni au libérateur figé dans sa libération de pierre blanchie. Ni au conquistador. Ni à ce mépris, ni à cette liberté ni à cette audace.
 
 - {:.pr.i} Au bout du petit matin, cette ville inerte et ses au-delà de lèpres, de consomption, de famines, de peurs tapies dans les ravins, de peurs juchées dans les arbres, de peurs creusées dans le sol, de peurs en dérive dans le ciel, de peurs amoncelées et ses fumerolles d'angoisse.

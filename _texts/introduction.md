@@ -23,8 +23,7 @@ Après avoir été scolarisé à Basse-Pointe, Aimé Césaire est élève au lyc
 Césaire passe quatre années scolaires en hypokhâgne puis en khâgne, à Louis-le-Grand, où il prépare le concours d'entrée à l'École normale supérieure de la rue d'Ulm. Sa santé fragile l'éloigne souvent du lycée
 les deux dernières années. Mais il finit par être admis à l'ENS en juillet 1935, à sa troisième tentative.
 
-Parallèlement, le 27 décembre 1934, Césaire est élu président de l\'Association des étudiants martiniquais. Sous son impulsion, l'organe de l'association, *L'Étudiant martiniquais*, prend le titre de
-*L'Étudiant noir* en mars 1935, après un dernier numéro, en février, où l'on trouve ses premiers écrits, et déjà un article du Sénégalais Léopold Sédar Senghor, son grand ami rencontré dès son arrivée à Paris.
+Parallèlement, le 27 décembre 1934, Césaire est élu président de l\'Association des étudiants martiniquais. Sous son impulsion, l'organe de l'association, *L'Étudiant martiniquais*, prend le titre de *L'Étudiant noir* en mars 1935, après un dernier numéro, en février, où l'on trouve ses premiers écrits, et déjà un article du Sénégalais Léopold Sédar Senghor, son grand ami rencontré dès son arrivée à Paris.
 
 Les débats sont très animés et Césaire signe dans les différents numéros de *L'Étudiant noir* un éditorial intitulé « Nègreries » qui témoigne de son engagement dans la lutte contre l'assimilation culturelle.
 
@@ -44,13 +43,12 @@ Césaire écrit des poèmes, dont il n'est pas satisfait. Le premier qu'il publi
 
 ### Une gestation douloureuse
 
-![Aimé Césaire en octobre 1935]({{site.baseurl}}/img/figures/cesaire1935.jpg)
+![Aimé Césaire en octobre 1935 l'image n'apparaît pas !](//images/cesaire1935.jpg)
 
 
 Césaire entre à l'École normale supérieure en octobre 1935. Il est, comme il le confiera à Ngal, « à bout de souffle, littéralement[^1] ». C'est à partir de cette rentrée que le jeune homme entreprend
 progressivement l'écriture de *Cahier d'un retour au pays natal,* sans qu'il soit possible de définir précisément quand.
 
-![À la bibliothèque et l'école sur les bancs de laquelle ce livre fut en partie écrit.]({{site.baseurl}}/img/figures/nom_de_mon_image.jpg)
 
 Une légende entretenue par l'auteur voudrait que Césaire en ait commencé la rédaction pendant l'été 1935, alors qu'il séjournait à *Šibenik*, en Croatie, invité dans la famille d'un étudiant rencontré à la Cité
 universitaire, Petar Guberina. Il aurait remarqué au large une île nommée Martinska et, fasciné par un paysage et un nom évocateurs d'une Martinique plus lointaine, il aurait demandé à son ami un cahier que serait devenu *Cahier d'un retour au pays natal*. Pourtant, Martinska est en réalité une presqu'île, et non une île, et, en recoupant les sources, il s'avère que Césaire n'a pas pu se rendre chez Guberina en 1935, mais certainement l'été suivant. 
@@ -85,7 +83,7 @@ Cette lettre confirme que le projet éditorial était engagé depuis un moment i
 Le tapuscrit de *Cahier d'un retour au pays natal* compte 43 feuillets (21 x 27, marge gauche 4, 5 à 5 cm irrégulière). Il est doublement paginé, la deuxième pagination étant rectifiée pour prendre en compte
 les ajouts à une version antérieure. La dactylographie, à l'encre violette, a été corrigée manuellement au stylo noir, au crayon bleu et au crayon gris, pour rectifier l'orthographe de certains mots :
 
-- {:.pr.i} <span style='color: #0e6655'> Au bout du petit matin bourgeonnant <del style='color:#FC5D5D'>danses</del> <add style='color:#FC5D5D'>d’anses</add> frêles […]
+- {:.pr.i} <span style='color: #0e6655'>Au bout du petit matin bourgeonnant <del style='color:#FC5D5D'>danses</del> <add style='color:#FC5D5D'>d’anses</add> frêles […]
 
 En laissant cependant de nombreuses coquilles ou fautes d'orthographe :
 
@@ -97,12 +95,11 @@ Pour compléter des syntagmes syntaxiquement incomplets :
 
 Pour modifier un terme :
 
-- {:.pr.i} <span style='color: #0e6655'>ça fait des marais de rouillure dans la <del style='color:#FC5D5D'>chair</del> <add style='color:#FC5D5D'>pâte</add> grise sordide empuantie de la paille
+- {:.pr.i} <span style='color: #0e6655'>ça fait des marais de rouillure dans la <del style='color:#FC5D5D'>chair</del> <add style='color:#FC5D5D'> pâte</add> grise sordide empuantie de la paille
 
 Pour supprimer un passage :
 
-- {:.pr.i} <span style='color: #0e6655'> Au bout du petit matin, ce plus essentiel pays restitué à ma gourmandise, non de diffuse tendresse, mais la tourmentée concentration sensuelle du gras téton des mornes avec l'accidentel palmier comme son germe durci, la jouissance saccadée des torrents <del style='color:
-#FC5D5D'>autour du clitoris volcanique des rochers</del> et depuis Trinité jusqu'à Grand-Rivière,la grand'lèche hystérique de la mer.
+- {:.pr.i} <span style='color: #0e6655'>Au bout du petit matin, ce plus essentiel pays restitué à ma gourmandise, non de diffuse tendresse, mais la tourmentée concentration sensuelle du gras téton des mornes avec l'accidentel palmier comme son germe durci, la jouissance saccadée des torrents <del style='color:#FC5D5D'> autour du clitoris volcanique des rochers</del> et depuis Trinité jusqu'à Grand-Rivière,la grand'lèche hystérique de la mer.
 
 <br>
 D'autres pages sont ajoutés manuellement, soit par Aimé Césaire :
@@ -124,19 +121,19 @@ Le poème est en outre fondé sur un subtil jeu intertextuel visant à entrechoq
 poète-narrateur, dans un tramway, avec un « nègre comique et laid », en référence ironique à « L'albatros » de Baudelaire : oiseau aussi majestueux dans l'azur que ridicule une fois capturé par les marins. Cet
 exemple illustre l'humour décalé de Césaire, *alba* signifiant « blanc » ; et le tramway remplaçant les caravelles :
 
-- {:.pr.i} <span style='color: #0e6655'> Et l'ensemble faisait parfaitement un nègre hideux, un nègre grognon, un nègre mélancolique, un nègre affalé, ses mains réunies en prière sur un bâton noueux. Un nègre enseveli dans une vieille veste élimé<add style='color:
+- {:.pr.i} <span style='color: #0e6655'>Et l'ensemble faisait parfaitement un nègre hideux, un nègre grognon, un nègre mélancolique, un nègre affalé, ses mains réunies en prière sur un bâton noueux. Un nègre enseveli dans une vieille veste élimé<add style='color:
 #FC5D5D'>e</add>. Un nègre comique et laid et des femmes derrière moi rican<del style='color:
 #FC5D5D'>n</del>aient en le regardant.
 
-- {:.pr.i} <span style='color: #0e6655'> Moi je me tournai, mes yeux proclamant que je n'avais rien de commun avec ce singe.
-- {:.pr.i} <span style='color: #0e6655'> Il était COMIQUE ET LAID,
-- {:.pr.i} <span style='color: #0e6655'> COMIQUE ET LAID pour sûr.
+- {:.pr.i} <span style='color: #0e6655'>Moi je me tournai, mes yeux proclamant que je n'avais rien de commun avec ce singe.
+- {:.pr.i} <span style='color: #0e6655'>Il était COMIQUE ET LAID,
+- {:.pr.i} <span style='color: #0e6655'>COMIQUE ET LAID pour sûr.
 - {:.pr.i} <span style='color: #0e6655'>J'arborai un grand sourire complice...
-- {:.pr.i} <span style='color: #0e6655'> Ma lâcheté retrouvée !
+- {:.pr.i} <span style='color: #0e6655'>Ma lâcheté retrouvée !
 
 Ses citations sont parfois plus confidentielles. Un passage qui dénonce le comportement des Nègres honteux voulant faire oublier leur couleur :
 
-- {:.pr} <span style='color: #0e6655'> Et il y a le maquereau nègre, l'askari nègre, et tous zèbres se secouent à leur manière pour faire tomber leurs zébrures en une rosée de lait frais.
+- {:.pr} <span style='color: #0e6655'>Et il y a le maquereau nègre, l'askari nègre, et tous zèbres se secouent à leur manière pour faire tomber leurs zébrures en une rosée de lait frais.
 
 dialogue avec « le zèbre ne se défait pas de ses rayures » : « proverbe massaï du Kenya » figurant dans *L'Âme nègre*[^4] de Maurice Delafosse.
 
@@ -151,7 +148,7 @@ de Césaire le champion du néologisme. Il aurait, par exemple, inventé le
 terme « négraille » qui figure dans la scène de révolte sur le bateau
 négrier :
 
-- {:.pr} <span style='color: #0e6655'> La négraille aux senteurs d'oignon frit retrouve dans son sang répandu le goût amer de la liberté
+- {:.pr} <span style='color: #0e6655'>La négraille aux senteurs d'oignon frit retrouve dans son sang répandu le goût amer de la liberté
 
 Pourtant, « négraille » est emprunté au roman *Le Négrier, aventures de mer*[^5], au moment où l'intrigue se déroule à Saint-Pierre, ancienne capitale économique et culturelle de la Martinique, avant d'être calcinée en mai 1902, par le réveil du volcan la Montagne Pelée. Césaire fait donc preuve d'un humour macabre pour dénoncer les stéréotypes relatifs à l'odeur des Nègres :
 
@@ -173,15 +170,14 @@ Le fil permanent principal est bien sûr l'anaphore du syntagme « au bout du p
 * - {:.pr.i} <span style='color: #0e6655'>autre petit matin d'Europe
 * - {:.pr.i} <span style='color: #0e6655'>brusque scène de ce petit matin 
 * - {:.pr.i} <span style='color: #0e6655'>quatre coins de ce petit matin
-* - {:.pr.i} <span style='color: #0e6655'> Tiède petit matin de chaleur et de peur ancestrales
-* - {:.pr.i} <span style='color: #0e6655'> Tiède petit matin de vertus ancestrales
-* - {:.pr.i} <span style='color: #0e6655'> Et voici au bout de ce petit matin ma prière virile
+* - {:.pr.i} <span style='color: #0e6655'>Tiède petit matin de chaleur et de peur ancestrales
+* - {:.pr.i} <span style='color: #0e6655'>Tiède petit matin de vertus ancestrales
+* - {:.pr.i} <span style='color: #0e6655'>Et voici au bout de ce petit matin ma prière virile
 
 Césaire utilise aussi ce fil pour coudre des fragment des versions ultérieures. Par exemple, dans l'édition Brentano's :
 
-- {:.pr.i} <span style='color:#000080 '> Holà Pitié — hyène long cercle autour de ma pourriture on ne nous a point fait d'injustice. Et au matin de mourir nous savons des hymnes à chanter en prison.
-
-- {:.pr.i} <span style='color:#000080 '> **Au bout du petit matin** le soleil qui toussotte[^8] le soleil qui crache ses poumons
+- {:.pr.i} <span style='color:#000080 '>Holà Pitié — hyène long cercle autour de ma pourriture on ne nous a point fait d'injustice. Et au matin de mourir nous savons des hymnes à chanter en prison.
+- {:.pr.i} <span style='color:#000080 '>Au bout du petit matin le soleil qui toussotte[^8] le soleil qui crache ses poumons
 
 On peut en suivre d'autres : le fil du soleil et de la nuit, de la maladie, du retour, des bateaux, du vent (ou de son absence), des oiseaux, des arbres, de la nourriture, d'Éros et de Thanatos, du *moi* et du *nous*, le fil des *mots,* le fil vertical et horizontal, le fil blanc et le fil noir ... Ces fils ne sont pas simplement des motifs ou
 des thèmes récurrents, mais bien des liens qui permettent d'élaborer le texte, de l'assembler et de le réassembler.
@@ -207,9 +203,9 @@ Pour le tapuscrit, deux types de blocs correspondent aux parties
 
 1.  dactylographiées <span style='color: #0e6655'>TAP</span>
 
-2.  ou manuscrites <span style='color: teal'> MA</span>
+2.  ou manuscrites <span style='color: teal'>MA</span>
 
-## L'édition dans Volontés
+## Volontés
 
 L'édition de *Volontés* n'apporte guère de changement au tapuscrit. Les corrections — dont les suppressions — prévues sont prises en compte, quelques coquilles supplémentaires sont corrigées, comme l'accent dans :
 
@@ -219,7 +215,7 @@ Mais pas toutes, puisque, par exemple, le mot « cyclone » reste mal orthogra
 
 - {:.pr.i} <span style='color:#C0504D'>septembre l'accoucheur de cyclônes</span>
 
-D'autres sont introduites, comme <span style='color:#C0504D'>froulou</span> à la place de « froufrou » :
+D'autres sont introduites, comme <span style='color:#C0504D'> froulou</span> à la place de « froufrou » :
 
 - {:.pr.i} <span style='color:#C0504D'>dans le froulou violet de ses grandes ailes de joie.</span>
 
@@ -233,20 +229,21 @@ rentrent à la Martinique à bord du *Bretagne*. Aimé Césaire a vingt-six ans.
 La guerre est bientôt déclarée. L'amiral Georges Robert arrive à Fort-de France le 14 septembre 1939. Il prendra le titre de Haut-commissaire de la République et de commandant du 4^e^ Théâtre d'opération de l'Atlantique Ouest (Antilles-Guyane et Saint-Pierre et Miquelon). Robert fait allégeance à Pétain après l'armistice avec l'Allemagne, tout en étant étroitement contrôlé par les États-Unis. La Martinique vit dans une atmosphère pesante, mais, bien loin des conflits armés, elle ne connaît pas les violences qui sévissent en Europe. Elle ne rejoindra la France Libre qu'en juillet 1943, à la faveur de l'insurrection d'une partie des forces armées présentes au Camp Balata
 soutenue par le Comité local de Libération nationale martiniquais, après que les Américains eurent suspendu (en avril 1943) leur ravitaillement.
 
-Césaire reprend son élan littéraire en travaillant sur quatre projets imbriqués : la revue culturelle *Tropiques *; le « drame nègre » [*Et les chiens se taisaient *](http://cesaire.elotroalex.com/chiens/); le long poème *Le Grand midi* alias [*Tombeau du soleil *](https://www.andrebreton.fr/fr/work/56600100522190?back_rql=Any%20X%20ORDERBY%20FTIRANK%28X%29%20DESC%20WHERE%20X%20has_text%20%22tombeau%20du%20soleil%2A%22&back_url=https%3A%2F%2Fwww.andrebreton.fr%2Ffr%2Fview%3F_fsb%3D1%26rql%3Dtombeau%20du%20soleil%26subvid%3Dtsearch);
+Césaire reprend son élan littéraire en travaillant sur quatre projets imbriqués : la revue culturelle *Tropiques *; le « drame nègre » [*Et les chiens se taisaient*](http://cesaire.elotroalex.com/chiens/); le long poème *Le Grand midi* alias [*Tombeau du soleil *](https://www.andrebreton.fr/fr/work/56600100522190?back_rql=Any%20X%20ORDERBY%20FTIRANK%28X%29%20DESC%20WHERE%20X%20has_text%20%22tombeau%20du%20soleil%2A%22&back_url=https%3A%2F%2Fwww.andrebreton.fr%2Ffr%2Fview%3F_fsb%3D1%26rql%3Dtombeau%20du%20soleil%26subvid%3Dtsearch);
 et le recueil *[Colombes et menfenil](https://www.andrebreton.fr/work/56600100037610).*
 
 De nombreux artistes et intellectuels qui se rendent en Amérique pour fuir le nazisme font escale à la Martinique. C'est ainsi que Césaire, peu après la sortie du premier numéro de *Tropiques*, en avril 1941, rencontre André Breton et sa femme, Jacqueline, Wifredo Lam et sa future femme, Helena Holzer, ainsi qu'André Masson qui arrive quelques jours plus tard.
 
 ## L'édition cubaine
 
-![Volontés No. 20]({{site.baseurl}}/img/figures/volontes.jpg)
+>\[image de la couverture + éventuellement lien vers le fac simile de
+>l'édition\]
 
 Le tiré à part de *Volontés* offert aux Lam aboutit à la première édition en volume du poème, en langue espagnole, *Retorno al país natal*, avec des illustrations de Lam et une préface élogieuse de Benjamin Péret datant de 1942. La traduction est signée par l'écrivain-anthropologue Lydia Cabrera, qui s'est liée d'amitié avec Wifredo Lam et Helena Holzer à leur arrivée à Cuba.
 
-## L'édition Brentano's
+## Brentano's
 
-![Brentano's]({{site.baseurl}}/img/figures/brentanos.jpg)
+**\[**image de la couverture\]
 
 Installé à New York, Breton propose vite à Césaire de l'aider à faire connaître sa poésie dans des revues américaines[^10], comme le révèle une lettre de Suzanne Césaire, adressée aux Breton  le 21 octobre 1941 :
 
@@ -284,7 +281,7 @@ avec René Étiemble, en février-mars 1944, au moment il passait par la Martini
 
 L'édition Brentano's :
 
-1. reprend l'intégralité du <span style='color: #0e6655'>tapuscrit</span> édité dans <span style='color:#C0504D'>*Volontés* </span> et intègre 
+1. reprend l'intégralité du <span style='color: #0e6655'>tapuscrit</span> édité dans <span style='color:#C0504D'>*Volontés*</span> et intègre :
 
 2. des passages inédits <span style='color:#000080 '>BRE</span>, 
 
@@ -293,8 +290,7 @@ L'édition Brentano's :
 4. et un très court extrait de « En Rupture de Mer Morte » <span style='color:#000080 '>MERMORTE</span>, paru dans
 *Tropiques* n° 3, en octobre 1941.
 
-## L'édition Bordas
-
+## Bordas
 
 À la fin de la guerre, Césaire se lance dans la vie politique aux côtés des communistes. Il est élu maire de Fort-de-France, en mai 1945, et député de la première Constituante, en novembre de la même année.
 Entre-temps, Raymond Queneau, dans une lettre du 25 septembre 1945, lui a proposé de l'éditer chez Gallimard, en lui rappelant leurs rencontres à la rédaction de *Volontés*.
@@ -308,7 +304,7 @@ Queneau avait envoyé à Césaire son contrat avec une lettre qui précise :
 
 Pourquoi se projet n'aboutit-il pas ? Les éditeurs ne parviennent-ils pas à s'entendre ? Césaire n'est-il plus satisfait d'une version datant de 1943 ? Rien ne l'indique dans les archives. 
 
-![Bordas]({{site.baseurl}}/img/figures/bordas.jpg)
+\[image de la couverture + lien vers l'édition du fac simile, si possible\]
 
 Ayant fait la connaissance de Jean Marcenac, Césaire entreprend rapidement une nouvelle révision de son texte, pour le publier chez Bordas en mars 1947, soit quelques semaines après la parution de
 l'édition Brentano's, à New York. Sans l'accord de Gallimard. Jean Marcenac[^15], communiste, résistant dans le maquis du Lot, avait fréquenté Pierre Yoyotte et Étienne Léro (membres de *Légitime défense*), lorsqu'il étudiait la philosophie à la Sorbonne[^16]. Proche d'Éluard et d'Aragon, Marcenac a traduit la poésie de Pablo Neruda. Césaire privilégie à l'évidence un éditeur correspondant à la fois à ses réseaux estudiantins et à ses nouveaux horizons politiques et poétiques.
@@ -325,9 +321,9 @@ Sans disposer du document, mais en connaissant les habitudes de l'écrivain, on 
 
 La permutation rend l'illusoire retour rédempteur plus pénible encore,tandis que le rythme de la « bienfaisante révolution intérieure » est accéléré.
 
-## L'édition Présence africaine
+## Présence africaine
 
-![Présence africaine]({{site.baseurl}}/img/figures/pa56.jpg)
+\[image de la page de couverture\]
 
 En 1947, le Sénégalais Alioune Diop fonde la revue *Présence africaine*, à laquelle est bientôt associée une maison d'édition. Césaire ne participera à l'aventure que de fort loin jusqu'en 1955. Au moment où ses doutes au sujet du Parti communiste français s'intensifient, il décide cependant un repli stratégique. L'année 1955 est marquée par la publication de nombreux poèmes dans différentes revues, qui seront repris dans son recueil *Ferrements*[^18], et par la virulente querelle sur la « poésie nationale » qui l'oppose à Louis Aragon, *via* René
 Depestre dans *Présence africaine*. Elle révèle l'exaspération de Césaire concernant les injonctions poétiques d'Aragon. Le poète officiel du Parti avait prôné un art poétique « national » fondé sur une esthétique réaliste et le retour à une versification régulière. Depestre donne son assentiment à ces prescriptions. Césaire interpelle
@@ -336,17 +332,16 @@ vigoureusement son ami haïtien dans un poème, « Réponse à Depestre poète h
 En gage d'amitié, les éditions Présence africaine obtiennent le droit publier une nouvelle version de *Discours sur le colonialisme*, de *Et les chiens se taisaient*, et de *Cahier d'un retour au pays natal*, qui sort le 29 juin 1956. Cette version du *Cahier* n'est cependant pas significativement différente des autres, hormis le changement de préfacier, Peter Guberina remplaçant André Breton. On peut noter aussi que l'auteur gomme en grande partie son lexique ou ses images à connotation sexuelle, sans que cet accès de pudeur ne soit tout à fait
 explicable.
 
-La version Présence africaine de 1956 est travaillée à partir de l'édition Bordas, dont l'ordre n'est pas bouleversé. Césaire ajoute trois nouveaux blocs et, pour la première et unique fois, il supprime un court passage de version de la version *Volontés* pour le remplacer par
-un nouveau <span style='color:#806D5A'>PA2</span>.
+La version Présence africaine de 1956 est travaillée à partir de l'édition Bordas, dont l'ordre n'est pas bouleversé. Césaire ajoute trois nouveaux blocs et, pour la première et unique fois, il supprime un court passage de version de la version *Volontés* pour le remplacer par un nouveau <span style='color:#806D5A'>PA2</span>.
 
-La première insertion <span style='color:#806D5A'>PA1</span>. est prise dans un complexe processus de réécriture. Césaire procède à de nombreuses coupures dans ce qui avait été ajouté pour Brentano's et Bordas, en réduisant radicalement la partie correspondant à « En guise de manifeste littéraire », dont il modifie l'ordre des strophes.
+La première insertion <span style='color:#806D5A'>PA1</span> est prise dans un complexe processus de réécriture. Césaire procède à de nombreuses coupures dans ce qui avait été ajouté pour Brentano's et Bordas, en réduisant radicalement la partie correspondant à « En guise de manifeste littéraire », dont il modifie l'ordre des strophes.
 
 ## Conclusion : la stabilité d'une œuvre instable
 
 Il peut être tentant d'interpréter les incessantes modifications en fonction d'éléments extérieurs. Il est évident que les éditions de 1947 ont été influencées par la rencontre de Césaire avec Breton.
 L'amenuisement progressif de la part faite à ce « manifeste littéraire » à partir de l'édition Bordas serait alors parallèle à son éloignement avec Breton. Pour le reste, il vaut mieux conclure que le phénomène le plus frappant de cette genèse éditoriale est la remarquable stabilité du poème. Césaire est en effet doublement resté fidèle à son édition de 1939 :
 
-1/ Quelles que soient les versions, les pièces et l'agencement du *crazy patch* initial ont été préservés, à une courte exception près <span style='color:#806D5A'>PA2</span> remplace la dernière strophe de <span style='color: #0e6655'>TAP4</span>. Et les modifications auront été en réalité minimes,le volume de texte correspondant à ce qui a été ajouté, puis déplacé ou retranché, étant dérisoire par rapport à celui du tapuscrit.
+1/ Quelles que soient les versions, les pièces et l'agencement du *crazy patch* initial ont été préservés, à une courte exception près <span style='color:#806D5A'>PA2</span> remplace la dernière strophe de <span style='color: #0e6655'>TAP4</span>. Et les modifications auront été en réalité minimes,le volume de texte correspondant à ce qui a été ajouté, puis déplacé ou retranché, étant minime par rapport à celui du tapuscrit.
 
 2/ Après avoir ajouté le passage comprenant « En guise de manifeste littéraire » pour Brentano's, augmenté par les nouveaux blocs de Bordas <span style='color:#ad1457'>BO1 BO2 BO3</span>, Césaire revient pour Présence africaine à une version plus courte, plus proche finalement du dessin élaboré lorsqu'il était étudiant.
 
@@ -354,13 +349,13 @@ L'amenuisement progressif de la part faite à ce « manifeste littéraire » �
 
 ## Tableau synthétique des modifications
 
-|<span style='color: #0e6655'>Tapuscrit</span> <span style='color:#C0504D'>et Volontés</span>|<span style='color:#000080 '> Brentano’s</span>|<span style='color:#ad1457'> Bordas</span> | <span style='color:#806D5A'>Présence africaine</span>|
+|<span style='color: #0e6655'>Tapuscrit</span> <span style='color:#C0504D'>et Volontés</span>|<span style='color:#000080 '>Brentano’s</span>|<span style='color:#ad1457'>Bordas</span>| <span style='color:#806D5A'>Présence africaine</span>|
 |: ---- :|: ---- :|: ---- :|: ---- :|: ---- :|
 |||<span style='color:#ad1457'>BO1</span>|<span style='color:#ad1457'>BO1</span>|
 |<span style='color: #0e6655'>TAP1</span>|<span style='color: #0e6655'>TAP1</span>|<span style='color: #0e6655'>TAP1</span>|<span style='color: #0e6655'>TAP1</span>|
 ||<span style='color:#000080 '>BRE1</span>|<span style='color:#000080 '>BRE1</span>|<span style='color:#000080 '>BRE1</span>|
 |<span style='color: #0e6655'>TAP2</span>|<span style='color: #0e6655'>TAP2</span>|<span style='color: #0e6655'>TAP2</span>|<span style='color: #0e6655'>TAP2</span>|
-||<span style='color:#000080 '>BRE2</span>|<span style='color:#000080 '><span style='color:#000080 '> BRE3</span>|<span style='color:#806D5A'>PA1</span>|
+||<span style='color:#000080 '>BRE2</span>|<span style='color:#000080 '><span style='color:#000080 '>BRE3</span>|<span style='color:#806D5A'>PA1</span>|
 |||<span style='color:#000080 '>BRE4</span>||
 |||<span style='color:#000080 '><span style='color:#000080 '>MANIF1</span>||
 |||<span style='color:#000080 '>MANIF2|<span style='color:#000080 '>MANIF2 partiellement</span>|
@@ -369,12 +364,12 @@ L'amenuisement progressif de la part faite à ce « manifeste littéraire » �
 |||<span style='color:#000080 '>BRE5</span>|<span style='color:#000080 '>BRE5</span>|
 |||<span style='color:#000080 '>MERMORTE</span>||
 |||<span style='color:#ad1457'>BO2</span>|<span style='color:#ad1457'>BO2 partiellement</span>|
-|||<span style='color:#000080 '>MANIF3</span>|<span style='color:#000080 '><span style='color:#000080 '> MANIF3 partiellement</span>|
+|||<span style='color:#000080 '>MANIF3</span>|<span style='color:#000080 '><span style='color:#000080 '>MANIF3 partiellement</span>|
 ||||<span style='color:#000080 '><span style='color:#000080 '>MANIF1 déplacé, partiellement</span>|
 ||||<span style='color:#000080 '>BRE3 déplacé, partiellement</span>|
 ||||<span style='color:#000080 '>BRE4 déplacé, partiellement</span>|
 ||||<span style='color:#000080 '>MANIF1 déplacé, partiellement</span>|
-|||<span style='color:#000080 '>MANIF4</span>|<span style='color:#000080 '> MANIF4</span>|
+|||<span style='color:#000080 '>MANIF4</span>|<span style='color:#000080 '>MANIF4</span>|
 |||<span style='color:#000080 '>BRE6||
 |<span style='color: #0e6655'>TAP3</span>|<span style='color: #0e6655'>TAP3</span>|<span style='color: #0e6655'>TAP3</span>|<span style='color: #0e6655'>TAP3</span>|
 |<span style='color: teal '>MA1</span>|<span style='color: teal '>MA1</span>|<span style='color: teal '>MA1</span>|<span style='color: teal '>MA1</span>
@@ -402,7 +397,7 @@ L'amenuisement progressif de la part faite à ce « manifeste littéraire » �
 
 ## Corpus
 
--  Tapuscrit corrigé à la main, propriété de l'Assemblée nationale.
+-   Tapuscrit corrigé à la main, propriété de l'Assemblée nationale.
 
 -   *Volontés* (revue littéraire mensuelle dirigée par Georges
     Pelorson), n° 20, août 1939, p. 23-51.
@@ -448,7 +443,7 @@ L'amenuisement progressif de la part faite à ce « manifeste littéraire » �
     Brindeau, 1855 (quatrième édition), p. 294-295.
 
 [^6]: Deleuze, Gilles et Félix Guattari. 1980. *Mille plateaux*.
-    Éditions de Minuit, p. 595 (citation plus courte).
+    Éditions de Minuit, p. 595.
 
 [^7]: Faulkner, William. \[1929\] *Sartoris*. Traduction de l\'anglais
     par Henri Delgove et René-Noël Raimbault, revue par Michel Gresset.
