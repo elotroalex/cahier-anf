@@ -182,7 +182,7 @@ les muqueuses ou vous les fondent en subtilités, ou vous les distillent en ravi
 - Terres rouges terres sanguines terres consanguines.
 
 - {:.pr.i} Ce qui est à moi aussi : une petite cellule dans le Jura, 
-- une petite,cellule, la neige la double de barreaux blancs 
+- une petite cellule, la neige la double de barreaux blancs 
 - la neige est un geôlier blanc qui monte la garde devant une prison 
 - Ce qui est à moi 
 - c'est un homme seul emprisonné de blanc 
