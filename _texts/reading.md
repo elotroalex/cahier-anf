@@ -662,7 +662,7 @@ volcans et le gigantesque pouls sismique qui bat maintenant la mesure d'un corps
 - debout et non point pauvre folle dans sa liberté et son dénuement maritimes girant en la dérive parfaite
 - et la voici :
 - plus inattendument debout
-- debout dansles cordages
+- debout dans les cordages
 - debout à la barre
 - debout à la boussole
 - debout à la carte
