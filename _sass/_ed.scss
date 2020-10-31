@@ -78,22 +78,18 @@ body {
  */
 
 .container {
-  max-width: 38rem;
+  max-width: 90%;
   padding-left:  1rem;
   padding-right: 1rem;
   margin-left:  auto;
   margin-right: auto;
 }
 
-@media (min-width: 38em) {
-  .container {
-    max-width: 32rem;
-  }
-}
-@media (min-width: 56em) {
-  .container {
-    max-width: 38rem;
-  }
+
+.wide-margin {
+  max-width: 38rem;
+  margin-left:  auto;
+  margin-right: auto;
 }
 
 /* Links */
@@ -890,7 +886,7 @@ li.i {
   @extend .container;
 
   margin: 0 auto;
-  // max-width: 90%;
+  max-width: 90%;
   width: 100%;
   overflow: flex-wrap;
 }
@@ -1202,3 +1198,26 @@ div#figure-p img {
 
 }
 
+/* Two columns */
+
+/* Create two equal columns that floats next to each other */
+.column {
+  float: left;
+  width: 50%;
+  padding: 10px;
+  height: 300px; /* Should be removed. Only for demonstration */
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 600px) {
+  .column {
+    width: 100%;
+  }
+}
