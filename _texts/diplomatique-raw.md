@@ -5,7 +5,8 @@ description:  Transcription semi-diplomatique du tapuscrit de Cahier d'un retour
 author: Aimé Césaire
 editor: Kora Véron
 ---
--- 1 --
+
+$$ 1 --
 <div align="right" style='color:#9E9E9E'>1</div> 
 <br>
 
@@ -19,113 +20,116 @@ editor: Kora Véron
 
 - {:.centered} <del style='color:#4B0082'>AIME CESAIRE</del>
 
+
+$$ 2 --
+
 <div align="right" style='color:#9E9E9E'>2</div> 
 
-- {:.pr.i} <span style='color:#4B0082'>Au bout du petit matin bourgeonnant <del style='color:#4B0082'>danses</del><add style='color:#9E9E9E'>d’anses</add>frêles les Antilles qui ont faim, les Antilles grêlées de petite vérole, les Antilles dynamitées d'alcool, échouées dans la boue de cette baie, dans la poussière de cette ville sinistrement échouées.
+- {:.pr.i} Au bout du petit matin bourgeonnant <del style='color:#4B0082'>danses</del><add style='color:#9E9E9E'> d’anses </add>frêles les Antilles qui ont faim, les Antilles grêlées de petite vérole, les Antilles dynamitées d'alcool, échouées dans la boue de cette baie, dans la poussière de cette ville sinistrement échouées.
 
-- {:.pr.i} <span style='color:#000080'><span style='color:#4B0082'>Au bout du petit matin, l'extrême, trompeuse désolée eschare sur la blessure des eaux ; les martyrs qui ne témoignent pas ; les fleurs du sang qui se fânent [sic] et s'éparpillent dans le vent inutile comme des cris de perroquets babillards ; une <del style='color:#4B0082'>ville</del><add style='color:#9E9E9E'>vieille</add>vie menteusement souriante, ses lèvres ouvertes d'angoisses <del style='color:#4B0082'>désafectées</del><add style='color:#9E9E9E'>désaffectées</add>; une vieille misère <del style='color:#4B0082'>pourissant</del><add style='color:#9E9E9E'>pourrissant</add>sous le soleil, silencieusement ; un vieux silence crevant de pustules tièdes — 
+- {:.pr.i} Au bout du petit matin, l'extrême, trompeuse désolée eschare sur la blessure des eaux ; les martyrs qui ne témoignent pas ; les fleurs du sang qui se fânent [sic] et s'éparpillent dans le vent inutile comme des cris de perroquets babillards ; une <del style='color:#4B0082'>ville</del><add style='color:#9E9E9E'>vieille</add>vie menteusement souriante, ses lèvres ouvertes d'angoisses <del style='color:#4B0082'>désafectées</del><add style='color:#9E9E9E'>désaffectées</add>; une vieille misère <del style='color:#4B0082'>pourissant</del><add style='color:#9E9E9E'>pourrissant</add>sous le soleil, silencieusement ; un vieux silence crevant de pustules tièdes —
 
-- {:.pr.i} <span style='color:#4B0082'>l'affreuse inanité de notre raison d'être.
+- {:.pr.i} l'affreuse inanité de notre raison d'être.
 
-- {:.pr.i} <span style='color:#4B0082'>Au bout du petit matin, sur cette plus fragile épaisseur de terre que dépasse de façon humiliante son grandiose avenir — <del style='color:#4B0082'>les volcans éclateront, les raz de marée souffle<del style='color:#4B0082'>n</del>ront la balle [ou belle] aux volcans surpassés,</del>l'eau nue emportera les tâches[sic] mures[sic] du soleil et il ne restera plus qu'un bouillonnement tiède picoré d'oiseaux marins — la plage des songes et l'insensé réveil
+- {:.pr.i} Au bout du petit matin, sur cette plus fragile épaisseur de terre que dépasse de façon humiliante son grandiose avenir — <del style='color:#4B0082'>les volcans éclateront, les raz de marée souffle<del style='color:#4B0082'>n</del>ront la balle [ou belle] aux volcans surpassés,</del>l'eau nue emportera les tâches[sic] mures[sic] du soleil et il ne restera plus qu'un bouillonnement tiède picoré d'oiseaux marins — la plage des songes et l'insensé réveil
 
 <div align="right" style='color:#9E9E9E'>3</div> 
-- {:.centered } <span style='color:#4B0082'>-- 2 --
+- {:.centered } -- 2 --
 			
 
-- {:.pr.i} <span style='color:#4B0082'>Au bout du petit matin, cette ville plate — étalée, trébuchée de son bon sens, inerte, essoufflée sous son fardeau géométrique de croix éternellement recommençante, indocile à son sort, muette, contrariée de toutes façons, incapable de de cro<del style='color:#4B0082'>o</del>ître selon le suc de cette terre, embarrassée, rognée, réduite, en ru<del style='color:#4B0082'>u</del>pture de faune et de flore.
+- {:.pr.i} Au bout du petit matin, cette ville plate — étalée, trébuchée de son bon sens, inerte, essoufflée sous son fardeau géométrique de croix éternellement recommençante, indocile à son sort, muette, contrariée de toutes façons, incapable de de cro<del style='color:#4B0082'>o</del>ître selon le suc de cette terre, embarrassée, rognée, réduite, en ru<del style='color:#4B0082'>u</del>pture de faune et de flore.
 
-- {:.pr.i} <span style='color:#4B0082'>Au bout du petit matin, cette ville plate — étalée...
-- {:.pr.i} <span style='color:#4B0082'>Et dans cette ville inerte, cette foule criarde si <del style='color:#4B0082'>étonament</del><add style='color:#9E9E9E'>étonnamment</add>passée à côté de son cri comme cette ville à côté de son mouvement, de son sens, sans inquiétude, à côté de son vrai cri, le seul qu'on eût voulu l'entendre crier<del style='color:#4B0082'>r</del><del style='color:#4B0082'>par ce</del><add style='color:#9E9E9E'>parce</add>qu’on <del style='color:#4B0082'>xxxxxxxxxxx</del>le sent sien lui seul ; parce qu'on le sent habiter en elle dans quelque refuge profond d'ombre et d'orgueil, dans cette ville inerte, cette foule à côté de son cri de faim, de misère, de révolte, de haine, cette foule si étrangement bavarde et muette.
+- {:.pr.i} Au bout du petit matin, cette ville plate — étalée...
+- {:.pr.i} Et dans cette ville inerte, cette foule criarde si <del style='color:#4B0082'>étonament</del><add style='color:#9E9E9E'>étonnamment</add>passée à côté de son cri comme cette ville à côté de son mouvement, de son sens, sans inquiétude, à côté de son vrai cri, le seul qu'on eût voulu l'entendre crier<del style='color:#4B0082'>r</del><del style='color:#4B0082'>par ce</del><add style='color:#9E9E9E'>parce</add>qu’on <del style='color:#4B0082'>xxxxxxxxxxx</del>le sent sien lui seul ; parce qu'on le sent habiter en elle dans quelque refuge profond d'ombre et d'orgueil, dans cette ville inerte, cette foule à côté de son cri de faim, de misère, de révolte, de haine, cette foule si étrangement bavarde et muette.
 
-- {:.pr.i} <span style='color:#4B0082'>Dans cette ville inerte, cette étrange foule qui ne s'entasse pas, ne se mêle pas : habile à découvrir le point de désencastration, de fuite, d'esquive. Cette foule qui ne sait pas faire foule, cette foule, on s'en rend compte, si parfaitement seule sous ce soleil, à la façon dont une femme, toute on eût cru à la cadence lyrique de ses fesses, interpelle brusquement une pluie hypothétique et lui intime l'ordre de ne pas tomber ; ou à un signe rapide de croix sans mobile visible ; ou à l'animalité subitement grave d'une paysanne, 
+- {:.pr.i} Dans cette ville inerte, cette étrange foule qui ne s'entasse pas, ne se mêle pas : habile à découvrir le point de désencastration, de fuite, d'esquive. Cette foule qui ne sait pas faire foule, cette foule, on s'en rend compte, si parfaitement seule sous ce soleil, à la façon dont une femme, toute on eût cru à la cadence lyrique de ses fesses, interpelle brusquement une pluie hypothétique et lui intime l'ordre de ne pas tomber ; ou à un signe rapide de croix sans mobile visible ; ou à l'animalité subitement grave d'une paysanne, 
 
--- 3 --
+$$ 3 --
 <div align="right" style='color:#9E9E9E'>4</div> 
-- {:.centered} <span style='color:#4B0082'>-- 3 --
+- {:.centered} -- 3 --
 
-- {:.pr} <span style='color:#4B0082'>urinant debout, les jambes écartées, roides.
-- {:.pr.i} <span style='color:#4B0082'>Dans cette ville inerte, cette foule désolée sous le soleil, ne participant à rien de ce qui s'exprime, s'affirme, se libère au grand jour de cette terre sienne. Ni à l'Impératrice Joséphine des Français rêvant très haut au-dessus de la négraille. Ni au libérateur figé dans sa libération de pierre blanchie. Ni au conquistador. Ni à ce mépris, ni à cette liberté ni à cette audace.
+- {:.pr} urinant debout, les jambes écartées, roides.
+- {:.pr.i} Dans cette ville inerte, cette foule désolée sous le soleil, ne participant à rien de ce qui s'exprime, s'affirme, se libère au grand jour de cette terre sienne. Ni à l'Impératrice Joséphine des Français rêvant très haut au-dessus de la négraille. Ni au libérateur figé dans sa libération de pierre blanchie. Ni au conquistador. Ni à ce mépris, ni à cette liberté ni à cette audace.
 
-- {:.pr.i} <span style='color:#4B0082'>Au bout du petit matin, cette ville inerte et ses au-delà <del style='color:#4B0082'>d'éléphantiasis</del>de lèpres, de consomption, de famines, de peurs tapies dans les ravins, de peurs juchées dans les arbres, de peurs creusées dans le sol, de peurs en dérive dans le ciel, de peurs amoncelées et ses fumerolles d'angoisse, <del style='color:#4B0082'>de peurs étalées et ses respirations de rivières.</del>
+- {:.pr.i} Au bout du petit matin, cette ville inerte et ses au-delà <del style='color:#4B0082'>d'éléphantiasis</del>de lèpres, de consomption, de famines, de peurs tapies dans les ravins, de peurs juchées dans les arbres, de peurs creusées dans le sol, de peurs en dérive dans le ciel, de peurs amoncelées et ses fumerolles d'angoisse, <del style='color:#4B0082'>de peurs étalées et ses respirations de rivières.</del>
 
-- {:.pr.i} <span style='color:#4B0082'>Au bout du petit matin, le morne oublié, oublieux de sauter.
+- {:.pr.i} Au bout du petit matin, le morne oublié, oublieux de sauter.
 
-- {:.pr.i} <span style='color:#4B0082'>Au bout du petit matin, le morne au sabot inquiet et docile — son sang impaludé met en déroute <add style='color:#9E9E9E'>le soleil</add>de ses <del style='color:#4B0082'>puls</del><add style='color:#9E9E9E'>pouls</add>surchauffés.
+- {:.pr.i} Au bout du petit matin, le morne au sabot inquiet et docile — son sang impaludé met en déroute <add style='color:#9E9E9E'>le soleil</add>de ses <del style='color:#4B0082'>puls</del><add style='color:#9E9E9E'>pouls</add>surchauffés.
 
-- {:.pr.i} <span style='color:#4B0082'>Au bout du petit matin, l'incendie contenu du morne, comme un sanglot que l'on a baillonné[si] au bord de son éclatement sanguinaire, en quête d'une ignition qui se dérobe et se méconnaît.
+- {:.pr.i} Au bout du petit matin, l'incendie contenu du morne, comme un sanglot que l'on a baillonné[si] au bord de son éclatement sanguinaire, en quête d'une ignition qui se dérobe et se méconnaît.
 
-- -- 4 --
+$$ 4 --
 <div align="right" style='color:#9E9E9E'>5</div> 
-- {:.centered} <span style='color:#4B0082'>-- 4 --
+- {:.centered} -- 4 --
 
-- {:.pr.i} <span style='color:#4B0082'>Au bout du petit matin, le morne accroupi devant la boulimie aux aguets de foudres et de moulins, lentement vomissant ses fatigues d'hommes, le morne seul et son sang répandu, le morne et ses pansements d'ombre, le morne et ses rigoles de peur, le morne et ses grandes mains de vent.
+- {:.pr.i} Au bout du petit matin, le morne accroupi devant la boulimie aux aguets de foudres et de moulins, lentement vomissant ses fatigues d'hommes, le morne seul et son sang répandu, le morne et ses pansements d'ombre, le morne et ses rigoles de peur, le morne et ses grandes mains de vent.
 
-- {:.pr.i} <span style='color:#4B0082'>Au bout du petit matin, le morne famélique et nul ne sait mieux que ce morne bâtard pourquoi le suicidé s'est étouffé avec complicité de son hypoglosse en retournant sa langue pour l'avaler ; pourquoi une femme semble faire la planche à la rivière Capot (son corps lumineusement obscur s'organise docilement au commandement du nombril) mais elle n'est qu'un paquet d'eau sonore
+- {:.pr.i} Au bout du petit matin, le morne famélique et nul ne sait mieux que ce morne bâtard pourquoi le suicidé s'est étouffé avec complicité de son hypoglosse en retournant sa langue pour l'avaler ; pourquoi une femme semble faire la planche à la rivière Capot (son corps lumineusement obscur s'organise docilement au commandement du nombril) mais elle n'est qu'un paquet d'eau sonore
 
-- {:.pr} <span style='color:#4B0082'>Et ni l'instituteur dans <add style='color:#9E9E9E'>sa</add>classe, ni le prêtre au catéchisme ne pourront tirer un mot de ce négrillon somnolent, malgré leur manière si énergique à tous deux de tambouriner son crâne tondu, car c'est dans les marais de la faim que s'est enlisée sa voix d'inanition (un mot-un-seul-mot et je-vous-en-tiens-quitte-de-la-reine-Blanche-de-Castille, un-mot-un-seul-mot, voyez-vous-ce-petit-sauvage-qui-ne-sait-pas-un- seul-des-dix-commandements-de-Dieu), 
-- {:.pr.i} <span style='color:#4B0082'>car sa voix <del style='color:#4B0082'>pourrit</del><add style='color:#9E9E9E'>s'oublie</add>dans les marais de la faim, 
-- {:.pr.i} <span style='color:#4B0082'>et il n'y a rien, rien à tirer vraiment de ce petit vaurien, 
-- {:.pr.i} <span style='color:#4B0082'>qu'une faim qui ne sait plus grimper aux agrès de 
+- {:.pr} Et ni l'instituteur dans <add style='color:#9E9E9E'>sa</add>classe, ni le prêtre au catéchisme ne pourront tirer un mot de ce négrillon somnolent, malgré leur manière si énergique à tous deux de tambouriner son crâne tondu, car c'est dans les marais de la faim que s'est enlisée sa voix d'inanition (un mot-un-seul-mot et je-vous-en-tiens-quitte-de-la-reine-Blanche-de-Castille, un-mot-un-seul-mot, voyez-vous-ce-petit-sauvage-qui-ne-sait-pas-un- seul-des-dix-commandements-de-Dieu), 
+- {:.pr.i} car sa voix <del style='color:#4B0082'>pourrit</del><add style='color:#9E9E9E'>s'oublie</add>dans les marais de la faim, 
+- {:.pr.i} et il n'y a rien, rien à tirer vraiment de ce petit vaurien, 
+- {:.pr.i} qu'une faim qui ne sait plus grimper aux agrès de 
 
-- -- 5 --
+$$ 5 --
 <div align="right" style='color:#9E9E9E'>6</div> 
-- {:.centered} <span style='color:#4B0082'>-- 5 --
+- {:.centered} -- 5 --
 
-- {:.pr} <span style='color:#4B0082'>sa voix, 
-- {:.pr.i} <span style='color:#4B0082'>une faim lourde et veule, 
-- {:.pr.i} <span style='color:#4B0082'>une faim ensevelie au plus profond de la Faim de ce morne famélique.
+- {:.pr} sa voix, 
+- {:.pr.i} une faim lourde et veule, 
+- {:.pr.i} une faim ensevelie au plus profond de la Faim de ce morne famélique.
 
-- {:.pr} <span style='color:#4B0082'>Ici la parade des risibles et scrofuleux bubons, les poutures de microbes très étranges, les poisons sans alexitère connu, les sanies de plaies bien antiques, les fermentations imprévisibles d'espèces putrescibles.
+- {:.pr} Ici la parade des risibles et scrofuleux bubons, les poutures de microbes très étranges, les poisons sans alexitère connu, les sanies de plaies bien antiques, les fermentations imprévisibles d'espèces putrescibles.
 
-- {:.pr.i} <span style='color:#4B0082'>Au bout du petit matin, la grande nuit immobile,les étoiles plus mortes qu'un balafong crevé,
+- {:.pr.i} Au bout du petit matin, la grande nuit immobile,les étoiles plus mortes qu'un balafong crevé,
 
-- {:.pr.i} <span style='color:#4B0082'>Le bulbe tératique de la nuit, germé de nos bassesses et de <add style='color:#9E9E9E'>nos</add>renoncements...
+- {:.pr.i} Le bulbe tératique de la nuit, germé de nos bassesses et de <add style='color:#9E9E9E'>nos</add>renoncements...
 
-- {:.pr.i} <span style='color:#4B0082'>Et nos gestes imbéciles et fous pour faire revivre l'éclaboussement d'or des instants favorisés, le
+- {:.pr.i} Et nos gestes imbéciles et fous pour faire revivre l'éclaboussement d'or des instants favorisés, le
 
-- -- 6 --
+$$ 6 --
 <div align="right" style='color:#9E9E9E'>7</div> 
-- {:.centered} <span style='color:#4B0082'>-- 6 --
+- {:.centered} -- 6 --
 
-- {:.pr} <span style='color:#4B0082'>cordon ombilical restitué à sa splendeur fragile, le pain, et le vin de la complicité, le pain, le vin, le sang des épousailles véridiques.
+- {:.pr} cordon ombilical restitué à sa splendeur fragile, le pain, et le vin de la complicité, le pain, le vin, le sang des épousailles véridiques.
 
-- {:.pr.i} <span style='color:#4B0082'>Et cette joie ancienne m'apportant la connaissance de ma présente misère,
-- {:.pr} <span style='color:#4B0082'>une route bossuée qui pique une tête dans un creux où elle éparpille quelques cases ; une route infatigable qui charge à fond de train un morne en haut duquel elle s'enlise brutalement dans une <del style='color:#4B0082'>marre</del><add style='color:#9E9E9E'>mare</add>de maisons pataudes, une route follement montante, témérairement descendante, et la carcasse de bois comiquement juchée sur de minuscules pattes de ciment que j'appelle « notre maison », sa coiffure de tôle ondulant au soleil comme une peau qui sèche, la salle à manger, le plancher grossier où luisent des têtes de clous, les solives de sapin et d'ombre qui courent au plafond, les chaises de paille fantômales, la lumière grise de la lampe, celle vernissée et rapide des cancrelats qui bourdonne à faire mal...
+- {:.pr.i} Et cette joie ancienne m'apportant la connaissance de ma présente misère,
+- {:.pr} une route bossuée qui pique une tête dans un creux où elle éparpille quelques cases ; une route infatigable qui charge à fond de train un morne en haut duquel elle s'enlise brutalement dans une <del style='color:#4B0082'>marre</del><add style='color:#9E9E9E'>mare</add>de maisons pataudes, une route follement montante, témérairement descendante, et la carcasse de bois comiquement juchée sur de minuscules pattes de ciment que j'appelle « notre maison », sa coiffure de tôle ondulant au soleil comme une peau qui sèche, la salle à manger, le plancher grossier où luisent des têtes de clous, les solives de sapin et d'ombre qui courent au plafond, les chaises de paille fantômales, la lumière grise de la lampe, celle vernissée et rapide des cancrelats qui bourdonne à faire mal...
 
-- {:.pr.i} <span style='color:#4B0082'>Au bout du petit matin, ce plus essentiel pays restitué à ma gourmandise, non de diffuse tendresse, mais la tourmentée concentration sensuelle du gras téton des mornes avec l'accidentel palmier comme son germe durci, la jouissance saccadée des torrents <del style='color:#4B0082'>autour du clitoris volcanique des rochers</del>et depuis Trinité jusqu'à Grand-Rivière,la grand'lèche hystérique de la mer.
+- {:.pr.i} Au bout du petit matin, ce plus essentiel pays restitué à ma gourmandise, non de diffuse tendresse, mais la tourmentée concentration sensuelle du gras téton des mornes avec l'accidentel palmier comme son germe durci, la jouissance saccadée des torrents <del style='color:#4B0082'>autour du clitoris volcanique des rochers</del>et depuis Trinité jusqu'à Grand-Rivière,la grand'lèche hystérique de la mer.
 
-- -- 7 --
+$$ 7 --
 <div align="right" style='color:#9E9E9E'>8</div> 
-- {:.centered} <span style='color:#4B0082'>-- 7 --
+- {:.centered} -- 7 --
 
-- {:.pr.i} <span style='color:#4B0082'>Et le temps passait vite, très vite.
-- {:.pr.i} <span style='color:#4B0082'>Passés août où les manguiers pavoisent de toutes leurs lunules, septembre l'accoucheur de cyclônes[sic], octobre le flambeur de cannes, novembre qui ronronne aux distilleries, c'était Noël qui commençait.
-- {:.pr.i} <span style='color:#4B0082'>Il s'était annoncé d'abord Noël par un picotement de désirs, une soif de tendresses neuves, un bourgeonnement de rêves imprécis, puis il s'était envolé tout à coup dans le froufrou violet de ses grandes ailes de joie, et alors c'était parmi le bourg sa vertigineuse retombée qui éclatait la vie des cases comme une grenade trop mûre.
-- {:.pr.i} <span style='color:#4B0082'>Noël n'était pas comme toutes les fêtes. Il n'aimait pas à courir les rues, à danser sur les places publiques, à s'installer sur les chevaux de bois, à profiter de la cohue pour pincer les femmes, à lancer des feux d'artifice au front des tamariniers. Il avait l'agoraphobie, Noël. Ce <del style='color:#4B0082'>qui</del><add style='color:#9E9E9E'>qu'il</add>lui fallait c'était toute une journée d'affairement, d'apprêts, de cuisinages, de nettoyages, d'inquiétudes, de-peur-que-ça-ne-suffise-pas,
-- {:.pr} <span style='color:#4B0082'>de-peur-que-ça-ne-manque,
-- {:.pr} <span style='color:#4B0082'>de-peur-qu'on-ne-s'embête,
-- {:.pr} <span style='color:#4B0082'>puis le soir une petite église pas intimidante, qui se laiss<add style='color:#9E9E9E'>ât</add>emplir bienveillamment par les rires, les chuchotis, les confidences, les déclarations amoureuses, les médisances et la cacophonie gutturale d'un chantre bien d'attaque et aussi de gais copains et de franches luronnes et des cases aux entrailles riches en succulences, et pas regardantes, et
+- {:.pr.i} Et le temps passait vite, très vite.
+- {:.pr.i} Passés août où les manguiers pavoisent de toutes leurs lunules, septembre l'accoucheur de cyclônes[sic], octobre le flambeur de cannes, novembre qui ronronne aux distilleries, c'était Noël qui commençait.
+- {:.pr.i} Il s'était annoncé d'abord Noël par un picotement de désirs, une soif de tendresses neuves, un bourgeonnement de rêves imprécis, puis il s'était envolé tout à coup dans le froufrou violet de ses grandes ailes de joie, et alors c'était parmi le bourg sa vertigineuse retombée qui éclatait la vie des cases comme une grenade trop mûre.
+- {:.pr.i} Noël n'était pas comme toutes les fêtes. Il n'aimait pas à courir les rues, à danser sur les places publiques, à s'installer sur les chevaux de bois, à profiter de la cohue pour pincer les femmes, à lancer des feux d'artifice au front des tamariniers. Il avait l'agoraphobie, Noël. Ce <del style='color:#4B0082'>qui</del><add style='color:#9E9E9E'>qu'il</add>lui fallait c'était toute une journée d'affairement, d'apprêts, de cuisinages, de nettoyages, d'inquiétudes, de-peur-que-ça-ne-suffise-pas,
+- {:.pr} de-peur-que-ça-ne-manque,
+- {:.pr} de-peur-qu'on-ne-s'embête,
+- {:.pr} puis le soir une petite église pas intimidante, qui se laiss<add style='color:#9E9E9E'>ât</add>emplir bienveillamment par les rires, les chuchotis, les confidences, les déclarations amoureuses, les médisances et la cacophonie gutturale d'un chantre bien d'attaque et aussi de gais copains et de franches luronnes et des cases aux entrailles riches en succulences, et pas regardantes, et
 
-- -- 8 --
+$$ 8 --
 <div align="right" style='color:#9E9E9E'>9</div> 
-- {:.centered} <span style='color:#4B0082'>-- 8 --
+- {:.centered} -- 8 --
 
-- {:.pr} <span style='color:#4B0082'>l'on s'y parque une vingtaine, et la rue est déserte, et le bourg n'est plus qu'un bouquet de chants, et l'on est bien à l'intérieur, et l'on en mange du bon, et l'on en boit du ré<add style='color:#9E9E9E'>j</add>ouissant et il y a du boudin, celui étroit de deux doigts qui s'enroule en volubile, celui large et trapu, le bénin à goût de serpolet, le violent à incandescence pimentée, et du café brûlant et de l'anis sucré et du punch au lait, et le soleil liquide des rhums, et toutes sortes de bonnes choses qui vous imposent autoritairement les muqueuses ou vous les fondent en subtilités, ou vous les distillent en ravissements, ou vous les tissent de <del style='color:#4B0082'>g</del><add style='color:#9E9E9E'>f</add>ragrances, et l'on rit, et l'on chante, et les refrains fusent à perte de vue comme des cocotiers : 
-- {:.pr.i} <span style='color:#4B0082'>ALLELUIA 
-- {:.pr.i} <span style='color:#4B0082'>KYRIE ELEISON ... LEISON... LEISON, 
-- {:.pr.i} <span style='color:#4B0082'>CHRISTE ELEISON... LEISON... LEISON. 
-- {:.pr.i} <span style='color:#4B0082'>Et ce ne sont pas seulement les bouches qui chantent, mais les mains, mais les pieds, mais les fesses, mais les sexes, et la créature toute entière qui se liquéfie en sons, voix et rythme.
-- {:.pr.i} <span style='color:#4B0082'>Arrivée au somme<del style='color:#4B0082'>n</del>t de son ascension, la joie crève comme un nuage. Les chants ne s'arrêtent pas, mais ils roulent maintenant inquiets et lourds par les vallées de la peur, les tunnels de l'angoisse et les feux de l'enfer.
-- {:.pr.i} <span style='color:#4B0082'>Et chacun se met à tirer par la queue le diable le plus proche, jusqu'à ce que la peur s'abolisse insensiblement dans les fines sablures du rêve, et l'on vit comme dans un rêve véritablement, et l'on boit et l'on crie et l'on chante 
+- {:.pr} l'on s'y parque une vingtaine, et la rue est déserte, et le bourg n'est plus qu'un bouquet de chants, et l'on est bien à l'intérieur, et l'on en mange du bon, et l'on en boit du ré<add style='color:#9E9E9E'>j</add>ouissant et il y a du boudin, celui étroit de deux doigts qui s'enroule en volubile, celui large et trapu, le bénin à goût de serpolet, le violent à incandescence pimentée, et du café brûlant et de l'anis sucré et du punch au lait, et le soleil liquide des rhums, et toutes sortes de bonnes choses qui vous imposent autoritairement les muqueuses ou vous les fondent en subtilités, ou vous les distillent en ravissements, ou vous les tissent de <del style='color:#4B0082'>g</del><add style='color:#9E9E9E'>f</add>ragrances, et l'on rit, et l'on chante, et les refrains fusent à perte de vue comme des cocotiers : 
+- {:.pr.i} ALLELUIA 
+- {:.pr.i} KYRIE ELEISON ... LEISON... LEISON, 
+- {:.pr.i} CHRISTE ELEISON... LEISON... LEISON. 
+- {:.pr.i} Et ce ne sont pas seulement les bouches qui chantent, mais les mains, mais les pieds, mais les fesses, mais les sexes, et la créature toute entière qui se liquéfie en sons, voix et rythme.
+- {:.pr.i} Arrivée au somme<del style='color:#4B0082'>n</del>t de son ascension, la joie crève comme un nuage. Les chants ne s'arrêtent pas, mais ils roulent maintenant inquiets et lourds par les vallées de la peur, les tunnels de l'angoisse et les feux de l'enfer.
+- {:.pr.i} Et chacun se met à tirer par la queue le diable le plus proche, jusqu'à ce que la peur s'abolisse insensiblement dans les fines sablures du rêve, et l'on vit comme dans un rêve véritablement, et l'on boit et l'on crie et l'on chante 
 
-- -- 9 --
+$$ 9 --
 <div align="right" style='color:#9E9E9E'>10</div> 
-- {:.centered} <span style='color:#4B0082'>-- 9 --
+- {:.centered} -- 9 --
 
-- {:.pr} <span style='color:#4B0082'>comme dans un rêve, et l'on somnole aussi comme dans un rêve avec des paupières en pétales de rose, et le jour vient velouté comme une sapotille , et l'odeur de purin des <del style='color:#4B0082'>cacoyers</del><add style='color:#9E9E9E'>cacaoyers</add>, et les dindons, qui égr<add style='color:#9E9E9E'>è</add>nen<del style='color:#4B0082'>n</del>ent leurs pustules rouges au soleil, et l'obsession des cloches, et la pluie,
-- {:.pr.i} <span style='color:#4B0082'>les cloches... la pluie... 
-- {:.pr.i} <span style='color:#4B0082'>qui tintent, tintent, tintent...
+- {:.pr} comme dans un rêve, et l'on somnole aussi comme dans un rêve avec des paupières en pétales de rose, et le jour vient velouté comme une sapotille , et l'odeur de purin des <del style='color:#4B0082'>cacoyers</del><add style='color:#9E9E9E'>cacaoyers</add>, et les dindons, qui égr<add style='color:#9E9E9E'>è</add>nen<del style='color:#4B0082'>n</del>ent leurs pustules rouges au soleil, et l'obsession des cloches, et la pluie,
+- {:.pr.i} les cloches... la pluie... 
+- {:.pr.i} qui tintent, tintent, tintent...
 - <br>
 - <br>
 - <br>
@@ -137,144 +141,144 @@ editor: Kora Véron
 - <br>
 - <br>
 
-- {:.pr.i} <span style='color:#4B0082'>Au bout du petit matin, cette ville plate — étalée...
-- {:.pr.i} <span style='color:#4B0082'>Elle rampe sur les mains sans jamais aucune envie de vriller le ciel d'une stature de protestation. Les dos de maison ont peur du ciel truffé de feu, leurs pieds des noyades du sol. Elles ont opté de se poser superficielles entre les surprises et les perfidies. Et pourtant elle avance la ville. Même qu'elle paît tous les jours plus outre sa marée de corridors carrelés, de persiennes pudibondes, de cours gluantes, de peintures qui dégoulinent. Et de petits scandales étouffés, de petites hontes tues, de petites haines immenses pétrissent en bosses et creux les rues étroites où le ruisseau grimace longitudinalement parmi l'étron...
+- {:.pr.i} Au bout du petit matin, cette ville plate — étalée...
+- {:.pr.i} Elle rampe sur les mains sans jamais aucune envie de vriller le ciel d'une stature de protestation. Les dos de maison ont peur du ciel truffé de feu, leurs pieds des noyades du sol. Elles ont opté de se poser superficielles entre les surprises et les perfidies. Et pourtant elle avance la ville. Même qu'elle paît tous les jours plus outre sa marée de corridors carrelés, de persiennes pudibondes, de cours gluantes, de peintures qui dégoulinent. Et de petits scandales étouffés, de petites hontes tues, de petites haines immenses pétrissent en bosses et creux les rues étroites où le ruisseau grimace longitudinalement parmi l'étron...
 
-- {:.pr.i} <span style='color:#4B0082'>Au bout du petit matin, la vie prostrée, on ne sait où dépêcher ses rêves avortés, le fleuve de vie désespérément torpide dans son lit, sans turgescence ni dépression, incer-
+- {:.pr.i} Au bout du petit matin, la vie prostrée, on ne sait où dépêcher ses rêves avortés, le fleuve de vie désespérément torpide dans son lit, sans turgescence ni dépression, incer-
 
-- -- 10 --
+$$ 10 --
 <div align="right" style='color:#9E9E9E'>11</div> 
-- {:.centered} <span style='color:#4B0082'>-- 10 --
+- {:.centered} -- 10 --
 
-- {:.pr} <span style='color:#4B0082'>tain de fluer , lamentablement vide, la lourde impartialité de l'ennui, répartissant l'ombre sur toutes choses égales, l'air stagnant sans une trouée d'oiseau clair.
+- {:.pr} tain de fluer , lamentablement vide, la lourde impartialité de l'ennui, répartissant l'ombre sur toutes choses égales, l'air stagnant sans une trouée d'oiseau clair.
 
-- {:.pr.i} <span style='color:#4B0082'>Au bout du petit matin, une autre petite maison <del style='color:#4B0082'>noire</del>qui sent très mauvais dans une rue très étroite, une maison minuscule qui abrite en ses entrailles de bois pourri des dizaines de rats et la turbulence de mes six frères et sœurs, une petite maison cruelle dont l'intransigeance affole nos fin de mois et mon père fantasque grignoté d'une <del style='color:#4B0082'>vieille vieille</del><add style='color:#9E9E9E'>seule seule</add>misère, je n'ai jamais su laquelle, qu'une imprévisible sorcellerie assoupit en mélancolique tendresse ou exalte en hautes flammes de colère ; et ma mère dont les jambes pour notre faim inlassable pédale[sic], pédale[sic] de jour, de nuit, je suis même réveillé la nuit par ces jambes inlassables qui pédalent la nuit et la morsure âpre dans la <del style='color:#4B0082'>chir</del><add style='color:#9E9E9E'>chair</add>molle de la nuit d'une Singer et que ma mère pédale, pédale pour notre faim et de jour et de nuit.
+- {:.pr.i} Au bout du petit matin, une autre petite maison <del style='color:#4B0082'>noire</del>qui sent très mauvais dans une rue très étroite, une maison minuscule qui abrite en ses entrailles de bois pourri des dizaines de rats et la turbulence de mes six frères et sœurs, une petite maison cruelle dont l'intransigeance affole nos fin de mois et mon père fantasque grignoté d'une <del style='color:#4B0082'>vieille vieille</del><add style='color:#9E9E9E'>seule seule</add>misère, je n'ai jamais su laquelle, qu'une imprévisible sorcellerie assoupit en mélancolique tendresse ou exalte en hautes flammes de colère ; et ma mère dont les jambes pour notre faim inlassable pédale[sic], pédale[sic] de jour, de nuit, je suis même réveillé la nuit par ces jambes inlassables qui pédalent la nuit et la morsure âpre dans la <del style='color:#4B0082'>chir</del><add style='color:#9E9E9E'>chair</add>molle de la nuit d'une Singer et que ma mère pédale, pédale pour notre faim et de jour et de nuit.
 
-- {:.pr.i} <span style='color:#4B0082'>Au bout du petit matin, au-delà de mon père, de ma mère, la case gerçant d'ampoules, comme un pêché[sic] tourmenté de la cloque, et le toit aminci, rapiécé de morceaux de bidon de pétrole, et ça fait des marais de rouillure dans la <del style='color:#4B0082'>chair</del><add style='color:#9E9E9E'>pâte</add>grise sordide empuantie de la paille, et quand le vent siffle, ces disparates font bizarre le bruit, comme un crépitement de friture d'abord, puis comme un tison que l'on plonge dans <del style='color:#4B0082'>l’au</del><add style='color:#9E9E9E'>l’eau</add>avec la fumée des brindilles qui s’envole<del style='color:#4B0082'>nt</del>... Et le lit de planches d'où s'est levée ma
+- {:.pr.i} Au bout du petit matin, au-delà de mon père, de ma mère, la case gerçant d'ampoules, comme un pêché[sic] tourmenté de la cloque, et le toit aminci, rapiécé de morceaux de bidon de pétrole, et ça fait des marais de rouillure dans la <del style='color:#4B0082'>chair</del><add style='color:#9E9E9E'>pâte</add>grise sordide empuantie de la paille, et quand le vent siffle, ces disparates font bizarre le bruit, comme un crépitement de friture d'abord, puis comme un tison que l'on plonge dans <del style='color:#4B0082'>l’au</del><add style='color:#9E9E9E'>l’eau</add>avec la fumée des brindilles qui s’envole<del style='color:#4B0082'>nt</del>... Et le lit de planches d'où s'est levée ma
 
-- -- 11 --
+$$ 11 --
 <div align="right" style='color:#9E9E9E'>12</div> 
-- {:.centered} <span style='color:#4B0082'>-- 11 --
+- {:.centered} -- 11 --
 
-- {:.pr} <span style='color:#4B0082'>race, tout entière ma race de lit de planches, avec ses pattes de caisses de Kérosine , comme s'il avait l'éléphantiasis le lit, et sa peau de cabri, et ses feuilles de banane séchées, et ses <del style='color:#4B0082'>ahillons</del><add style='color:#9E9E9E'>haillons</add>, <del style='color:#4B0082'>et sa</del><add style='color:#9E9E9E'>une</add>nostalgie de matelas le lit de ma grand'mère (Au-dessus du lit, dans un pot plein d'huile un lumignon dont la flamme danse comme un gros ravet... sur le pot en lettres d'or : MERCI).
+- {:.pr} race, tout entière ma race de lit de planches, avec ses pattes de caisses de Kérosine , comme s'il avait l'éléphantiasis le lit, et sa peau de cabri, et ses feuilles de banane séchées, et ses <del style='color:#4B0082'>ahillons</del><add style='color:#9E9E9E'>haillons</add>, <del style='color:#4B0082'>et sa</del><add style='color:#9E9E9E'>une</add>nostalgie de matelas le lit de ma grand'mère (Au-dessus du lit, dans un pot plein d'huile un lumignon dont la flamme danse comme un gros ravet... sur le pot en lettres d'or : MERCI).
 
-- {:.pr.i} <span style='color:#4B0082'>Et une honte, cette rue Paille,
-- {:.pr} <span style='color:#4B0082'>un appendice dégoutant[sic] comme les parties honteuses du bourg qui étend à droite et à gauche tout<del style='color:#4B0082'>e</del>au long de la route coloniale, la ho<add style='color:#9E9E9E'>ul</add>e grise de ses toits « d'essentes ». Ici il n'y a que des toits de paille que l'embrun a bruni<add style='color:#9E9E9E'>s</add>et que le vent épile.
-- {:.pr.i} <span style='color:#4B0082'>Tout le monde la méprise la rue Paille. C'est là que la jeunesse du bourg se débauche. C'est là surtout que la mer déverse ses immondices, ses chats morts et ses chiens crevés. Car la rue débouche sur la plage, et la plage ne suffit pas à la rage écumante de la mer.
-- {:.pr.i} <span style='color:#4B0082'>Une <del style='color:#4B0082'>misère</del><add style='color:#9E9E9E'>détresse</add>cette plage elle aussi, avec ses tas d'ordure pourris<add style='color:#9E9E9E'>s</add>ant, ses croupes furtives qui se soulagent, et le sable est noir, funèbre, on n'a jamais vu un sable si noir, et l'écume <add style='color:#9E9E9E'>g</add>lisse dessus en glapissant, et la mer la frappe à grands coups de boxe, ou plutôt la mer est un gros chien qui lèche et <del style='color:#4B0082'>mordille</del><add style='color:#9E9E9E'>mord</add>la plage aux jarrets, et à force de la <del style='color:#4B0082'>mordiller </del><add style='color:#9E9E9E'>mordre</add>elle finira par la dévorer, bien sûr, la plage et la rue Paille avec.
+- {:.pr.i} Et une honte, cette rue Paille,
+- {:.pr} un appendice dégoutant[sic] comme les parties honteuses du bourg qui étend à droite et à gauche tout<del style='color:#4B0082'>e</del>au long de la route coloniale, la ho<add style='color:#9E9E9E'>ul</add>e grise de ses toits « d'essentes ». Ici il n'y a que des toits de paille que l'embrun a bruni<add style='color:#9E9E9E'>s</add>et que le vent épile.
+- {:.pr.i} Tout le monde la méprise la rue Paille. C'est là que la jeunesse du bourg se débauche. C'est là surtout que la mer déverse ses immondices, ses chats morts et ses chiens crevés. Car la rue débouche sur la plage, et la plage ne suffit pas à la rage écumante de la mer.
+- {:.pr.i} Une <del style='color:#4B0082'>misère</del><add style='color:#9E9E9E'>détresse</add>cette plage elle aussi, avec ses tas d'ordure pourris<add style='color:#9E9E9E'>s</add>ant, ses croupes furtives qui se soulagent, et le sable est noir, funèbre, on n'a jamais vu un sable si noir, et l'écume <add style='color:#9E9E9E'>g</add>lisse dessus en glapissant, et la mer la frappe à grands coups de boxe, ou plutôt la mer est un gros chien qui lèche et <del style='color:#4B0082'>mordille</del><add style='color:#9E9E9E'>mord</add>la plage aux jarrets, et à force de la <del style='color:#4B0082'>mordiller </del><add style='color:#9E9E9E'>mordre</add>elle finira par la dévorer, bien sûr, la plage et la rue Paille avec.
 
-- -- 12 --
+$$ 12 --
 <div align="right" style='color:#9E9E9E'>13</div> 
-- {:.centered} <span style='color:#4B0082'>-- 12 --
+- {:.centered} -- 12 --
 
-- {:.pr.i} <span style='color:#4B0082'>Au bout du petit matin, le vent de jadis qui s'élève, des fidélités trahi<add style='color:#9E9E9E'>es,</add>du devoir incertain qui se dérobe et cet autre petit matin d'Europe...
+- {:.pr.i} Au bout du petit matin, le vent de jadis qui s'élève, des fidélités trahi<add style='color:#9E9E9E'>es,</add>du devoir incertain qui se dérobe et cet autre petit matin d'Europe...
 
-- {:.pr.i} <span style='color:#4B0082'>Partir. Mon cœur bruissait de générosités emphatiques. Partir ... j'arriverais lisse et jeune dans ce pays mien et je dirais à ce pays dont le limon entre dans la composition de ma chair : « J'ai longtemps erré et je reviens vers la hideur désertée de vos plaies. »
-- {:.pr.i} <span style='color:#4B0082'>Je viendrais à ce pays mien et je lui dirais. « Embrassez-moi sans crainte ... Et si je ne sais que parler, c'est pour vous que je parlerai. »
-- {:.pr.i} <span style='color:#4B0082'>Et je lui dirais encore :
-- {:.pr} <span style='color:#4B0082'>« Ma bouche sera la bouche des <del style='color:#4B0082'>misères</del><add style='color:#9E9E9E'>malheurs</add>qui n'ont point de bouche, ma voix, la liberté de celles qui <del style='color:#4B0082'>pourrissent</del><add style='color:#9E9E9E'>s’affaissent</add>au cachot du désespoir.»
-- {:.pr.i} <span style='color:#4B0082'>Et venant je me dirais à moi même :
-- {:.pr} <span style='color:#4B0082'>« Et surtout mon corps aussi bien que mon âme, gardez-vous de vous croiser les bras en l'attitude stérile du spectateur, car la vie n'est pas un spectacle, car une mer de douleurs n'est pas un proscenium , car un homme qui crie n'est pas un ours qui danse...».
+- {:.pr.i} Partir. Mon cœur bruissait de générosités emphatiques. Partir ... j'arriverais lisse et jeune dans ce pays mien et je dirais à ce pays dont le limon entre dans la composition de ma chair : « J'ai longtemps erré et je reviens vers la hideur désertée de vos plaies. »
+- {:.pr.i} Je viendrais à ce pays mien et je lui dirais. « Embrassez-moi sans crainte ... Et si je ne sais que parler, c'est pour vous que je parlerai. »
+- {:.pr.i} Et je lui dirais encore :
+- {:.pr} « Ma bouche sera la bouche des <del style='color:#4B0082'>misères</del><add style='color:#9E9E9E'>malheurs</add>qui n'ont point de bouche, ma voix, la liberté de celles qui <del style='color:#4B0082'>pourrissent</del><add style='color:#9E9E9E'>s’affaissent</add>au cachot du désespoir.»
+- {:.pr.i} Et venant je me dirais à moi même :
+- {:.pr} « Et surtout mon corps aussi bien que mon âme, gardez-vous de vous croiser les bras en l'attitude stérile du spectateur, car la vie n'est pas un spectacle, car une mer de douleurs n'est pas un proscenium , car un homme qui crie n'est pas un ours qui danse...».
 
-- {:.pr.i} <span style='color:#4B0082'>Et voici que je suis venu !
+- {:.pr.i} Et voici que je suis venu !
 
-- -- 13 --
+$$ 13 --
 <div align="right" style='color:#9E9E9E'>14</div> 
-- {:.centered} <span style='color:#4B0082'>-- 13 --
+- {:.centered} -- 13 --
 
-- {:.pr.i} <span style='color:#4B0082'>De nouveau cette vie clopinante devant moi, non pas cette vie, cette mort, cette mort sans sens ni piété, cette mort où la grandeur piteusement échoue, l'éclatante petitesse de cette mort, cette mort qui clopine de petitesses en petitesses ; ces pelletées de petites avidités sur le conquistador ; ces pelletées de petits larbins sur le grand sauvage ; ces pelletées de petites âmes sur le Caraïbe aux trois âmes. 
-- {:.pr} <span style='color:#4B0082'>et toutes ces morts futiles 
-- {:.pr} <span style='color:#4B0082'>absurdités sous l'éclaboussement de ma conscience ouverte 
-- {:.pr} <span style='color:#4B0082'>tragiques futilités éclairées de cette seule noctiluque 
-- {:.pr} <span style='color:#4B0082'>et  <del style='color:#4B0082'>moi,</del>moi seul, brusque scène <add style='color:#9E9E9E'>de ce petit matin</add>
-- {:.pr} <span style='color:#4B0082'>où fait le beau l'apocalypse des monstres 
-- {:.pr} <span style='color:#4B0082'>puis, chavirée, se tait 
-- {:.pr} <span style='color:#4B0082'>chaude élection de cendres, de ruines et d'affaissements
+- {:.pr.i} De nouveau cette vie clopinante devant moi, non pas cette vie, cette mort, cette mort sans sens ni piété, cette mort où la grandeur piteusement échoue, l'éclatante petitesse de cette mort, cette mort qui clopine de petitesses en petitesses ; ces pelletées de petites avidités sur le conquistador ; ces pelletées de petits larbins sur le grand sauvage ; ces pelletées de petites âmes sur le Caraïbe aux trois âmes. 
+- {:.pr} et toutes ces morts futiles 
+- {:.pr} absurdités sous l'éclaboussement de ma conscience ouverte 
+- {:.pr} tragiques futilités éclairées de cette seule noctiluque 
+- {:.pr} et  <del style='color:#4B0082'>moi,</del>moi seul, brusque scène <add style='color:#9E9E9E'>de ce petit matin</add>
+- {:.pr} où fait le beau l'apocalypse des monstres 
+- {:.pr} puis, chavirée, se tait 
+- {:.pr} chaude élection de cendres, de ruines et d'affaissements
 
-- {:.pr.i} <span style='color:#4B0082'>— Encore une objection ! une seule, mais de grâce une seule : je n'ai pas le droit de calculer la vie à mon seul empan fuligineux ; de me réduire à ce petit rien ellipsoïdal qui tremble à quatre doigts au-dessus de la ligne, moi homme d'ainsi bouleverser la création, que je me comprenne entre latitude et longitude !
+- {:.pr.i} — Encore une objection ! une seule, mais de grâce une seule : je n'ai pas le droit de calculer la vie à mon seul empan fuligineux ; de me réduire à ce petit rien ellipsoïdal qui tremble à quatre doigts au-dessus de la ligne, moi homme d'ainsi bouleverser la création, que je me comprenne entre latitude et longitude !
 
-- {:.pr.i} <span style='color:#4B0082'>Au bout du petit matin, 
-- {:.pr} <span style='color:#4B0082'>la mâle soif et l'entêté désir, 
-- {:.pr} <span style='color:#4B0082'>me voici divisé des oasis fraîches de la fraternité 
-- {:.pr} <span style='color:#4B0082'>ce rien pudique frise d'échardes dures 
+- {:.pr.i} Au bout du petit matin, 
+- {:.pr} la mâle soif et l'entêté désir, 
+- {:.pr} me voici divisé des oasis fraîches de la fraternité 
+- {:.pr} ce rien pudique frise d'échardes dures 
 
-- -- 14 --
+$$ 14 --
 <div align="right" style='color:#9E9E9E'>15</div> 
-- {:.centered} <span style='color:#4B0082'>-- 14 --
+- {:.centered} -- 14 --
 
-- {:.pr} <span style='color:#4B0082'>cet horizon trop sûr tressaille comme un geôlier.
+- {:.pr} cet horizon trop sûr tressaille comme un geôlier.
 
-- {:.pr.i} <span style='color:#4B0082'>Ton dernier triomphe, corbeau tenace de la Trahison.
-- {:.pr.i} <span style='color:#4B0082'>Ce qui est à moi, ces quelques milliers de mortiférés qui tournent en rond dans la calebasse d'une île et ce qui est à moi aussi, l'archipel arqué comme le désir inquiet de se nier, on dirait une anxiété maternelle pour protéger la ténuité plus délicate qui sépare l'une de l'autre Amérique ; et ses flancs qui sécrètent pour l'Europe la bonne liqueur d'un Gulf Stream, et l'un des deux versants d'incandescence entre quoi l'Équateur funambule vers l'Afrique. Et mon île non-clôture, sa claire audace debout à l'arrière de cette polynésie, devant elle, la Guadeloupe fendue en deux de sa raie <del style='color:#4B0082'>drosale</del><add style='color:#9E9E9E'>dorsale</add>et de même misère que nous, Haïti où la négritude se mit debout pour la première fois et dit qu'elle croyait à son humanité et la comique petit<add style='color:#9E9E9E'>e</add>queue queue de la Floride où d'un nègre s'achève la strangulation, et l'Afrique gigantesquement chenillant jusqu'au pied hispanique de l'Europe, sa nudité où la Mort fauche à larges andains.
+- {:.pr.i} Ton dernier triomphe, corbeau tenace de la Trahison.
+- {:.pr.i} Ce qui est à moi, ces quelques milliers de mortiférés qui tournent en rond dans la calebasse d'une île et ce qui est à moi aussi, l'archipel arqué comme le désir inquiet de se nier, on dirait une anxiété maternelle pour protéger la ténuité plus délicate qui sépare l'une de l'autre Amérique ; et ses flancs qui sécrètent pour l'Europe la bonne liqueur d'un Gulf Stream, et l'un des deux versants d'incandescence entre quoi l'Équateur funambule vers l'Afrique. Et mon île non-clôture, sa claire audace debout à l'arrière de cette polynésie, devant elle, la Guadeloupe fendue en deux de sa raie <del style='color:#4B0082'>drosale</del><add style='color:#9E9E9E'>dorsale</add>et de même misère que nous, Haïti où la négritude se mit debout pour la première fois et dit qu'elle croyait à son humanité et la comique petit<add style='color:#9E9E9E'>e</add>queue queue de la Floride où d'un nègre s'achève la strangulation, et l'Afrique gigantesquement chenillant jusqu'au pied hispanique de l'Europe, sa nudité où la Mort fauche à larges andains.
 
-- {:.pr.i} <span style='color:#4B0082'>Et je me dis Bordeaux et Nantes et Liverpool
-- {:.pr} <span style='color:#4B0082'>et New-York[sic] et San-Francisco[sic]
-- {:.pr} <span style='color:#4B0082'>pas un bout de ce monde qui ne porte mon empreinte digitale et mon calcanéum sur le dos des gratte-ciels[sic] et ma crasse dans le scintillement des gemmes ! 
-- {:.pr} <span style='color:#4B0082'>Qui peut se vanter d'avoir mieux que moi ? 
-- {:.pr} <span style='color:#4B0082'>Virginie. Tennessee. Georgie. Alabama.
+- {:.pr.i} Et je me dis Bordeaux et Nantes et Liverpool
+- {:.pr} et New-York[sic] et San-Francisco[sic]
+- {:.pr} pas un bout de ce monde qui ne porte mon empreinte digitale et mon calcanéum sur le dos des gratte-ciels[sic] et ma crasse dans le scintillement des gemmes ! 
+- {:.pr} Qui peut se vanter d'avoir mieux que moi ? 
+- {:.pr} Virginie. Tennessee. Georgie. Alabama.
 
-- -- 15 --
+$$ 15 --
 <div align="right" style='color:#9E9E9E'>16</div> 
-- {:.centered} <span style='color:#4B0082'>-- 15 --
+- {:.centered} -- 15 --
 
-- {:.pr} <span style='color:#4B0082'>Putréfactions monstrueuses de révoltes inopérantes,  
-- {:.pr} <span style='color:#4B0082'><del style='color:#4B0082'>marias</del>marais <del style='color:#4B0082'>de rhum</del>et de sang putride<add style='color:#9E9E9E'>s</add>
-- {:.pr} <span style='color:#4B0082'>trompettes absurdement bouchées 
-- {:.pr} <span style='color:#4B0082'>Terres rouges terres sanguines terres consanguines.
-- {:.pr.i} <span style='color:#4B0082'><del style='color:#4B0082'>Ce qui</del>
-- {:.pr.i} <span style='color:#4B0082'>Ce qui est à moi aussi : une petite cellule dans le Jura, 
-- {:.pr} <span style='color:#4B0082'>une petite,cellule, la neige la double de barreaux blancs 
-- {:.pr} <span style='color:#4B0082'>la neige est un geôlier blanc qui monte la garde devant une prison 
-- {:.pr} <span style='color:#4B0082'>Ce qui est à moi 
-- {:.pr} <span style='color:#4B0082'>c'est un homme seul emprisonné de blanc 
-- {:.pr} <span style='color:#4B0082'>c'est un homme seul qui défie les cris blancs de la mort blanche 
-- {:.pr} <span style='color:#4B0082'>(TOUSSAINT, TOUSSAINT LOUVERTURE) 
-- {:.pr} <span style='color:#4B0082'>c'est un homme seul qui fascine l'épervier blanc de la mort blanche 
-- {:.pr} <span style='color:#4B0082'>c'est un homme seul dans la mer inféconde de sable blanc 
-- {:.pr} <span style='color:#4B0082'>c'est un moricaud vieux dressé contre les eaux du ciel 
-- {:.pr} <span style='color:#4B0082'>La mort décrit un cercle brillant au-dessus de cet homme 
-- {:.pr} <span style='color:#4B0082'>la mort étoile doucement au dessus[sic] de sa tête 
-- {:.pr} <span style='color:#4B0082'>la mort souffle dans la canne mûre de ses bras 
-- {:.pr} <span style='color:#4B0082'>la mort galope dans la prison comme un cheval blanc 
-- {:.pr} <span style='color:#4B0082'>la mort luit dans l'ombre comme des yeux de chat 
-- {:.pr} <span style='color:#4B0082'>la mort hoquette comme l'eau sous les Cayes 
-- {:.pr} <span style='color:#4B0082'>la mort est un oiseau blessé 
-- {:.pr} <span style='color:#4B0082'>la mort décroît 
-- {:.pr} <span style='color:#4B0082'>la mort vacille 
+- {:.pr} Putréfactions monstrueuses de révoltes inopérantes,  
+- {:.pr} <del style='color:#4B0082'>marias</del>marais <del style='color:#4B0082'>de rhum</del>et de sang putride<add style='color:#9E9E9E'>s</add>
+- {:.pr} trompettes absurdement bouchées 
+- {:.pr} Terres rouges terres sanguines terres consanguines.
+- {:.pr.i} <del style='color:#4B0082'>Ce qui</del>
+- {:.pr.i} Ce qui est à moi aussi : une petite cellule dans le Jura, 
+- {:.pr} une petite,cellule, la neige la double de barreaux blancs 
+- {:.pr} la neige est un geôlier blanc qui monte la garde devant une prison 
+- {:.pr} Ce qui est à moi 
+- {:.pr} c'est un homme seul emprisonné de blanc 
+- {:.pr} c'est un homme seul qui défie les cris blancs de la mort blanche 
+- {:.pr} (TOUSSAINT, TOUSSAINT LOUVERTURE) 
+- {:.pr} c'est un homme seul qui fascine l'épervier blanc de la mort blanche 
+- {:.pr} c'est un homme seul dans la mer inféconde de sable blanc 
+- {:.pr} c'est un moricaud vieux dressé contre les eaux du ciel 
+- {:.pr} La mort décrit un cercle brillant au-dessus de cet homme 
+- {:.pr} la mort étoile doucement au dessus[sic] de sa tête 
+- {:.pr} la mort souffle dans la canne mûre de ses bras 
+- {:.pr} la mort galope dans la prison comme un cheval blanc 
+- {:.pr} la mort luit dans l'ombre comme des yeux de chat 
+- {:.pr} la mort hoquette comme l'eau sous les Cayes 
+- {:.pr} la mort est un oiseau blessé 
+- {:.pr} la mort décroît 
+- {:.pr} la mort vacille 
 
-- -- 16 --
+$$ 16 --
 <div align="right" style='color:#9E9E9E'>17</div> 
-- {:.centered} <span style='color:#4B0082'><span style='color:#4B0082'>-- 16 --
+- {:.centered} -- 16 --
 
-- {:.pr} <span style='color:#4B0082'>la mort est un patyura ombrageux 
-- {:.pr} <span style='color:#4B0082'>la mort expire dans une blanche mare de silence.
+- {:.pr} la mort est un patyura ombrageux 
+- {:.pr} la mort expire dans une blanche mare de silence.
 
-- {:.pr} <span style='color:#4B0082'>Gonflements de nuit aux quatre coins de ce petit matin
-- {:.pr} <span style='color:#4B0082'>soubresauts de mort figée 
-- {:.pr} <span style='color:#4B0082'>destin tenace 
-- {:.pr} <span style='color:#4B0082'>cris debout de terre muette 
-- {:.pr} <span style='color:#4B0082'>la splendeur de ce sang n'éclatera-t-elle point ?
+- {:.pr} Gonflements de nuit aux quatre coins de ce petit matin
+- {:.pr} soubresauts de mort figée 
+- {:.pr} destin tenace 
+- {:.pr} cris debout de terre muette 
+- {:.pr} la splendeur de ce sang n'éclatera-t-elle point ?
 
-- {:.pr.i} <span style='color:#4B0082'>Et maintenant un dernier zut : 
-- {:.pr} <span style='color:#4B0082'>au soleil (Il ne suffit pas à saouler ma tête trop forte) 
-- {:.pr} <span style='color:#4B0082'>à la nuit farineuse avec les pondaisons d'or des lucioles incertaines 
-- {:.pr} <span style='color:#4B0082'>à la chevelure qui tremble tout au haut de la falaise, 
-- {:.pr} <span style='color:#4B0082'>le vent <del style='color:#4B0082'>qu</del>y saute en inconstantes cavaleries salées 
-- {:.pr} <span style='color:#4B0082'>je lis bien à mon pouls que l'exotisme n'est pas provende pour moi.
+- {:.pr.i} Et maintenant un dernier zut : 
+- {:.pr} au soleil (Il ne suffit pas à saouler ma tête trop forte) 
+- {:.pr} à la nuit farineuse avec les pondaisons d'or des lucioles incertaines 
+- {:.pr} à la chevelure qui tremble tout au haut de la falaise, 
+- {:.pr} le vent <del style='color:#4B0082'>qu</del>y saute en inconstantes cavaleries salées 
+- {:.pr} je lis bien à mon pouls que l'exotisme n'est pas provende pour moi.
 
-- {:.pr.i} <span style='color:#4B0082'>Au sortir de l'Europe toute révulsée de cris
-- {:.pr} <span style='color:#4B0082'>es courants silencieux de la désespérance
-- {:.pr} <span style='color:#4B0082'>au sortir de l'Europe peureuse qui se reprend et fière se surestime
-- {:.pr} <span style='color:#4B0082'>je veux cet égoïsme beau et qui s'aventure
-- {:.pr} <span style='color:#4B0082'>et mon labour me remémore d'une implacable étrave.
+- {:.pr.i} Au sortir de l'Europe toute révulsée de cris
+- {:.pr} es courants silencieux de la désespérance
+- {:.pr} au sortir de l'Europe peureuse qui se reprend et fière se surestime
+- {:.pr} je veux cet égoïsme beau et qui s'aventure
+- {:.pr} et mon labour me remémore d'une implacable étrave.
 
-- -- 16 bis --
+$$ 16 bis --
 <div align="right" style='color:#9E9E9E'>18</div> 
-- {:.centered} <span style='color:#4B0082'>-- 16 bis --
+- {:.centered} -- 16 bis --
 
-- {:.pr} <span style='color:#4B0082'>Que de sang dans ma mémoire ! Dans ma mémoire son<add style='color:#9E9E9E'>t</add>des lagunes. Elles sont couvertes de têtes de morts. Elles ne sont pas couvertes de nénuphars.
-- {:.pr} <span style='color:#4B0082'>Dans ma mémoire sont des lagunes. Sur leurs rives ne sont <del style='color:#4B0082'>xxx</del>pas étendus des pagnes de femmes.
-- {:.pr} <span style='color:#4B0082'>Ma mémoire est entourée de sang. Ma mémoire a sa ceinture de cadavres ! 
+- {:.pr} Que de sang dans ma mémoire ! Dans ma mémoire son<add style='color:#9E9E9E'>t</add>des lagunes. Elles sont couvertes de têtes de morts. Elles ne sont pas couvertes de nénuphars.
+- {:.pr} Dans ma mémoire sont des lagunes. Sur leurs rives ne sont <del style='color:#4B0082'>xxx</del>pas étendus des pagnes de femmes.
+- {:.pr} Ma mémoire est entourée de sang. Ma mémoire a sa ceinture de cadavres ! 
 
 - {:.pr} <span style='color:#000000'>et mitraille de barils de rhum génialement arrosant nos révoltes ignobles, <del style='color:##000000'>révulsements</del><add style='color:#9E9E9E'>pâmoison</add>d'yeux doux d'avoir lampé la liberté féroce
 
@@ -289,7 +293,7 @@ editor: Kora Véron
 - {:.pr} <span style='color:#000000'><del style='color:#000000'>je tourne, inapaisée pouliche.</del>
 - {:.pr} <span style='color:#000000'><add style='color:#9E9E9E'>Je tourne, inapaisée pouliche</add>
 
-- -- 17 --
+$$ 17 --
 - <div align="right" style='color:#9E9E9E'>19</div> 
 - {:.centered} <span style='color:#000000'>-- 17 --
 
@@ -309,117 +313,117 @@ editor: Kora Véron
 - <br>
 - <br>
 
-- -- 17 bis --
+$$ 17 bis --
 <div align="right" style='color:#9E9E9E'>20</div> 
-- {:.centered} <span style='color:#4B0082'>-- 17</span><add style='color:#9E9E9E'>bis</add>--
+- {:.centered} -- 17</span><add style='color:#9E9E9E'>bis</add>--
 
-- {:.pr.i} <span style='color:#4B0082'>Soleil, <del style='color:#4B0082'>Agne</del><add style='color:#9E9E9E'>Ange</add>Soleil, Ange frisé du Soleil.
-- {:.pr.i} <span style='color:#4B0082'>Pour un bond par delà la nage verdâtre et douce des eaux de l'abjection !
-- {:.pr.i} <span style='color:#4B0082'>Mais je me suis adressé au mauvais sorcier. Sur cette terre exorcisée, larguée à la dérive de sa précieuse intention maléfique, cette voix qui crie, lentement enrouée, vainement, vainement enrouée, et il n'y a que les fientes accumulées de nos mensonges — et qui ne répondent pas !
+- {:.pr.i} Soleil, <del style='color:#4B0082'>Agne</del><add style='color:#9E9E9E'>Ange</add>Soleil, Ange frisé du Soleil.
+- {:.pr.i} Pour un bond par delà la nage verdâtre et douce des eaux de l'abjection !
+- {:.pr.i} Mais je me suis adressé au mauvais sorcier. Sur cette terre exorcisée, larguée à la dérive de sa précieuse intention maléfique, cette voix qui crie, lentement enrouée, vainement, vainement enrouée, et il n'y a que les fientes accumulées de nos mensonges — et qui ne répondent pas !
 
-- {:.pr} <span style='color:#4B0082'>Quelle folie le merveilleux entrechat par moi rêvé au dessus de la bassesse ! 
-- {:.pr} <span style='color:#4B0082'>Parbleu les Blancs sont de grand<add style='color:#9E9E9E'>s</add>
+- {:.pr} Quelle folie le merveilleux entrechat par moi rêvé au dessus de la bassesse ! 
+- {:.pr} Parbleu les Blancs sont de grand<add style='color:#9E9E9E'>s</add>
  guerriers 
-- {:.pr} <span style='color:#4B0082'>hosannah pour le maître et <add style='color:#9E9E9E'>p</add>our le châtre-nègre ! 
-- {:.pr} <span style='color:#4B0082'>Victoire ! Victoire, vous dis-je : les vaincus sont contents ! 
-- {:.pr} <span style='color:#4B0082'>Joyeuses puanteurs et <del>chats</del><add style='color:#9E9E9E'>chants</add>de boue !
+- {:.pr} hosannah pour le maître et <add style='color:#9E9E9E'>p</add>our le châtre-nègre ! 
+- {:.pr} Victoire ! Victoire, vous dis-je : les vaincus sont contents ! 
+- {:.pr} Joyeuses puanteurs et <del>chats</del><add style='color:#9E9E9E'>chants</add>de boue !
 
-- {:.pr.i} <span style='color:#4B0082'>Par une inattendue et bienfaisante révolution intérieure, j'honore maintenant mes laideurs repoussantes.
+- {:.pr.i} Par une inattendue et bienfaisante révolution intérieure, j'honore maintenant mes laideurs repoussantes.
 
-- {:.pr} <span style='color:#4B0082'>À la Saint-Jean-Baptiste, dès que tombe<add style='color:#9E9E9E'>nt</add>les premières ombres sur le bourg du Gros-Morne, des centaines de maquignons se réunissent pour échanger leurs chevaux, dans la rue « DE PROFUNDIS », dont le nom a du moins la franchise d'avertir d'une ruée des bas-fonds de la Mort. Et c'est de la Mort véritablement, de ses mille mesquines formes locales (fringales inassouvies d'herbe de Para et rond asservissement des distilleries) que surgit vers la grand'vie déclose
+- {:.pr} À la Saint-Jean-Baptiste, dès que tombe<add style='color:#9E9E9E'>nt</add>les premières ombres sur le bourg du Gros-Morne, des centaines de maquignons se réunissent pour échanger leurs chevaux, dans la rue « DE PROFUNDIS », dont le nom a du moins la franchise d'avertir d'une ruée des bas-fonds de la Mort. Et c'est de la Mort véritablement, de ses mille mesquines formes locales (fringales inassouvies d'herbe de Para et rond asservissement des distilleries) que surgit vers la grand'vie déclose
 
-- -- 18 --
+$$ 18 --
 <div align="right" style='color:#9E9E9E'>21</div> 
-- {:.centered} <span style='color:#4B0082'>-- 18 --
+- {:.centered} -- 18 --
 
-- {:.pr} <span style='color:#4B0082'>l'étonnante cavalerie des rosses impétueuses. Et quels galops ! quels hennissements ! quelles sincères urines ! quelles fientes mirobolantes ! « un beau cheval difficile au montoir » — « Une altière jument sensible à la molette ! » — « Un intrépide poulain vaillamment jointé ! »
-- {:.pr.i} <span style='color:#4B0082'>Et le malin compère dont le gilet se barre d'une fière chaîne de montre, refile au lieu de pleines mamelles, d'ardeurs juvéniles, de rotondités authentiques, ou les boursouflures régulières de guêpes complaisantes, ou les obscènes morsures du gingembre, ou la bienfaisante circulation d'un décalitre d'eau sucrée.
+- {:.pr} l'étonnante cavalerie des rosses impétueuses. Et quels galops ! quels hennissements ! quelles sincères urines ! quelles fientes mirobolantes ! « un beau cheval difficile au montoir » — « Une altière jument sensible à la molette ! » — « Un intrépide poulain vaillamment jointé ! »
+- {:.pr.i} Et le malin compère dont le gilet se barre d'une fière chaîne de montre, refile au lieu de pleines mamelles, d'ardeurs juvéniles, de rotondités authentiques, ou les boursouflures régulières de guêpes complaisantes, ou les obscènes morsures du gingembre, ou la bienfaisante circulation d'un décalitre d'eau sucrée.
 
-- {:.pr.i} <span style='color:#4B0082'>Je refuse de me donner mes boursouflures comme d'authentiques gloires.
-- {:.pr.i} <span style='color:#4B0082'>Et je ris de mes anciennes imaginations puériles.
-- {:.pr.i} <span style='color:#4B0082'>Non, nous n'avons jamais été amazones du roi de Dahomey, ni princes de Ghana avec huit cents chameaux, ni docteurs à Tombouctou Askia le Grand étant roi, ni architecte<add style='color:#9E9E9E'>s</add>de <del style='color:#4B0082'>Dejné</del><add style='color:#9E9E9E'>Djenné</add>, ni Mahdis, ni guerriers. Nous ne nous sentons pas sous l'aisselle la démangeaison de ceux qui tinrent jadis la lance. Et puisque j'ai juré de ne rien celer de notre histoire, (moi qui n'admire rien tant que le mouton broutant son ombre d'après-midi), je veux avouer que nous fûmes de tout temps d'assez piètres laveurs de vaisselle, des cireurs de chaussures sans envergure mettons les choses au mieux, d'assez consciencieux sorciers, et le seul indiscutable record que nous ayons battu est celui d'endurance à la chicotte ...
+- {:.pr.i} Je refuse de me donner mes boursouflures comme d'authentiques gloires.
+- {:.pr.i} Et je ris de mes anciennes imaginations puériles.
+- {:.pr.i} Non, nous n'avons jamais été amazones du roi de Dahomey, ni princes de Ghana avec huit cents chameaux, ni docteurs à Tombouctou Askia le Grand étant roi, ni architecte<add style='color:#9E9E9E'>s</add>de <del style='color:#4B0082'>Dejné</del><add style='color:#9E9E9E'>Djenné</add>, ni Mahdis, ni guerriers. Nous ne nous sentons pas sous l'aisselle la démangeaison de ceux qui tinrent jadis la lance. Et puisque j'ai juré de ne rien celer de notre histoire, (moi qui n'admire rien tant que le mouton broutant son ombre d'après-midi), je veux avouer que nous fûmes de tout temps d'assez piètres laveurs de vaisselle, des cireurs de chaussures sans envergure mettons les choses au mieux, d'assez consciencieux sorciers, et le seul indiscutable record que nous ayons battu est celui d'endurance à la chicotte ...
 
-- -- 19 --
+$$ 19 --
 <div align="right" style='color:#9E9E9E'>22</div> 
-- {:.centered} <span style='color:#4B0082'>-- 19 --
+- {:.centered} -- 19 --
 
-- {:.pr.i} <span style='color:#4B0082'>Et ce pays cria pendant des siècles que nous sommes des bêtes brutes ; que les pulsations de l'humanité s'arrêtent aux portes de la négrerie ; que nous sommes un fumier ambulant hideusement prometteur<add style='color:#9E9E9E'>s</add>de cannes tendres et de coton soyeux et l'on nous marquait au fer rouge et nous dormions dans nos excréments et l'on nous vendait sur les places et l'aune de drap anglais et la viande salée d'Irlande coûtaient moins cher que nous, et ce pays était calme, tranquille, disant que l'esprit de Dieu était dans ses actes.
+- {:.pr.i} Et ce pays cria pendant des siècles que nous sommes des bêtes brutes ; que les pulsations de l'humanité s'arrêtent aux portes de la négrerie ; que nous sommes un fumier ambulant hideusement prometteur<add style='color:#9E9E9E'>s</add>de cannes tendres et de coton soyeux et l'on nous marquait au fer rouge et nous dormions dans nos excréments et l'on nous vendait sur les places et l'aune de drap anglais et la viande salée d'Irlande coûtaient moins cher que nous, et ce pays était calme, tranquille, disant que l'esprit de Dieu était dans ses actes.
 
-- {:.pr} <span style='color:#4B0082'>Le négrier ! proclame mon sûr et ténébreux instinct
-- {:.pr} <span style='color:#4B0082'>les voiles de noirs nuages, la polymature de forêts sombres et des dures magnificences des <del style='color:#4B0082'>Calabars</del><add style='color:#9E9E9E'>Calebars</add>, insigne souvenir à la proue blanchoyant — ce squelette !
+- {:.pr} Le négrier ! proclame mon sûr et ténébreux instinct
+- {:.pr} les voiles de noirs nuages, la polymature de forêts sombres et des dures magnificences des <del style='color:#4B0082'>Calabars</del><add style='color:#9E9E9E'>Calebars</add>, insigne souvenir à la proue blanchoyant — ce squelette !
 
-- {:.pr} <span style='color:#4B0082'>J'entends de la cale monter les malédictions enchaînées, les hoquetements des mourants, le bruit d'un qu'on jette à la mer... les abois d'une femme en gésine... des raclements d'ongles cherchant des gorges... des ricanements de fouet... des farfouillis de vermine parmi des lassitudes... 
+- {:.pr} J'entends de la cale monter les malédictions enchaînées, les hoquetements des mourants, le bruit d'un qu'on jette à la mer... les abois d'une femme en gésine... des raclements d'ongles cherchant des gorges... des ricanements de fouet... des farfouillis de vermine parmi des lassitudes... 
 
-- {:.pr} <span style='color:#4B0082'>Rien ne put nous insurger jamais vers quelque noble aventure désespérée.
-- {:.pr} <span style='color:#4B0082'>Ainsi soit-il. Ainsi soit-il.
-- {:.pr} <span style='color:#4B0082'>Je ne suis d'aucune nationalité prévue par les chancelleries
-- {:.pr} <span style='color:#4B0082'>Je défie le craniomètre. Homo sum etc...[sic]
-- {:.pr} <span style='color:#4B0082'>Et qu'ils servent et trahissent et meurent
-- {:.pr} <span style='color:#4B0082'>Ainsi soit-il. Ainsi soit-il. C'était écrit dans la forme de leur bassin.
+- {:.pr} Rien ne put nous insurger jamais vers quelque noble aventure désespérée.
+- {:.pr} Ainsi soit-il. Ainsi soit-il.
+- {:.pr} Je ne suis d'aucune nationalité prévue par les chancelleries
+- {:.pr} Je défie le craniomètre. Homo sum etc...[sic]
+- {:.pr} Et qu'ils servent et trahissent et meurent
+- {:.pr} Ainsi soit-il. Ainsi soit-il. C'était écrit dans la forme de leur bassin.
 
-- -- 20 --
+$$ 20 --
 <div align="right" style='color:#9E9E9E'>23</div> 
-- {:.centered} <span style='color:#4B0082'>-- 20 --
+- {:.centered} -- 20 --
 
-- {:.pr} <span style='color:#4B0082'>Et moi, et moi,
-- {:.pr} <span style='color:#4B0082'>moi qui <del style='color:#4B0082'>chutai</del><add style='color:#9E9E9E'>chantai</add>le poing dur
-- {:.pr} <span style='color:#4B0082'>Il faut savoir jusqu'où je poussai la lâcheté.
-- {:.pr} <span style='color:#4B0082'><del style='color:#4B0082'>u</del><add style='color:#9E9E9E'>U</add>n soir dans un tramway en face de moi, un nègre.
-- {:.pr.i} <span style='color:#4B0082'>C'était un nègre grand comme un pongo<del style='color:#4B0082'>n</del>qui essayait de se faire tout petit sur un banc de <del style='color:#4B0082'>tamway</del><add style='color:#9E9E9E'>tramway</add>.Il essayait d'abandonner sur ce banc crasseux de tramway ses jambes gigantesques et ses mains tremblantes de boxeur affamé. 
-- {:.pr} <span style='color:#4B0082'>Et tout l'avait laissé, le laissait. Son nez qui semblait une péninsule en dérade et sa négritude même qui se décolorait sous l'action d'une inlassable mégie. Et le mégissier était là Misère. Un gros oreillard subit dont les coups de griffes sur ce visage s'étaient cicatrisés en îlots scabieux. Ou plutôt, c'était un ouvrier infatigable, la Misère travaillant à quelque cartouche hideuse[sic]. On voyait très bien comment le pouce industrieux et malveillant avait modelé le front en bosse, percé le nez de deux tunnels parallèles et inquiétants, allongé la démesure de la lippe, et par un chef d'œuvre caricatural, raboté, poli, verni la plus minuscule mignonne petite oreille de la création.
-- {:.pr.i} <span style='color:#4B0082'>C'était un nègre dégingandé sans ryt<add style='color:#9E9E9E'>h</add>me ni mesure.
-- {:.pr.i} <span style='color:#4B0082'>Un nègre à la voix embrumée d'alcool et de misère.
-- {:.pr.i} <span style='color:#4B0082'>Un nègre dont les yeux roulaient une lassitude sanguinolente.
-- {:.pr.i} <span style='color:#4B0082'>Un nègre sans pudeur et ses orteils ricanaient de façon assez puante au fond de la tanière entrebâillée de ses souliers.
+- {:.pr} Et moi, et moi,
+- {:.pr} moi qui <del style='color:#4B0082'>chutai</del><add style='color:#9E9E9E'>chantai</add>le poing dur
+- {:.pr} Il faut savoir jusqu'où je poussai la lâcheté.
+- {:.pr} <del style='color:#4B0082'>u</del><add style='color:#9E9E9E'>U</add>n soir dans un tramway en face de moi, un nègre.
+- {:.pr.i} C'était un nègre grand comme un pongo<del style='color:#4B0082'>n</del>qui essayait de se faire tout petit sur un banc de <del style='color:#4B0082'>tamway</del><add style='color:#9E9E9E'>tramway</add>.Il essayait d'abandonner sur ce banc crasseux de tramway ses jambes gigantesques et ses mains tremblantes de boxeur affamé. 
+- {:.pr} Et tout l'avait laissé, le laissait. Son nez qui semblait une péninsule en dérade et sa négritude même qui se décolorait sous l'action d'une inlassable mégie. Et le mégissier était là Misère. Un gros oreillard subit dont les coups de griffes sur ce visage s'étaient cicatrisés en îlots scabieux. Ou plutôt, c'était un ouvrier infatigable, la Misère travaillant à quelque cartouche hideuse[sic]. On voyait très bien comment le pouce industrieux et malveillant avait modelé le front en bosse, percé le nez de deux tunnels parallèles et inquiétants, allongé la démesure de la lippe, et par un chef d'œuvre caricatural, raboté, poli, verni la plus minuscule mignonne petite oreille de la création.
+- {:.pr.i} C'était un nègre dégingandé sans ryt<add style='color:#9E9E9E'>h</add>me ni mesure.
+- {:.pr.i} Un nègre à la voix embrumée d'alcool et de misère.
+- {:.pr.i} Un nègre dont les yeux roulaient une lassitude sanguinolente.
+- {:.pr.i} Un nègre sans pudeur et ses orteils ricanaient de façon assez puante au fond de la tanière entrebâillée de ses souliers.
 
-- -- 21 --
+$$ 21 --
 <div align="right" style='color:#9E9E9E'>24</div> 
-- {:.centered} <span style='color:#4B0082'>-- 21 --
+- {:.centered} -- 21 --
 
-- {:.pr.i} <span style='color:#4B0082'>La Misère, on ne pouvait pas dire, s'était donné un mal fou pour l'achever.
-- {:.pr.i} <span style='color:#4B0082'>Elle avait creusé l'orbite, l'avait fardé<add style='color:#9E9E9E'>e</add>d'un fard de poussière et de chassie mêlées.
-- {:.pr.i} <span style='color:#4B0082'>Elle avait tendu l'espace vide entre l'accrochement solide des mâchoires et les pommettes d'une vieille joue décatie. Elle avait planté dessus les petits pieux luisants d'une barbe de plusieurs jours. Elle avait affolé le cœur, voûté le dos <del style='color:#4B0082'>, recroquevillé les doigts</del>.
-- {:.pr.i} <span style='color:#4B0082'>Et l'ensemble faisait parfaitement un nègre hideux, un nègre grognon, un nègre mélancolique, un nègre affalé, ses mains réunies en prière sur un bâton noueux. Un nègre enseveli dans une vieille veste élimé<add style='color:#9E9E9E'>e</add>. Un nègre comique et laid et des femmes derrière moi rican<del style='color:#4B0082'>n</del>aient en le regardant.
-- {:.pr.i} <span style='color:#4B0082'>Moi je me tournai, mes yeux proclamant que je n'avais rien de commun avec ce singe.
-- {:.pr.i} <span style='color:#4B0082'>Il était COMIQUE ET LAID,
-- {:.pr.i} <span style='color:#4B0082'>COMIQUE ET LAID pour sûr.
-- {:.pr.i} <span style='color:#4B0082'>J'arborai un grand sourire complice...
-- {:.pr.i} <span style='color:#4B0082'>Ma lâcheté retrouvée !
-- {:.pr} <span style='color:#4B0082'>Je salue les trois siècles qui soutiennent mes droits civiques et mon sang minimisé.
-- {:.pr} <span style='color:#4B0082'>Mon héroïsme, quelle farce !
-- {:.pr} <span style='color:#4B0082'>Cette ville est à ma taille.
-- {:.pr} <span style='color:#4B0082'>Et mon âme est couchée. Comme cette ville dans la crasse et dans la boue couchée.
-- {:.pr} <span style='color:#4B0082'>Cette ville, ma face de boue.
-- {:.pr} <span style='color:#4B0082'>L'eau du baptême sur mon front se sèche.
+- {:.pr.i} La Misère, on ne pouvait pas dire, s'était donné un mal fou pour l'achever.
+- {:.pr.i} Elle avait creusé l'orbite, l'avait fardé<add style='color:#9E9E9E'>e</add>d'un fard de poussière et de chassie mêlées.
+- {:.pr.i} Elle avait tendu l'espace vide entre l'accrochement solide des mâchoires et les pommettes d'une vieille joue décatie. Elle avait planté dessus les petits pieux luisants d'une barbe de plusieurs jours. Elle avait affolé le cœur, voûté le dos <del style='color:#4B0082'>, recroquevillé les doigts</del>.
+- {:.pr.i} Et l'ensemble faisait parfaitement un nègre hideux, un nègre grognon, un nègre mélancolique, un nègre affalé, ses mains réunies en prière sur un bâton noueux. Un nègre enseveli dans une vieille veste élimé<add style='color:#9E9E9E'>e</add>. Un nègre comique et laid et des femmes derrière moi rican<del style='color:#4B0082'>n</del>aient en le regardant.
+- {:.pr.i} Moi je me tournai, mes yeux proclamant que je n'avais rien de commun avec ce singe.
+- {:.pr.i} Il était COMIQUE ET LAID,
+- {:.pr.i} COMIQUE ET LAID pour sûr.
+- {:.pr.i} J'arborai un grand sourire complice...
+- {:.pr.i} Ma lâcheté retrouvée !
+- {:.pr} Je salue les trois siècles qui soutiennent mes droits civiques et mon sang minimisé.
+- {:.pr} Mon héroïsme, quelle farce !
+- {:.pr} Cette ville est à ma taille.
+- {:.pr} Et mon âme est couchée. Comme cette ville dans la crasse et dans la boue couchée.
+- {:.pr} Cette ville, ma face de boue.
+- {:.pr} L'eau du baptême sur mon front se sèche.
 
-- -- 22 --
+$$ 22 --
 <div align="right" style='color:#9E9E9E'>25</div> 
-- {:.centered} <span style='color:#4B0082'>-- 22 --
+- {:.centered} -- 22 --
 
-- {:.pr} <span style='color:#4B0082'>Je réclame pour ma face la louange éclatante du crachat !...
+- {:.pr} Je réclame pour ma face la louange éclatante du crachat !...
 
-- {:.pr} <span style='color:#4B0082'>Alors, nous étant tels, à nous l'élan viril, le genou vainqueur, les plaines à grosses mottes de l'avenir !
-- {:.pr} <span style='color:#4B0082'>Tiens, je préfère avouer que j'ai généreusement déliré, mon cœur dans ma cervelle ainsi qu'un genou ivre.
+- {:.pr} Alors, nous étant tels, à nous l'élan viril, le genou vainqueur, les plaines à grosses mottes de l'avenir !
+- {:.pr} Tiens, je préfère avouer que j'ai généreusement déliré, mon cœur dans ma cervelle ainsi qu'un genou ivre.
 
-- {:.pr} <span style='color:#4B0082'>Mon étoile maintenant, le menfenil funèbre.
+- {:.pr} Mon étoile maintenant, le menfenil funèbre.
 
-- {:.pr} <span style='color:#4B0082'>Et sur ce rêve ancien mes cruautés cannibales
-- {:.pr} <span style='color:#4B0082'>Les balles sont dans la bouche salive épaisse
-- {:.pr} <span style='color:#4B0082'>Notre cœur de quotidienne bassesse éclate
-- {:.pr} <span style='color:#4B0082'>les continents rompent la frêle attache des isthmes
-- {:.pr} <span style='color:#4B0082'>des terres sautent suivant la division fatale des fleu<del style='color:#4B0082'>r</del>ves <lb/>
-- {:.pr} <span style='color:#4B0082'>et le morne qui depuis des siècles retient son cri au dedans de lui-même, c'est lui qui à son tour écartèle le silence
-- {:.pr} <span style='color:#4B0082'>et ce peuple vaillan<add style='color:#9E9E9E'>ce</add><del style='color:#4B0082'>xxx</del>rebondissante !
-- {:.pr} <span style='color:#4B0082'><del style='color:#4B0082'>et toutes nos misères, mais niées, mais dépassées !</del>
-- {:.pr} <span style='color:#4B0082'>et nos membres vainement disjoints par les plus raffinés supplices, et la vie plus impétueuse jaillissant de ce fumier — comme le corrossollier imprévu<del style='color:#4B0082'>e</del> de la décomposition des fruits du jacquier !
+- {:.pr} Et sur ce rêve ancien mes cruautés cannibales
+- {:.pr} Les balles sont dans la bouche salive épaisse
+- {:.pr} Notre cœur de quotidienne bassesse éclate
+- {:.pr} les continents rompent la frêle attache des isthmes
+- {:.pr} des terres sautent suivant la division fatale des fleu<del style='color:#4B0082'>r</del>ves <lb/>
+- {:.pr} et le morne qui depuis des siècles retient son cri au dedans de lui-même, c'est lui qui à son tour écartèle le silence
+- {:.pr} et ce peuple vaillan<add style='color:#9E9E9E'>ce</add><del style='color:#4B0082'>xxx</del>rebondissante !
+- {:.pr} <del style='color:#4B0082'>et toutes nos misères, mais niées, mais dépassées !</del>
+- {:.pr} et nos membres vainement disjoints par les plus raffinés supplices, et la vie plus impétueuse jaillissant de ce fumier — comme le corrossollier imprévu<del style='color:#4B0082'>e</del> de la décomposition des fruits du jacquier !
 
-- {:.pr} <span style='color:#4B0082'>Sur ce rêve vieux en moi mes cruautés cannibales
+- {:.pr} Sur ce rêve vieux en moi mes cruautés cannibales
 
-- {:.pr} <span style='color:#4B0082'>Je me cachais derrière une vanité stupide
-- {:.pr} <span style='color:#4B0082'>le destin m'appelait j'étais caché derrière
-- {:.pr} <span style='color:#4B0082'>et voici l'homme par terre ! Sa très fragile défense dispersée,
+- {:.pr} Je me cachais derrière une vanité stupide
+- {:.pr} le destin m'appelait j'étais caché derrière
+- {:.pr} et voici l'homme par terre ! Sa très fragile défense dispersée,
 
-- -- 23 --
+$$ 23 --
 <div align="right" style='color:#9E9E9E'>26</div> 
 - {:.centered} <span style='color:#000000'>-- 23 --
 
@@ -436,357 +440,357 @@ editor: Kora Véron
 - {:.pr} <span style='color:#000000'>Je dis que cela est bien ainsi.
 - {:.pr} <span style='color:#000000'>Je vis pour le plus plat de mon âme. Pour le plus terne de ma chair !
 
-- -- 23 bis --
+$$ 23 bis --
 <div align="right" style='color:#9E9E9E'>27</div> 
 - {:.centered} <span style='color:#000000'>-- 23 bis --
 
-- {:.pr.i} <span style='color:#4B0082'>Tiède petit matin de chaleur et de peur ancestrales 
-- {:.pr} <span style='color:#4B0082'>je tremble maintenant du commun tremblement
-- {:.pr} <span style='color:#4B0082'>que notre sang docile chante dans le madrépore.
+- {:.pr.i} Tiède petit matin de chaleur et de peur ancestrales 
+- {:.pr} je tremble maintenant du commun tremblement
+- {:.pr} que notre sang docile chante dans le madrépore.
 
-- {:.pr} <span style='color:#4B0082'>Et ces têtards en moi éclos de mon ascendance prodigieuse !
+- {:.pr} Et ces têtards en moi éclos de mon ascendance prodigieuse !
 
-- {:.pr} <span style='color:#4B0082'>ceux qui n'ont inventé ni la poudre ni la boussole
-- {:.pr} <span style='color:#4B0082'>ceux qui n'ont jamais su dompter la vapeur ni l'électricité
-- {:.pr} <span style='color:#4B0082'>ceux qui n'ont exploré ni les mers ni le ciel
-- {:.pr} <span style='color:#4B0082'>mais il savent en ses moindres recoins le pays de souffrance
-- {:.pr} <span style='color:#4B0082'>ceux qui n'ont connu de voyages que de déracinements
-- {:.pr} <span style='color:#4B0082'>ceux qui se sont assouplis aux agenouillements
-- {:.pr} <span style='color:#4B0082'>ceux qu'on domestiqua et christianisa
-- {:.pr} <span style='color:#4B0082'>ceux qu'on inocula d'abatardissement[sic]
-- {:.pr} <span style='color:#4B0082'>tam-tams de mains vides
-- {:.pr} <span style='color:#4B0082'>tam-tams inanes de plaies sonores
-- {:.pr} <span style='color:#4B0082'>tam-tams burlesques de trahison tabide
+- {:.pr} ceux qui n'ont inventé ni la poudre ni la boussole
+- {:.pr} ceux qui n'ont jamais su dompter la vapeur ni l'électricité
+- {:.pr} ceux qui n'ont exploré ni les mers ni le ciel
+- {:.pr} mais il savent en ses moindres recoins le pays de souffrance
+- {:.pr} ceux qui n'ont connu de voyages que de déracinements
+- {:.pr} ceux qui se sont assouplis aux agenouillements
+- {:.pr} ceux qu'on domestiqua et christianisa
+- {:.pr} ceux qu'on inocula d'abatardissement[sic]
+- {:.pr} tam-tams de mains vides
+- {:.pr} tam-tams inanes de plaies sonores
+- {:.pr} tam-tams burlesques de trahison tabide
 
-- {:.pr.i} <span style='color:#4B0082'>Tiède petit <add style='color:#9E9E9E'>matin</add>de chaleurs et de peurs ancestrales
+- {:.pr.i} Tiède petit <add style='color:#9E9E9E'>matin</add>de chaleurs et de peurs ancestrales
 
-- -- 24 --
+$$ 24 --
 <div align="right" style='color:#9E9E9E'>28</div> 
-- {:.centered} <span style='color:#4B0082'>-- 24 --
+- {:.centered} -- 24 --
 
-- {:.pr} <span style='color:#4B0082'>par dessus bord mes richesses pérégrines 
-- {:.pr} <span style='color:#4B0082'>par dessus bord mes faussetés authentiques
+- {:.pr} par dessus bord mes richesses pérégrines 
+- {:.pr} par dessus bord mes faussetés authentiques
 
-- {:.pr} <span style='color:#4B0082'>Mais quel étrange orgueil tout soudain m'illumine ?
+- {:.pr} Mais quel étrange orgueil tout soudain m'illumine ?
 
-- {:.pr} <span style='color:#4B0082'>O lumière amicale
-- {:.pr} <span style='color:#4B0082'>O fraîche source de la lumière
+- {:.pr} O lumière amicale
+- {:.pr} O fraîche source de la lumière
 
-- {:.pr} <span style='color:#4B0082'>ceux qui n'ont inventé ni la poudre ni la boussole
-- {:.pr} <span style='color:#4B0082'>ceux qui n'ont jamais su dompter la vapeur ni l'électricité
-- {:.pr} <span style='color:#4B0082'>ceux qui n'ont exploré ni les mers ni le ciel
-- {:.pr} <span style='color:#4B0082'>mais ceux sans qui la terre ne serait pas la terre
-- {:.pr} <span style='color:#4B0082'>gibbosité d'autant plus bienfaisant que la terre déserte
-- {:.pr} <span style='color:#4B0082'>davantage la terre
-- {:.pr} <span style='color:#4B0082'>silo où se préserve et mûrit ce que la terre a de plus terre
-- {:.pr} <span style='color:#4B0082'>ma négritude n'est pas une pierre, sa surdité ruée contre la clameur du jour
-- {:.pr} <span style='color:#4B0082'>ma négritude n'est pas une taie d'eau morte sur l'œil mort de la terre
-- {:.pr} <span style='color:#4B0082'>ma négritude n'est ni une tour ni une cathédrale
+- {:.pr} ceux qui n'ont inventé ni la poudre ni la boussole
+- {:.pr} ceux qui n'ont jamais su dompter la vapeur ni l'électricité
+- {:.pr} ceux qui n'ont exploré ni les mers ni le ciel
+- {:.pr} mais ceux sans qui la terre ne serait pas la terre
+- {:.pr} gibbosité d'autant plus bienfaisant que la terre déserte
+- {:.pr} davantage la terre
+- {:.pr} silo où se préserve et mûrit ce que la terre a de plus terre
+- {:.pr} ma négritude n'est pas une pierre, sa surdité ruée contre la clameur du jour
+- {:.pr} ma négritude n'est pas une taie d'eau morte sur l'œil mort de la terre
+- {:.pr} ma négritude n'est ni une tour ni une cathédrale
 
-- {:.pr} <span style='color:#4B0082'>elle plonge dans la chair rouge du sol
-- {:.pr} <span style='color:#4B0082'>elle plonge dans la chair ardente du ciel
-- {:.pr} <span style='color:#4B0082'>elle troue l'accablement opaque de sa droite patience !
+- {:.pr} elle plonge dans la chair rouge du sol
+- {:.pr} elle plonge dans la chair ardente du ciel
+- {:.pr} elle troue l'accablement opaque de sa droite patience !
 
-- {:.pr} <span style='color:#4B0082'>Eia pour le Kaïlcédrat royal !
+- {:.pr} Eia pour le Kaïlcédrat royal !
 
-- -- 25 --
+$$ 25 --
 <div align="right" style='color:#9E9E9E'>29</div> 
-- {:.centered} <span style='color:#4B0082'>-- 25 --
+- {:.centered} -- 25 --
 
-- {:.pr} <span style='color:#4B0082'>Eia pour ceux qui n'ont jamais rien inventé
-- {:.pr} <span style='color:#4B0082'>pour ceux qui n'ont jamais rien exploré
-- {:.pr} <span style='color:#4B0082'>pour ceux qui n'ont jamais rien dompté
+- {:.pr} Eia pour ceux qui n'ont jamais rien inventé
+- {:.pr} pour ceux qui n'ont jamais rien exploré
+- {:.pr} pour ceux qui n'ont jamais rien dompté
 
-- {:.pr} <span style='color:#4B0082'>mais ils s'abandonnent, saisis, à l'essence de toutes choses
-- {:.pr} <span style='color:#4B0082'>ignorants des surfaces mais saisis par le mouvement de toutes choses
-- {:.pr} <span style='color:#4B0082'>insoucieux de dompter, mais jouant le jeu du monde
-- {:.pr} <span style='color:#4B0082'>véritablement les fils aînés du monde 
-- {:.pr} <span style='color:#4B0082'>poreux à tous les souffles du monde
-- {:.pr} <span style='color:#4B0082'>aire fraternelle de tous les souffles du monde
-- {:.pr} <span style='color:#4B0082'>lit sans drain de toutes les eaux du monde
-- {:.pr} <span style='color:#4B0082'>étincelle du feu sacré du monde
-- {:.pr} <span style='color:#4B0082'>chair de la chair du monde palpitant du mouvement même du monde !
+- {:.pr} mais ils s'abandonnent, saisis, à l'essence de toutes choses
+- {:.pr} ignorants des surfaces mais saisis par le mouvement de toutes choses
+- {:.pr} insoucieux de dompter, mais jouant le jeu du monde
+- {:.pr} véritablement les fils aînés du monde 
+- {:.pr} poreux à tous les souffles du monde
+- {:.pr} aire fraternelle de tous les souffles du monde
+- {:.pr} lit sans drain de toutes les eaux du monde
+- {:.pr} étincelle du feu sacré du monde
+- {:.pr} chair de la chair du monde palpitant du mouvement même du monde !
 
-- {:.pr.i} <span style='color:#4B0082'>Tiède petit matin de vertus ancestrales
-- {:.pr} <span style='color:#4B0082'>San<del style='color:#4B0082'>s</del>g ! Sang ! tout notre sang ému par le cœur mâle du soleil
+- {:.pr.i} Tiède petit matin de vertus ancestrales
+- {:.pr} San<del style='color:#4B0082'>s</del>g ! Sang ! tout notre sang ému par le cœur mâle du soleil
 
-- {:.pr} <span style='color:#4B0082'>ceux qui savent la féminité de la lune au corps d'huile
-- {:.pr} <span style='color:#4B0082'>l'exaltation réconciliée de l'antilope et de l'étoile
-- {:.pr} <span style='color:#4B0082'>ceux dont la survie chemine en la germination de l'herbe !
+- {:.pr} ceux qui savent la féminité de la lune au corps d'huile
+- {:.pr} l'exaltation réconciliée de l'antilope et de l'étoile
+- {:.pr} ceux dont la survie chemine en la germination de l'herbe !
 
-- {:.pr} <span style='color:#4B0082'>Eia parfait cercle du monde et close concordance !
+- {:.pr} Eia parfait cercle du monde et close concordance !
 
-- {:.pr} <span style='color:#4B0082'>Écoutez le monde blanc
-- {:.pr} <span style='color:#4B0082'>horriblement las de son effort immense
+- {:.pr} Écoutez le monde blanc
+- {:.pr} horriblement las de son effort immense
 
-- -- 26 --
+$$ 26 --
 <div align="right" style='color:#9E9E9E'>30</div> 
-- {:.centered} <span style='color:#4B0082'>-- 26 --
+- {:.centered} -- 26 --
 
-- {:.pr} <span style='color:#4B0082'>ses articulations rebelles craquer sous les étoiles dures
-- {:.pr} <span style='color:#4B0082'>ses raideurs d'acier bleu transperçant la chair mystique
-- {:.pr} <span style='color:#4B0082'>écoute<del style='color:#4B0082'>s</del>ses victoires proditoires trompeter ses défaites
-- {:.pr} <span style='color:#4B0082'>écoute<del style='color:#4B0082'>s</del>aux alibis grandioses son piètre trébuchement
+- {:.pr} ses articulations rebelles craquer sous les étoiles dures
+- {:.pr} ses raideurs d'acier bleu transperçant la chair mystique
+- {:.pr} écoute<del style='color:#4B0082'>s</del>ses victoires proditoires trompeter ses défaites
+- {:.pr} écoute<del style='color:#4B0082'>s</del>aux alibis grandioses son piètre trébuchement
 
-- {:.pr} <span style='color:#4B0082'>Pitié pour nos vainqueurs omniscients et naïfs !
+- {:.pr} Pitié pour nos vainqueurs omniscients et naïfs !
 
-- {:.pr} <span style='color:#4B0082'>Eia pour ceux qui n'ont jamais rien inventé
-- {:.pr} <span style='color:#4B0082'>pour ceux qui n'ont jamais rien exploré
-- {:.pr} <span style='color:#4B0082'>pour ceux qui n'ont jamais rien dompté
+- {:.pr} Eia pour ceux qui n'ont jamais rien inventé
+- {:.pr} pour ceux qui n'ont jamais rien exploré
+- {:.pr} pour ceux qui n'ont jamais rien dompté
 
-- {:.pr} <span style='color:#4B0082'>Eia pour la joie
-- {:.pr} <span style='color:#4B0082'>Eia pour l'amour
-- {:.pr} <span style='color:#4B0082'>Eia pour la douleur aux pis de larmes réincarnées
+- {:.pr} Eia pour la joie
+- {:.pr} Eia pour l'amour
+- {:.pr} Eia pour la douleur aux pis de larmes réincarnées
 
-- {:.pr.i} <span style='color:#4B0082'>Et voici au bout de ce petit matin ma prière virile
-- {:.pr} <span style='color:#4B0082'><del style='color:#4B0082'>que j</del>
-- {:.pr} <span style='color:#4B0082'>que je n'entende ni les rires ni les cris, les yeux fixés 
-- {:.pr} <span style='color:#4B0082'>sur cette ville que je prophétise, belle,
+- {:.pr.i} Et voici au bout de ce petit matin ma prière virile
+- {:.pr} <del style='color:#4B0082'>que j</del>
+- {:.pr} que je n'entende ni les rires ni les cris, les yeux fixés 
+- {:.pr} sur cette ville que je prophétise, belle,
 
-- {:.pr} <span style='color:#4B0082'>donnez-moi le courage du martyr
-- {:.pr} <span style='color:#4B0082'>donnez-moi la foi sauvage du sorcier
-- {:.pr} <span style='color:#4B0082'>donnez à mes mains puissance de modeler
-- {:.pr} <span style='color:#4B0082'>donnez à mon âme la trempe de l'épée
-- {:.pr} <span style='color:#4B0082'>je ne me dérobe point. Faites de ma tête une tête de proue
-- {:.pr} <span style='color:#4B0082'>et de moi-même, mon cœur, ne faites ni un père, ni <add style='color:#9E9E9E'>un</add>frère,
-- {:.pr} <span style='color:#4B0082'>ni un fils, mais le père, mais le frère, mais le fils,
-- {:.pr} <span style='color:#4B0082'>ni un mari, mais l'amant de cet unique peuple.
+- {:.pr} donnez-moi le courage du martyr
+- {:.pr} donnez-moi la foi sauvage du sorcier
+- {:.pr} donnez à mes mains puissance de modeler
+- {:.pr} donnez à mon âme la trempe de l'épée
+- {:.pr} je ne me dérobe point. Faites de ma tête une tête de proue
+- {:.pr} et de moi-même, mon cœur, ne faites ni un père, ni <add style='color:#9E9E9E'>un</add>frère,
+- {:.pr} ni un fils, mais le père, mais le frère, mais le fils,
+- {:.pr} ni un mari, mais l'amant de cet unique peuple.
 
-- -- 27 --
+$$ 27 --
 <div align="right" style='color:#9E9E9E'>31</div> 
-- {:.centered} <span style='color:#4B0082'>-- 27 --
+- {:.centered} -- 27 --
 
-- {:.pr} <span style='color:#4B0082'>Faites-moi rebelle à toute vanité, mais docile à son génie
-- {:.pr} <span style='color:#4B0082'>comme le poing à l'allongée du bras !
-- {:.pr} <span style='color:#4B0082'>Faites moi commissaire de son sang
-- {:.pr} <span style='color:#4B0082'>faites-moi dépositaire de son ressentiment
-- {:.pr} <span style='color:#4B0082'>faites de moi un homme de terminaison
-- {:.pr} <span style='color:#4B0082'>faites de moi un homme d'initiation
-- {:.pr} <span style='color:#4B0082'>faites de moi un homme de recueillement
-- {:.pr} <span style='color:#4B0082'>mais faites aussi de moi un homme d'ensemencement
+- {:.pr} Faites-moi rebelle à toute vanité, mais docile à son génie
+- {:.pr} comme le poing à l'allongée du bras !
+- {:.pr} Faites moi commissaire de son sang
+- {:.pr} faites-moi dépositaire de son ressentiment
+- {:.pr} faites de moi un homme de terminaison
+- {:.pr} faites de moi un homme d'initiation
+- {:.pr} faites de moi un homme de recueillement
+- {:.pr} mais faites aussi de moi un homme d'ensemencement
 
-- {:.pr} <span style='color:#4B0082'>faites de moi l'exécuteur de ces œuvres hautes
+- {:.pr} faites de moi l'exécuteur de ces œuvres hautes
 
-- {:.pr} <span style='color:#4B0082'>voici le temps de se ceindre les reins comme un vaillant homme.
+- {:.pr} voici le temps de se ceindre les reins comme un vaillant homme.
 
-- {:.pr} <span style='color:#4B0082'>Mais les faisant, mon cœur, préservez-moi de toute haine
-- {:.pr} <span style='color:#4B0082'>ne faites point de moi cet homme de haine pour qui je n'ai que haine
-- {:.pr} <span style='color:#4B0082'>car pour me cantonner en cette unique race
-- {:.pr} <span style='color:#4B0082'>vous savez pourtant mon amour catholique
-- {:.pr} <span style='color:#4B0082'>vous savez que ce n'est que ce n'est point par haine des autres races
-- {:.pr} <span style='color:#4B0082'>que je m'exige bêcheur de cette unique race
-- {:.pr} <span style='color:#4B0082'>que ce que ce que je veux
-- {:.pr} <span style='color:#4B0082'>c'est pour la faim universelle
-- {:.pr} <span style='color:#4B0082'>pour la soif universelle
+- {:.pr} Mais les faisant, mon cœur, préservez-moi de toute haine
+- {:.pr} ne faites point de moi cet homme de haine pour qui je n'ai que haine
+- {:.pr} car pour me cantonner en cette unique race
+- {:.pr} vous savez pourtant mon amour catholique
+- {:.pr} vous savez que ce n'est que ce n'est point par haine des autres races
+- {:.pr} que je m'exige bêcheur de cette unique race
+- {:.pr} que ce que ce que je veux
+- {:.pr} c'est pour la faim universelle
+- {:.pr} pour la soif universelle
 
-- {:.pr} <span style='color:#4B0082'>la sommer libre enfin 
+- {:.pr} la sommer libre enfin 
 
-- {:.pr} <span style='color:#4B0082'>de produire de son intimité close
-- {:.pr} <span style='color:#4B0082'>la succulence des fruits.
+- {:.pr} de produire de son intimité close
+- {:.pr} la succulence des fruits.
 
-- -- 28 --
+$$ 28 --
 <div align="right" style='color:#9E9E9E'>32</div> 
-- {:.centered} <span style='color:#4B0082'>-- 28 --
+- {:.centered} -- 28 --
 
-- {:.pr} <span style='color:#4B0082'><del style='color:#4B0082'>Car cet arbre de négritude que je dis kaïlcédrat de patience, n’est plus souvent pour mon inquiétude que ce papayer tendre</del>
-- {:.pr} <span style='color:#4B0082'><del style='color:#4B0082'>sa tête encore chauve</del>
-- {:.pr} <span style='color:#4B0082'><del style='color:#4B0082'>et le voici élu par toutes les flèches du carbet</del>
-- {:.pr} <span style='color:#4B0082'><del style='color:#4B0082'>son lait s’écoule par mille blessures</del>
-- {:.pr} <span style='color:#4B0082'><del style='color:#4B0082'>son cœur d’arbre n’a plus la force d’envoyer aux extrémités le sang ferme qui le défendait contre l’aridité du sable.</del>
+- {:.pr} <del style='color:#4B0082'>Car cet arbre de négritude que je dis kaïlcédrat de patience, n’est plus souvent pour mon inquiétude que ce papayer tendre</del>
+- {:.pr} <del style='color:#4B0082'>sa tête encore chauve</del>
+- {:.pr} <del style='color:#4B0082'>et le voici élu par toutes les flèches du carbet</del>
+- {:.pr} <del style='color:#4B0082'>son lait s’écoule par mille blessures</del>
+- {:.pr} <del style='color:#4B0082'>son cœur d’arbre n’a plus la force d’envoyer aux extrémités le sang ferme qui le défendait contre l’aridité du sable.</del>
 
-- {:.pr} <span style='color:#4B0082'><del style='color:#4B0082'>Vous savez que ma révolte ne veut que conjurer cet impur symbole.</del>
+- {:.pr} <del style='color:#4B0082'>Vous savez que ma révolte ne veut que conjurer cet impur symbole.</del>
 
-- {:.pr} <span style='color:#4B0082'>Et voyez l'arbre de nos mains !
-- {:.pr} <span style='color:#4B0082'>il tourne pour tous, les blessures incises en son tronc
-- {:.pr} <span style='color:#4B0082'>pour tous le sol travaille
-- {:.pr} <span style='color:#4B0082'>et griserie vers les branches de précipitation parfumée !
+- {:.pr} Et voyez l'arbre de nos mains !
+- {:.pr} il tourne pour tous, les blessures incises en son tronc
+- {:.pr} pour tous le sol travaille
+- {:.pr} et griserie vers les branches de précipitation parfumée !
 
-- {:.pr} <span style='color:#4B0082'>Mais avant d'aborder au<add style='color:#9E9E9E'>x</add>futur<add style='color:#9E9E9E'>s</add>verger<add style='color:#9E9E9E'>s</add><del style='color:#4B0082'>xxxxxxxxxx</del>
-- {:.pr} <span style='color:#4B0082'>donnez-moi de les mériter sur leur ceinture de mer 
-- {:.pr} <span style='color:#4B0082'>donnez-moi mon cœur en attendant le sol 
-- {:.pr} <span style='color:#4B0082'>donnez-moi sur l'océan stérile 
-- {:.pr} <span style='color:#4B0082'>mais où caresse la main la promesse de l'amure 
-- {:.pr} <span style='color:#4B0082'>donnez-moi sur cet océan divers 
-- {:.pr} <span style='color:#4B0082'>l'obstination de la fière pirogue 
-- {:.pr} <span style='color:#4B0082'>et sa vigueur marine.
+- {:.pr} Mais avant d'aborder au<add style='color:#9E9E9E'>x</add>futur<add style='color:#9E9E9E'>s</add>verger<add style='color:#9E9E9E'>s</add><del style='color:#4B0082'>xxxxxxxxxx</del>
+- {:.pr} donnez-moi de les mériter sur leur ceinture de mer 
+- {:.pr} donnez-moi mon cœur en attendant le sol 
+- {:.pr} donnez-moi sur l'océan stérile 
+- {:.pr} mais où caresse la main la promesse de l'amure 
+- {:.pr} donnez-moi sur cet océan divers 
+- {:.pr} l'obstination de la fière pirogue 
+- {:.pr} et sa vigueur marine.
 
-- {:.pr} <span style='color:#4B0082'>La voici avancer par escalades et retombées sur le flot pulvérisé
+- {:.pr} La voici avancer par escalades et retombées sur le flot pulvérisé
 
-- -- 29 --
+$$ 29 --
 <div align="right" style='color:#9E9E9E'>33</div> 
-- {:.centered} <span style='color:#4B0082'>-- 29 --
+- {:.centered} -- 29 --
 
-- {:.pr} <span style='color:#4B0082'>la voici danser la danse sacrée devant la grisaille du bourg
-- {:.pr} <span style='color:#4B0082'>la voici barrir d'un lambi vertigineux
-- {:.pr} <span style='color:#4B0082'>voici galoper le lambi jusqu'à l'indécision des mornes
-- {:.pr} <span style='color:#4B0082'>et voici par vingt fois d'un labour vigoureux la pagaie 
-- {:.pr} <span style='color:#4B0082'>forcer l'eau
-- {:.pr} <span style='color:#4B0082'>la pirogue se cabre sous l'assaut de la lame, dévie un instant, tente de fuir, mais la caresse rude de la pagaie la vire, alors elle fonce, un frémissement parcourt l'échine de la vague, la mer bave et gronde
-- {:.pr} <span style='color:#4B0082'>la pirogue comme un traîneau file sur le sable.
+- {:.pr} la voici danser la danse sacrée devant la grisaille du bourg
+- {:.pr} la voici barrir d'un lambi vertigineux
+- {:.pr} voici galoper le lambi jusqu'à l'indécision des mornes
+- {:.pr} et voici par vingt fois d'un labour vigoureux la pagaie 
+- {:.pr} forcer l'eau
+- {:.pr} la pirogue se cabre sous l'assaut de la lame, dévie un instant, tente de fuir, mais la caresse rude de la pagaie la vire, alors elle fonce, un frémissement parcourt l'échine de la vague, la mer bave et gronde
+- {:.pr} la pirogue comme un traîneau file sur le sable.
 
-- {:.pr.i} <span style='color:#4B0082'>Au bout de ce petit matin, ma prière virile : 
+- {:.pr.i} Au bout de ce petit matin, ma prière virile : 
 
-- {:.pr} <span style='color:#4B0082'>donnez-moi les muscles de cette pirogue sur la mer démontée
-- {:.pr} <span style='color:#4B0082'>et l'allégresse convaincante du lambi de la bonne nouvelle !
+- {:.pr} donnez-moi les muscles de cette pirogue sur la mer démontée
+- {:.pr} et l'allégresse convaincante du lambi de la bonne nouvelle !
 
-- {:.pr} <span style='color:#4B0082'>Tenez je ne suis plus qu'un homme (aucune dégradation, aucun crachat ne le conturbe)
-- {:.pr} <span style='color:#4B0082'>je ne suis plus qu'un homme qui accepte n'ayant plus de colère
-- {:.pr} <span style='color:#4B0082'>(il n'a plus dans le cœur que de l'amour immense)
+- {:.pr} Tenez je ne suis plus qu'un homme (aucune dégradation, aucun crachat ne le conturbe)
+- {:.pr} je ne suis plus qu'un homme qui accepte n'ayant plus de colère
+- {:.pr} (il n'a plus dans le cœur que de l'amour immense)
 
-- {:.pr} <span style='color:#4B0082'>J'accepte... j'accepte... entièrement, sans réserve...
+- {:.pr} J'accepte... j'accepte... entièrement, sans réserve...
 
-- {:.pr} <span style='color:#4B0082'>ma race qu'aucune ablution d'hysope et de lys mêlés ne pourrait purifier
-- {:.pr} <span style='color:#4B0082'>ma race rongée de macules
-- {:.pr} <span style='color:#4B0082'>ma race raisin mûr pour pieds ivres
-- {:.pr} <span style='color:#4B0082'>ma reine des crachats et des lèpres
+- {:.pr} ma race qu'aucune ablution d'hysope et de lys mêlés ne pourrait purifier
+- {:.pr} ma race rongée de macules
+- {:.pr} ma race raisin mûr pour pieds ivres
+- {:.pr} ma reine des crachats et des lèpres
 
-- -- 30 --
+$$ 30 --
 <div align="right" style='color:#9E9E9E'>34</div> 
-- {:.centered} <span style='color:#4B0082'>-- 30 --
+- {:.centered} -- 30 --
 
-- {:.pr} <span style='color:#4B0082'>ma reine des fouets et des scrofules
-- {:.pr} <span style='color:#4B0082'>ma reine des squasmes et des chloasmes 
-- {:.pr} <span style='color:#4B0082'>(oh ces reines que j'aimais jadis aux jardins printaniers et lointains avec derrière l'illumination de toutes les bougies de marronniers !).
-- {:.pr} <span style='color:#4B0082'>J'accepte. J'accepte.
-- {:.pr} <span style='color:#4B0082'>et le nègre fustigé qui dit : « Pardon mon maître »
-- {:.pr} <span style='color:#4B0082'>et les vingt-neuf coups de fouet légal
-- {:.pr} <span style='color:#4B0082'>et le cachot de quatre pieds de haut
-- {:.pr} <span style='color:#4B0082'>et le carcan à branches
-- {:.pr} <span style='color:#4B0082'>et le jarret coupé à mon audace marronne
-- {:.pr} <span style='color:#4B0082'>et la fleur de lys qui flue du fer rouge sur le gras de mon épaule
-- {:.pr} <span style='color:#4B0082'>et la niche de Monsieur VAULTIER MAYENCOURT, où j'aboyai six mois de caniche
-- {:.pr} <span style='color:#4B0082'><del style='color:#4B0082'>et le nègre étrillé comme une pouliche</del>
-- {:.pr} <span style='color:#4B0082'>et Monsieur BRAFIN
-- {:.pr} <span style='color:#4B0082'>et Monsieur de FOURNIOL
-- {:.pr} <span style='color:#4B0082'>et Monsieur de la MAHAUDIÈRE
-- {:.pr} <span style='color:#4B0082'>et le pian
-- {:.pr} <span style='color:#4B0082'><del style='color:#4B0082'>l’éléphantiasis</del>
-- {:.pr} <span style='color:#4B0082'>le molosse
-- {:.pr} <span style='color:#4B0082'>le suicide
-- {:.pr} <span style='color:#4B0082'>la promiscuité
-- {:.pr} <span style='color:#4B0082'>le brodequin
-- {:.pr} <span style='color:#4B0082'>le cep
-- {:.pr} <span style='color:#4B0082'>le chevalet
-- {:.pr} <span style='color:#4B0082'>la cippe
-- {:.pr} <span style='color:#4B0082'>le frontal
+- {:.pr} ma reine des fouets et des scrofules
+- {:.pr} ma reine des squasmes et des chloasmes 
+- {:.pr} (oh ces reines que j'aimais jadis aux jardins printaniers et lointains avec derrière l'illumination de toutes les bougies de marronniers !).
+- {:.pr} J'accepte. J'accepte.
+- {:.pr} et le nègre fustigé qui dit : « Pardon mon maître »
+- {:.pr} et les vingt-neuf coups de fouet légal
+- {:.pr} et le cachot de quatre pieds de haut
+- {:.pr} et le carcan à branches
+- {:.pr} et le jarret coupé à mon audace marronne
+- {:.pr} et la fleur de lys qui flue du fer rouge sur le gras de mon épaule
+- {:.pr} et la niche de Monsieur VAULTIER MAYENCOURT, où j'aboyai six mois de caniche
+- {:.pr} <del style='color:#4B0082'>et le nègre étrillé comme une pouliche</del>
+- {:.pr} et Monsieur BRAFIN
+- {:.pr} et Monsieur de FOURNIOL
+- {:.pr} et Monsieur de la MAHAUDIÈRE
+- {:.pr} et le pian
+- {:.pr} <del style='color:#4B0082'>l’éléphantiasis</del>
+- {:.pr} le molosse
+- {:.pr} le suicide
+- {:.pr} la promiscuité
+- {:.pr} le brodequin
+- {:.pr} le cep
+- {:.pr} le chevalet
+- {:.pr} la cippe
+- {:.pr} le frontal
 
-- -- 31 --
+$$ 31 --
 <div align="right" style='color:#9E9E9E'>35</div> 
-- {:.centered} <span style='color:#4B0082'>-- 31 --
+- {:.centered} -- 31 --
 
 <br>
 <br>
 <br>
-- {:.pr} <span style='color:#4B0082'>Et mon originale géographie aussi ; la carte du monde faite à mon usage, non pas teinte aux arbitraires couleurs des savants, mais à la géométrie de mon sang répandu
+- {:.pr} Et mon originale géographie aussi ; la carte du monde faite à mon usage, non pas teinte aux arbitraires couleurs des savants, mais à la géométrie de mon sang répandu
 
-- {:.pr} <span style='color:#4B0082'>et la détermination de ma biologie, non prisonnière d'un angle facial, d'une forme de cheveux, d'un nez suffisamment aplati, d'un teint suffisamment mélanien, et la négritude, non plus un indice céphalique, ou un plasma, ou un soma, mais mesurée au compas de la souffrance
+- {:.pr} et la détermination de ma biologie, non prisonnière d'un angle facial, d'une forme de cheveux, d'un nez suffisamment aplati, d'un teint suffisamment mélanien, et la négritude, non plus un indice céphalique, ou un plasma, ou un soma, mais mesurée au compas de la souffrance
 
-- {:.pr} <span style='color:#4B0082'>et le nègre chaque jour plus bas, plus lâche, plus stérile, moins profond, plus répandu au dehors, plus séparé de soi-même, plus rusé avec soi-même, moins immédiat avec soi-même
+- {:.pr} et le nègre chaque jour plus bas, plus lâche, plus stérile, moins profond, plus répandu au dehors, plus séparé de soi-même, plus rusé avec soi-même, moins immédiat avec soi-même
 
-- {:.pr} <span style='color:#4B0082'>j'accepte, j'accepte tout cela
+- {:.pr} j'accepte, j'accepte tout cela
 
-- {:.pr} <span style='color:#4B0082'>et loin de la mer de palais qui déferle sous la syzygie suppurante des ampoules, merveilleusement couché le corps de mon pays dans le désespoir de mes bras, ses os ébranlés et dans ses veines, le sang qui hésite comme la goutte de lait végétal à la pointe blessée du bulbe... Et voici soudain que force et vie m'assaillent comme un taureau et je renouvelle ONAN qui confia son sperme à la terre féconde et l'onde de vie circonvient la papille du morne, et voilà toutes les veines et veinules qui s'affairent au sang neuf et l'énorme poumon des cyclones qui respire et le feu thésaurisé des
+- {:.pr} et loin de la mer de palais qui déferle sous la syzygie suppurante des ampoules, merveilleusement couché le corps de mon pays dans le désespoir de mes bras, ses os ébranlés et dans ses veines, le sang qui hésite comme la goutte de lait végétal à la pointe blessée du bulbe... Et voici soudain que force et vie m'assaillent comme un taureau et je renouvelle ONAN qui confia son sperme à la terre féconde et l'onde de vie circonvient la papille du morne, et voilà toutes les veines et veinules qui s'affairent au sang neuf et l'énorme poumon des cyclones qui respire et le feu thésaurisé des
 
-- -- 32 --
+$$ 32 --
 <div align="right" style='color:#9E9E9E'>36</div> 
-- {:.centered} <span style='color:#4B0082'>-- 32 --
+- {:.centered} -- 32 --
 
-- {:.pr} <span style='color:#4B0082'>volcans et le gigantesque pouls sismique qui bat maintenant la mesure d'un corps vivant en mon ferme embrassement.
+- {:.pr} volcans et le gigantesque pouls sismique qui bat maintenant la mesure d'un corps vivant en mon ferme embrassement.
 
-- {:.pr} <span style='color:#4B0082'>Et nous sommes debout maintenant, mon pays et moi, les cheveux dans le vent, ma main petite maintenant dans son poing énorme et la force n'est pas en nous, mais au dessus de nous, dans une voix qui vrille la nuit et l'audience comme la pénétrance d'une guêpe apocalyptique.
-- {:.pr} <span style='color:#4B0082'>Et la voix prononce que l'Europe nous a pendant des siècles, gavés de mensonges et gonflés de pestilences,
-- {:.pr} <span style='color:#4B0082'>car il n'est point vrai que l'œuvre de l'homme est finie
-- {:.pr} <span style='color:#4B0082'>que nous n'avons rien à faire au monde
-- {:.pr} <span style='color:#4B0082'>que nous parasitons le monde
-- {:.pr} <span style='color:#4B0082'>qu'il suffit que nous nous mettions au pas du monde
+- {:.pr} Et nous sommes debout maintenant, mon pays et moi, les cheveux dans le vent, ma main petite maintenant dans son poing énorme et la force n'est pas en nous, mais au dessus de nous, dans une voix qui vrille la nuit et l'audience comme la pénétrance d'une guêpe apocalyptique.
+- {:.pr} Et la voix prononce que l'Europe nous a pendant des siècles, gavés de mensonges et gonflés de pestilences,
+- {:.pr} car il n'est point vrai que l'œuvre de l'homme est finie
+- {:.pr} que nous n'avons rien à faire au monde
+- {:.pr} que nous parasitons le monde
+- {:.pr} qu'il suffit que nous nous mettions au pas du monde
 
-- {:.pr} <span style='color:#4B0082'>mais l'œuvre de l'homme vient seulement de commencer
+- {:.pr} mais l'œuvre de l'homme vient seulement de commencer
 
-- {:.pr} <span style='color:#4B0082'>et il reste à l'homme de conquérir toute interdiction immobilisé<add style='color:#9E9E9E'>e</add>aux coins de sa ferveur
-- {:.pr} <span style='color:#4B0082'>et aucune race ne possède le monopole de la beauté, de l'intelligence, de la force
-- {:.pr} <span style='color:#4B0082'>et il est place pour tous au rendez-vous de la conquête et nous savons maintenant que le soleil tourne autour de notre terre éclairant la parcelle qu'a fixée notre volonté seule et que toute étoile chute de ciel en terre à notre commandement sans limite.
+- {:.pr} et il reste à l'homme de conquérir toute interdiction immobilisé<add style='color:#9E9E9E'>e</add>aux coins de sa ferveur
+- {:.pr} et aucune race ne possède le monopole de la beauté, de l'intelligence, de la force
+- {:.pr} et il est place pour tous au rendez-vous de la conquête et nous savons maintenant que le soleil tourne autour de notre terre éclairant la parcelle qu'a fixée notre volonté seule et que toute étoile chute de ciel en terre à notre commandement sans limite.
 
-- -- 33 --
+$$ 33 --
 <div align="right" style='color:#9E9E9E'>37</div> 
-- {:.centered} <span style='color:#4B0082'>-- 33 --
+- {:.centered} -- 33 --
 
-- {:.pr} <span style='color:#4B0082'>Je tiens maintenant le sens de l'ordalie : mon pays est la « lance de nuit » de mes ancêtres Bambaras. 
-- {:.pr} <span style='color:#4B0082'>Elle se ratatine et sa pointe fuit désespérément vers le manche si c'est de sang de poulet qu'on l'arrose et elle dit que c'est du sang d'homme qu'il faut à son tempérament, de la graisse, du foie, du cœur d'homme, non du sang de poulet. 
-- {:.pr} <span style='color:#4B0082'>Et je cherche pour mon pays non des cœurs de datte, mais des cœurs d'homme qui c'est pour[sic] entrer aux villes d'argent par la grand'porte trapézoïdale, qu'ils battent le sang viril, et mes yeux balayent mes kilomètres carrés de terre paternelle et je dénombre les plaies avec une sorte d'allégresse comme et je les entasse l'une sur l'autre comme rares espèces, et mon compte s'allonge toujours d'imprévus monnayages de la bassesse.
-- {:.pr} <span style='color:#4B0082'>Et voici ceux qui ne se consolent point de n'être pas faits à <del style='color:#4B0082'>al</del><add style='color:#9E9E9E'>la</add>ressemblance de Dieu mais du diable, ceux qui considèrent que l'on est nègre comme commis de seconde classe : en attendant mieux et avec possibilité de monter plus haut ; ceux qui battent la chamade devant soi-même, ceux qui vivent dans un cul de basse fosse de soi-même ; ceux qui se drapent de pseudomorphose fière ; ceux qui disent à l'Europe : « Voyez, je sais comme vous faire des courbettes, comme vous présenter mes hommages, en somme, je ne suis pas différent de vous ; ne faites pas attention
+- {:.pr} Je tiens maintenant le sens de l'ordalie : mon pays est la « lance de nuit » de mes ancêtres Bambaras. 
+- {:.pr} Elle se ratatine et sa pointe fuit désespérément vers le manche si c'est de sang de poulet qu'on l'arrose et elle dit que c'est du sang d'homme qu'il faut à son tempérament, de la graisse, du foie, du cœur d'homme, non du sang de poulet. 
+- {:.pr} Et je cherche pour mon pays non des cœurs de datte, mais des cœurs d'homme qui c'est pour[sic] entrer aux villes d'argent par la grand'porte trapézoïdale, qu'ils battent le sang viril, et mes yeux balayent mes kilomètres carrés de terre paternelle et je dénombre les plaies avec une sorte d'allégresse comme et je les entasse l'une sur l'autre comme rares espèces, et mon compte s'allonge toujours d'imprévus monnayages de la bassesse.
+- {:.pr} Et voici ceux qui ne se consolent point de n'être pas faits à <del style='color:#4B0082'>al</del><add style='color:#9E9E9E'>la</add>ressemblance de Dieu mais du diable, ceux qui considèrent que l'on est nègre comme commis de seconde classe : en attendant mieux et avec possibilité de monter plus haut ; ceux qui battent la chamade devant soi-même, ceux qui vivent dans un cul de basse fosse de soi-même ; ceux qui se drapent de pseudomorphose fière ; ceux qui disent à l'Europe : « Voyez, je sais comme vous faire des courbettes, comme vous présenter mes hommages, en somme, je ne suis pas différent de vous ; ne faites pas attention
 à ma peau noire : c'est le soleil qui m'a brûlé ».
 
-- -- 34 --
+$$ 34 --
 <div align="right" style='color:#9E9E9E'>38</div> 
-- {:.centered} <span style='color:#4B0082'>-- 34 --
+- {:.centered} -- 34 --
 
-- {:.pr} <span style='color:#4B0082'>Et il y a le maquereau nègre, l'askari nègre, et tous zèbres se secouent à leur manière pour faire tomber leurs zébrures en une rosée de lait frais.
+- {:.pr} Et il y a le maquereau nègre, l'askari nègre, et tous zèbres se secouent à leur manière pour faire tomber leurs zébrures en une rosée de lait frais.
 
-- {:.pr} <span style='color:#4B0082'>Et au milieu de tout cela je dis hurrah ! mon grand-père meurt, je dis hurrah
-- {:.pr} <span style='color:#4B0082'>la vieille négritude progressivement se cadavérise.
-- {:.pr} <span style='color:#4B0082'>Il n'y a pas à dire : c'était un bon nègre.
-- {:.pr} <span style='color:#4B0082'>Les Blancs disent que c'était un bon nègre, un vrai bon nègre, le bon nègre à son bon maître.
-- {:.pr} <span style='color:#4B0082'>Je dis hurrah !
-- {:.pr} <span style='color:#4B0082'>C'était un très bon nègre
-- {:.pr} <span style='color:#4B0082'>la misère lui avait blessé poitrine et dos et on avait fourré dans sa pauvre cervelle qu'une fatalité pesait sur lui qu'on ne prend pas au collet ; qu'il n'avait pas puissance sur son propre destin ; qu'un Seigneur méchant avait de toute éternité écrit des lois d'interdiction en sa nature pelvienne ; et d'être le bon nègre ; de se contenter honnêtement d'être le bon nègre ; de croire honnêtement à son indignité, sans curiosité perverse de vérifier jamais les hiéroglyphes fatidiques.
+- {:.pr} Et au milieu de tout cela je dis hurrah ! mon grand-père meurt, je dis hurrah
+- {:.pr} la vieille négritude progressivement se cadavérise.
+- {:.pr} Il n'y a pas à dire : c'était un bon nègre.
+- {:.pr} Les Blancs disent que c'était un bon nègre, un vrai bon nègre, le bon nègre à son bon maître.
+- {:.pr} Je dis hurrah !
+- {:.pr} C'était un très bon nègre
+- {:.pr} la misère lui avait blessé poitrine et dos et on avait fourré dans sa pauvre cervelle qu'une fatalité pesait sur lui qu'on ne prend pas au collet ; qu'il n'avait pas puissance sur son propre destin ; qu'un Seigneur méchant avait de toute éternité écrit des lois d'interdiction en sa nature pelvienne ; et d'être le bon nègre ; de se contenter honnêtement d'être le bon nègre ; de croire honnêtement à son indignité, sans curiosité perverse de vérifier jamais les hiéroglyphes fatidiques.
 
-- {:.pr} <span style='color:#4B0082'>C'était un très bon nègre
+- {:.pr} C'était un très bon nègre
 
-- {:.pr} <span style='color:#4B0082'>et il ne lui venait pas à l'idée qu'il pourrait houer, fouir, couper tout, tout autre chose vraiment que la canne insipide
-- {:.pr} <span style='color:#4B0082'><del style='color:#4B0082'>soit sa vertu prostituée aux triomphes parégoriques du tafia</del>
-- {:.pr} <span style='color:#4B0082'>soit sa misère qui halète dans le ventre visiblement creux du tam-tam</del>
+- {:.pr} et il ne lui venait pas à l'idée qu'il pourrait houer, fouir, couper tout, tout autre chose vraiment que la canne insipide
+- {:.pr} <del style='color:#4B0082'>soit sa vertu prostituée aux triomphes parégoriques du tafia</del>
+- {:.pr} soit sa misère qui halète dans le ventre visiblement creux du tam-tam</del>
 
-- -- 35 --
+$$ 35 --
 <div align="right" style='color:#9E9E9E'>39</div> 
-- {:.centered} <span style='color:#4B0082'>-- 35 --
+- {:.centered} -- 35 --
 
-- {:.pr} <span style='color:#4B0082'><del style='color:#4B0082'>soit l’impatience butyreuse du colon qui attend pour l’âcre toussotement de la distillerie le doux julep d’une fraîche machée de nègre.</del>
+- {:.pr} <del style='color:#4B0082'>soit l’impatience butyreuse du colon qui attend pour l’âcre toussotement de la distillerie le doux julep d’une fraîche machée de nègre.</del>
 
-- {:.pr} <span style='color:#4B0082'>C'était un très bon nègre.
+- {:.pr} C'était un très bon nègre.
 
-- {:.pr} <span style='color:#4B0082'>Et on lui jetait des pierres, des bouts de ferraille, des tessons de bouteille, mais ni ces pierres, ni cette ferraille, ni ces bouteilles...
-- {:.pr} <span style='color:#4B0082'>O quiètes années de Dieu sur cette motte terraquée !
+- {:.pr} Et on lui jetait des pierres, des bouts de ferraille, des tessons de bouteille, mais ni ces pierres, ni cette ferraille, ni ces bouteilles...
+- {:.pr} O quiètes années de Dieu sur cette motte terraquée !
 
-- {:.pr} <span style='color:#4B0082'>Et le fouet disputa au bombillement des mouches la rosée sucrée de nos plaies
+- {:.pr} Et le fouet disputa au bombillement des mouches la rosée sucrée de nos plaies
 
-- {:.pr} <span style='color:#4B0082'>Je dis hurrah ! La vieille négritude progressivement se cadavérise 
-- {:.pr} <span style='color:#4B0082'>l'horizon se défait, recule et s'élargit 
-- {:.pr} <span style='color:#4B0082'>et voici parmi des déchirements de nuages la fulgurance d'un signe 
-- {:.pr} <span style='color:#4B0082'>le négrier craque de toute part... Son ventre se convulse et résonne... L'affreux <del style='color:#4B0082'>stanie</del><add style='color:#9E9E9E'>ténia</add>de sa cargaison ronge les boyaux fétides de l'étrange nourrisson des mers ! 
+- {:.pr} Je dis hurrah ! La vieille négritude progressivement se cadavérise 
+- {:.pr} l'horizon se défait, recule et s'élargit 
+- {:.pr} et voici parmi des déchirements de nuages la fulgurance d'un signe 
+- {:.pr} le négrier craque de toute part... Son ventre se convulse et résonne... L'affreux <del style='color:#4B0082'>stanie</del><add style='color:#9E9E9E'>ténia</add>de sa cargaison ronge les boyaux fétides de l'étrange nourrisson des mers ! 
 
-- {:.pr} <span style='color:#4B0082'>Et ni l'allégresse des voiles gonflées comme une poche de doublons rebondie, ni les tours joués à la sottise dangereuse des frégates policières ne l'empêchent d'entendre la menace de ses grondements intestins. 
+- {:.pr} Et ni l'allégresse des voiles gonflées comme une poche de doublons rebondie, ni les tours joués à la sottise dangereuse des frégates policières ne l'empêchent d'entendre la menace de ses grondements intestins. 
 
-- {:.pr} <span style='color:#4B0082'>En vain pour s'en distraire le capitaine pend à sa grand'vergue le nègre le plus braillard ou le jette à la mer, ou le livre à l'appétit de ses molosses 
+- {:.pr} En vain pour s'en distraire le capitaine pend à sa grand'vergue le nègre le plus braillard ou le jette à la mer, ou le livre à l'appétit de ses molosses 
 
-- -- 36 --
+$$ 36 --
 <div align="right" style='color:#9E9E9E'>40</div> 
-- {:.centered} <span style='color:#4B0082'>-- 36 --
+- {:.centered} -- 36 --
 
-- {:.pr} <span style='color:#4B0082'>La négraille aux senteurs d'oignon frit retrouve dans son sang répandu le goût amer de la liberté
+- {:.pr} La négraille aux senteurs d'oignon frit retrouve dans son sang répandu le goût amer de la liberté
 
-- {:.pr} <span style='color:#4B0082'>Et elle est debout la négraille
+- {:.pr} Et elle est debout la négraille
 
-- {:.pr} <span style='color:#4B0082'>la négraille assise
-- {:.pr} <span style='color:#4B0082'>inattendument debout
-- {:.pr} <span style='color:#4B0082'>debout dans la cale
-- {:.pr} <span style='color:#4B0082'>debout dans les cabines
-- {:.pr} <span style='color:#4B0082'>debout sur le pont
-- {:.pr} <span style='color:#4B0082'>debout dans le vent
-- {:.pr} <span style='color:#4B0082'>debout sous le soleil
-- {:.pr} <span style='color:#4B0082'>debout dans le sang
-- {:.pr.i3} <span style='color:#4B0082'>debout
-- {:.pr.i6} <span style='color:#4B0082'>et
-- {:.pr.i7} <span style='color:#4B0082'>libre
+- {:.pr} la négraille assise
+- {:.pr} inattendument debout
+- {:.pr} debout dans la cale
+- {:.pr} debout dans les cabines
+- {:.pr} debout sur le pont
+- {:.pr} debout dans le vent
+- {:.pr} debout sous le soleil
+- {:.pr} debout dans le sang
+- {:.pr.i3} debout
+- {:.pr.i6} et
+- {:.pr.i7} libre
 
-- {:.pr} <span style='color:#4B0082'>debout et non point pauvre folle dans sa liberté et son dénuement maritimes girant en la dérive parfaite
-- {:.pr} <span style='color:#4B0082'>et la voici :
-- {:.pr} <span style='color:#4B0082'>plus inattendument debout
-- {:.pr} <span style='color:#4B0082'>debout dansles cordages
-- {:.pr} <span style='color:#4B0082'>debout à la barre
-- {:.pr} <span style='color:#4B0082'>debout à la boussole
-- {:.pr} <span style='color:#4B0082'>debout à la carte
+- {:.pr} debout et non point pauvre folle dans sa liberté et son dénuement maritimes girant en la dérive parfaite
+- {:.pr} et la voici :
+- {:.pr} plus inattendument debout
+- {:.pr} debout dansles cordages
+- {:.pr} debout à la barre
+- {:.pr} debout à la boussole
+- {:.pr} debout à la carte
 
-- -- 37 --
+$$ 37 --
 <div align="right" style='color:#9E9E9E'>41</div> 
 - {:.centered} <span style='color:#000000'>-- 37 --
 
@@ -812,7 +816,7 @@ editor: Kora Véron
 - {:.pr} <span style='color:#000000'>Je te livre ma conscience et son rythme de chair
 - {:.pr} <span style='color:#000000'>Je te livre les feux où brasille ma faiblesse
 
-- -- 38 --
+$$ 38 --
 <div align="right" style='color:#9E9E9E'>42</div> 
 - {:.centered} <span style='color:#000000'>-- 38 --
 
@@ -836,7 +840,7 @@ editor: Kora Véron
 - {:.pr} <span style='color:#000000'>Et lie, lie-moi sans remords
 - {:.pr} <span style='color:#000000'>lie-moi de tes vastes bras à l'argile lumineuse
 
-- -- 39 --
+$$ 39 --
 <div align="right" style='color:#9E9E9E'>42[sic]</div> 
 - {:.centered} <span style='color:#000000'>-- 39 --
 
