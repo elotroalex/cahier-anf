@@ -10,6 +10,7 @@
   {%- endfor -%}
 {%- endcapture -%}
 {% assign fields = fields | split: '|||' | uniq %}
+{% assign label = fields.label %}
 
 <div class='search-block'>
   <div class='input-group'>
@@ -22,7 +23,7 @@
 <script type='text/javascript' src="{{ site.baseurl}}{{ '/search/search-ui.js' }}"></script>
 <script type='text/javascript'>
   var fields    = {{ fields | jsonify }};
-  var indexFile = "/chiens/search/index.json";
+  var indexFile = "{{ site.baseurl}}/search/index.json";
   var url       = "{{ '' }}";
 
   $(document).ready(function() {
