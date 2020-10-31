@@ -3,7 +3,7 @@ import re
 
 cahier = open("_texts/raw.txt","r")
 t = cahier.read()
-s = re.compile("$$ [0-9].* --").split(t)
+s = re.compile("@@@ [0-9].* --").split(t)
 fl = []
 
 for filename in os.listdir("_cahier/"):

@@ -1,4 +1,5 @@
-$$ 1 --
+@@@ 0 --
+
 <div align="right" style='color:#677179'> 1</div> 
 <br>
 
@@ -13,7 +14,7 @@ $$ 1 --
 - {:.centered} # <del style='color:#303030'>AIME CESAIRE</del>
 
 
-$$ 2 --
+@@@ 1 --
 
 <div align="right" style='color:#677179'> 2</div> 
 
@@ -24,6 +25,8 @@ $$ 2 --
 - {:.pr.i} l'affreuse inanité de notre raison d'être.
 
 - {:.pr.i} Au bout du petit matin, sur cette plus fragile épaisseur de terre que dépasse de façon humiliante son grandiose avenir — <del style='color:#303030'>les volcans éclateront, les raz de marée souffle<del style='color:#303030'>n</del>ront la balle [ou belle] aux volcans surpassés,</del> l'eau nue emportera les tâches[sic] mures[sic] du soleil et il ne restera plus qu'un bouillonnement tiède picoré d'oiseaux marins — la plage des songes et l'insensé réveil.
+
+@@@ 2 --
 
 <div align="right" style='color:#677179'> 3</div> 
 - {:.centered } -- 2 --
@@ -37,7 +40,8 @@ $$ 2 --
 
 - {:.pr.i} Dans cette ville inerte, cette étrange foule qui ne s'entasse pas, ne se mêle pas ; habile à découvrir le point de désencastration, de fuite, d'esquive. Cette foule qui ne sait pas faire foule, cette foule, on s'en rend compte, si parfaitement seule sous ce soleil, à la façon dont une femme, toute on eût cru à la cadence lyrique de ses fesses, interpelle brusquement une pluie hypothétique et lui intime l'ordre de ne pas tomber ; ou à un signe rapide de croix sans mobile visible ; ou à l'animalité subitement grave d'une paysanne, 
 
-$$ 3 --
+@@@ 3 --
+
 <div align="right" style='color:#677179'> 4</div> 
 - {:.centered} -- 3 --
 
@@ -52,7 +56,7 @@ $$ 3 --
 
 - {:.pr.i} Au bout du petit matin, l'incendie contenu du morne, comme un sanglot que l'on a baillonné[sic] au bord de son éclatement sanguinaire, en quête d'une ignition qui se dérobe et se méconnaît.
 
-$$ 4 --
+@@@ 4 --
 <div align="right" style='color:#677179'> 5</div> 
 - {:.centered} -- 4 --
 
@@ -65,7 +69,7 @@ $$ 4 --
 - {:.pr.i} et il n'y a rien, rien à tirer vraiment de ce petit vaurien, 
 - {:.pr.i} qu'une faim qui ne sait plus grimper aux agrès de 
 
-$$ 5 --
+@@@ 5 --
 <div align="right" style='color:#677179'> 6</div> 
 - {:.centered} -- 5 --
 
@@ -82,7 +86,7 @@ $$ 5 --
 
 - {:.pr.i} Et nos gestes imbéciles et fous pour faire revivre l'éclaboussement d'or des instants favorisés, le
 
-$$ 6 --
+@@@ 6 --
 <div align="right" style='color:#677179'> 7</div> 
 - {:.centered} -- 6 --
 
@@ -93,7 +97,7 @@ $$ 6 --
 
 - {:.pr.i} Au bout du petit matin, ce plus essentiel pays restitué à ma gourmandise, non de diffuse tendresse, mais la tourmentée concentration sensuelle du gras téton des mornes avec l'accidentel palmier comme son germe durci, la jouissance saccadée des torrents <del style='color:#303030'>autour du clitoris volcanique des rochers</del> et depuis Trinité jusqu'à Grand-Rivière,la grand'lèche hystérique de la mer.
 
-$$ 7 --
+@@@ 7 --
 <div align="right" style='color:#677179'> 8</div> 
 - {:.centered} -- 7 --
 
@@ -105,7 +109,7 @@ $$ 7 --
 - {:.pr} de-peur-qu'on-ne-s'embête,
 - {:.pr} puis le soir une petite église pas intimidante, qui se laiss<add style='color:#677179'>ât </add>emplir bienveillamment par les rires, les chuchotis, les confidences, les déclarations amoureuses, les médisances et la cacophonie gutturale d'un chantre bien d'attaque et aussi de gais copains et de franches luronnes et des cases aux entrailles riches en succulences, et pas regardantes, et
 
-$$ 8 --
+@@@ 8 --
 <div align="right" style='color:#677179'> 9</div> 
 - {:.centered} -- 8 --
 
@@ -117,7 +121,7 @@ $$ 8 --
 - {:.pr.i} Arrivée au somme<del style='color:#303030'>n</del>t de son ascension, la joie crève comme un nuage. Les chants ne s'arrêtent pas, mais ils roulent maintenant inquiets et lourds par les vallées de la peur, les tunnels de l'angoisse et les feux de l'enfer.
 - {:.pr.i} Et chacun se met à tirer par la queue le diable le plus proche, jusqu'à ce que la peur s'abolisse insensiblement dans les fines sablures du rêve, et l'on vit comme dans un rêve véritablement, et l'on boit et l'on crie et l'on chante 
 
-$$ 9 --
+@@@ 9 --
 <div align="right" style='color:#677179'> 10</div> 
 - {:.centered} -- 9 --
 
@@ -140,7 +144,7 @@ $$ 9 --
 
 - {:.pr.i} Au bout du petit matin, la vie prostrée, on ne sait où dépêcher ses rêves avortés, le fleuve de vie désespérément torpide dans son lit, sans turgescence ni dépression, incer-
 
-$$ 10 --
+@@@ 10 --
 <div align="right" style='color:#677179'> 11</div> 
 - {:.centered} -- 10 --
 
@@ -150,7 +154,7 @@ $$ 10 --
 
 - {:.pr.i} Au bout du petit matin, au delà[sic] de mon père, de ma mère, la case gerçant d'ampoules, comme un pêché[sic] tourmenté de la cloque, et le toit aminci, rapiécé de morceaux de bidon de pétrole, et ça fait des marais de rouillure dans la <del style='color:#303030'>chair</del><add style='color:#677179'> pâte </add>grise sordide empuantie de la paille, et quand le vent siffle, ces disparates font bizarre le bruit, comme un crépitement de friture d'abord, puis comme un tison que l'on plonge dans <del style='color:#303030'>l’au</del><add style='color:#677179'> l’eau </add>avec la fumée des brindilles qui s’envole<del style='color:#303030'>nt</del>... Et le lit de planches d'où s'est levée ma
 
-$$ 11 --
+@@@ 11 --
 <div align="right" style='color:#677179'> 12</div> 
 - {:.centered} -- 11 --
 
@@ -161,7 +165,7 @@ $$ 11 --
 - {:.pr.i} Tout le monde la méprise la rue Paille. C'est là que la jeunesse du bourg se débauche. C'est là surtout que la mer déverse ses immondices, ses chats morts et ses chiens crevés. Car la rue débouche sur la plage, et la plage ne suffit pas à la rage écumante de la mer.
 - {:.pr.i} Une <del style='color:#303030'>misère</del><add style='color:#677179'> détresse </add>cette plage elle aussi, avec ses tas d'ordure pourris<add style='color:#677179'>s</add>ant, ses croupes furtives qui se soulagent, et le sable est noir, funèbre, on n'a jamais vu un sable si noir, et l'écume <add style='color:#677179'> g</add>lisse dessus en glapissant, et la mer la frappe à grands coups de boxe, ou plutôt la mer est un gros chien qui lèche et <del style='color:#303030'>mordille</del><add style='color:#677179'> mord </add>la plage aux jarrets, et à force de la <del style='color:#303030'>mordiller </del><add style='color:#677179'> mordre </add>elle finira par la dévorer, bien sûr, la plage et la rue Paille avec.
 
-$$ 12 --
+@@@ 12 --
 <div align="right" style='color:#677179'> 13</div> 
 - {:.centered} -- 12 --
 
@@ -178,7 +182,7 @@ $$ 12 --
 
 - {:.pr.i} Et voici que je suis venu !
 
-$$ 13 --
+@@@ 13 --
 <div align="right" style='color:#677179'> 14</div> 
 - {:.centered} -- 13 --
 
@@ -198,7 +202,7 @@ $$ 13 --
 - {:.pr} me voici divisé des oasis fraîches de la fraternité 
 - {:.pr} ce rien pudique frise d'échardes dures 
 
-$$ 14 --
+@@@ 14 --
 <div align="right" style='color:#677179'> 15</div> 
 - {:.centered} -- 14 --
 
@@ -212,7 +216,7 @@ $$ 14 --
 - {:.pr} Qui peut se vanter d'avoir mieux que moi ? 
 - {:.pr} Virginie. Tennessee. Georgie. Alabama.
 
-$$ 15 --
+@@@ 15 --
 <div align="right" style='color:#677179'> 16</div> 
 - {:.centered} -- 15 --
 
@@ -241,7 +245,7 @@ $$ 15 --
 - {:.pr} la mort décroît 
 - {:.pr} la mort vacille 
 
-$$ 16 --
+@@@ 16 --
 <div align="right" style='color:#677179'> 17</div> 
 - {:.centered} -- 16 --
 
@@ -267,7 +271,7 @@ $$ 16 --
 - {:.pr} je veux cet égoïsme beau et qui s'aventure
 - {:.pr} et mon labour me remémore d'une implacable étrave.
 
-$$ 16 bis --
+@@@ 16 bis --
 <div align="right" style='color:#677179'> 18</div> 
 - {:.centered} -- 16 bis --
 
@@ -288,7 +292,7 @@ $$ 16 bis --
 - {:.pr} <del style='color:#303030'>je tourne, inapaisée pouliche.</del>
 - {:.pr} Je tourne, inapaisée pouliche
 
-$$ 17 --
+@@@ 17 --
 - <div align="right" style='color:#677179'>19</div> 
 - {:.centered} -- 17 --
 
@@ -308,7 +312,7 @@ $$ 17 --
 - <br>
 - <br>
 
-$$ 17 bis --
+@@@ 17 bis --
 <div align="right" style='color:#677179'> 20</div> 
 - {:.centered} -- 17<add style='color:#677179'> bis </add>--
 
@@ -327,7 +331,7 @@ $$ 17 bis --
 
 - {:.pr} À la Saint-Jean-Baptiste, dès que tombe<add style='color:#677179'>nt </add>les premières ombres sur le bourg du Gros-Morne, des centaines de maquignons se réunissent pour échanger leurs chevaux, dans la rue « DE PROFUNDIS », dont le nom a du moins la franchise d'avertir d'une ruée des bas-fonds de la Mort. Et c'est de la Mort véritablement, de ses mille mesquines formes locales (fringales inassouvies d'herbe de Para et rond asservissement des distilleries) que surgit vers la grand'vie déclose
 
-$$ 18 --
+@@@ 18 --
 <div align="right" style='color:#677179'> 21</div> 
 - {:.centered} -- 18 --
 
@@ -338,7 +342,7 @@ $$ 18 --
 - {:.pr.i} Et je ris de mes anciennes imaginations puériles.
 - {:.pr.i} Non, nous n'avons jamais été amazones du roi de Dahomey, ni princes de Ghana avec huit cents chameaux, ni docteurs à Tombouctou Askia le Grand étant roi, ni architecte<add style='color:#677179'>s </add>de <del style='color:#303030'>Dejné</del><add style='color:#677179'> Djenné </add>, ni Mahdis, ni guerriers. Nous ne nous sentons pas sous l'aisselle la démangeaison de ceux qui tinrent jadis la lance. Et puisque j'ai juré de ne rien celer de notre histoire, (moi qui n'admire rien tant que le mouton broutant son ombre d'après-midi), je veux avouer que nous fûmes de tout temps d'assez piètres laveurs de vaisselle, des cireurs de chaussures sans envergure, mettons les choses au mieux, d'assez consciencieux sorciers et le seul indiscutable record que nous ayons battu est celui d'endurance à la chicotte...
 
-$$ 19 --
+@@@ 19 --
 <div align="right" style='color:#677179'> 22</div> 
 - {:.centered} -- 19 --
 
@@ -356,7 +360,7 @@ $$ 19 --
 - {:.pr} Et qu'ils servent et trahissent et meurent
 - {:.pr} Ainsi soit-il. Ainsi soit-il. C'était écrit dans la forme de leur bassin.
 
-$$ 20 --
+@@@ 20 --
 <div align="right" style='color:#677179'> 23</div> 
 - {:.centered} -- 20 --
 
@@ -371,7 +375,7 @@ $$ 20 --
 - {:.pr.i} Un nègre dont les yeux roulaient une lassitude sanguinolente.
 - {:.pr.i} Un nègre sans pudeur et ses orteils ricanaient de façon assez puante au fond de la tanière entrebaillée[sic] de ses souliers.
 
-$$ 21 --
+@@@ 21 --
 <div align="right" style='color:#677179'> 24</div> 
 - {:.centered} -- 21 --
 
@@ -391,7 +395,7 @@ $$ 21 --
 - {:.pr} Cette ville, ma face de boue.
 - {:.pr} L'eau du baptême sur mon front se sèche.
 
-$$ 22 --
+@@@ 22 --
 <div align="right" style='color:#677179'> 25</div> 
 - {:.centered} -- 22 --
 
@@ -418,7 +422,7 @@ $$ 22 --
 - {:.pr} le destin m'appelait j'étais caché derrière
 - {:.pr} et voici l'homme par terre ! Sa très fragile défense dispersée,
 
-$$ 23 --
+@@@ 23 --
 <div align="right" style='color:#677179'> 26</div> 
 - {:.centered} -- 23 --
 
@@ -435,7 +439,7 @@ $$ 23 --
 - {:.pr} Je dis que cela est bien ainsi.
 - {:.pr} Je vis pour le plus plat de mon âme. Pour le plus terne de ma chair !
 
-$$ 23 bis --
+@@@ 23 bis --
 <div align="right" style='color:#677179'> 27</div> 
 - {:.centered} -- 23 bis --
 
@@ -459,7 +463,7 @@ $$ 23 bis --
 
 - {:.pr.i} Tiède petit <add style='color:#677179'> matin </add>de chaleurs et de peurs ancestrales
 
-$$ 24 --
+@@@ 24 --
 <div align="right" style='color:#677179'> 28</div> 
 - {:.centered} -- 24 --
 
@@ -488,7 +492,7 @@ $$ 24 --
 
 - {:.pr} Eia pour le Kaïlcédrat royal !
 
-$$ 25 --
+@@@ 25 --
 <div align="right" style='color:#677179'> 29</div> 
 - {:.centered} -- 25 --
 
@@ -518,7 +522,7 @@ $$ 25 --
 - {:.pr} Écoutez le monde blanc
 - {:.pr} horriblement las de son effort immense
 
-$$ 26 --
+@@@ 26 --
 <div align="right" style='color:#677179'> 30</div> 
 - {:.centered} -- 26 --
 
@@ -551,7 +555,7 @@ $$ 26 --
 - {:.pr} ni un fils, mais le père, mais le frère, mais le fils,
 - {:.pr} ni un mari, mais l'amant de cet unique peuple.
 
-$$ 27 --
+@@@ 27 --
 <div align="right" style='color:#677179'> 31</div> 
 - {:.centered} -- 27 --
 
@@ -583,7 +587,7 @@ $$ 27 --
 - {:.pr} de produire de son intimité close
 - {:.pr} la succulence des fruits.
 
-$$ 28 --
+@@@ 28 --
 <div align="right" style='color:#677179'> 32</div> 
 - {:.centered} -- 28 --
 
@@ -611,7 +615,7 @@ $$ 28 --
 
 - {:.pr} La voici avancer par escalades et retombées sur le flot pulvérisé
 
-$$ 29 --
+@@@ 29 --
 <div align="right" style='color:#677179'> 33</div> 
 - {:.centered} -- 29 --
 
@@ -638,7 +642,7 @@ $$ 29 --
 - {:.pr} ma race raisin mûr pour pieds ivres
 - {:.pr} ma reine des crachats et des lèpres
 
-$$ 30 --
+@@@ 30 --
 <div align="right" style='color:#677179'> 34</div> 
 - {:.centered} -- 30 --
 
@@ -668,7 +672,7 @@ $$ 30 --
 - {:.pr} la cippe
 - {:.pr} le frontal
 
-$$ 31 --
+@@@ 31 --
 <div align="right" style='color:#677179'> 35</div> 
 - {:.centered} -- 31 --
 
@@ -685,7 +689,7 @@ $$ 31 --
 
 - {:.pr} et loin de la mer de palais qui déferle sous la syzygie suppurante des ampoules, merveilleusement couché le corps de mon pays dans le désespoir de mes bras, ses os ébranlés et dans ses veines, le sang qui hésite comme la goutte de lait végétal à la pointe blessée du bulbe... Et voici soudain que force et vie m'assaillent comme un taureau et je renouvelle ONAN qui confia son sperme à la terre féconde et l'onde de vie circonvient la papille du morne, et voilà toutes les veines et veinules qui s'affairent au sang neuf et l'énorme poumon des cyclones qui respire et le feu thésaurisé des
 
-$$ 32 --
+@@@ 32 --
 <div align="right" style='color:#677179'> 36</div> 
 - {:.centered} -- 32 --
 
@@ -704,7 +708,7 @@ $$ 32 --
 - {:.pr} et aucune race ne possède le monopole de la beauté, de l'intelligence, de la force
 - {:.pr} et il est place pour tous au rendez-vous de la conquête et nous savons maintenant que le soleil tourne autour de notre terre éclairant la parcelle qu'a fixée notre volonté seule et que toute étoile <del style='color:#303030'>------</del> chute d<add style='color:#677179'>e</add> ciel en terre à notre commandement sans limite.
 
-$$ 33 --
+@@@ 33 --
 <div align="right" style='color:#677179'> 37</div> 
 - {:.centered} -- 33 --
 
@@ -714,7 +718,7 @@ $$ 33 --
 - {:.pr} Et voici ceux qui ne se consolent point de n'être pas faits à <del style='color:#303030'>al</del><add style='color:#677179'> la </add>ressemblance de Dieu mais du diable, ceux qui considèrent que l'on est nègre comme commis de seconde classe : en attendant mieux et avec possibilité de monter plus haut ; ceux qui battent la chamad<add style='color:#677179'>e</add> devant soi-même, ceux qui vivent dans un cul de basse fosse de soi-même ; ceux qui se drapent de pseudomorphose fière ; ceux qui disent à l'Europe : « Voyez, je sais comme vous faire des courbettes, comme vous présenter mes hommages, en somme, je ne suis pas différent de vous ; ne faites pas attention
 à ma peau noire : c'est le soleil qui m'a brûlé ».
 
-$$ 34 --
+@@@ 34 --
 <div align="right" style='color:#677179'> 38</div> 
 - {:.centered} -- 34 --
 
@@ -734,7 +738,7 @@ $$ 34 --
 - {:.pr} <del style='color:#303030'>soit sa vertu prostituée aux triomphes parégoriques du tafia</del>
 - {:.pr} <del style='color:#303030'>soit sa misère qui halète dans le ventre visiblement creux du tam-tam</del>
 
-$$ 35 --
+@@@ 35 --
 <div align="right" style='color:#677179'> 39</div> 
 - {:.centered} -- 35 --
 
@@ -756,7 +760,7 @@ $$ 35 --
 
 - {:.pr} En vain pour s'en distraire le capitaine pend à sa grand'vergue le nègre le plus braillard ou le jette à la mer, ou le livre à l'appétit de ses molosses 
 
-$$ 36 --
+@@@ 36 --
 <div align="right" style='color:#677179'> 40</div> 
 - {:.centered} -- 36 --
 
@@ -784,7 +788,7 @@ $$ 36 --
 - {:.pr} debout à la boussole
 - {:.pr} debout à la carte
 
-$$ 37 --
+@@@ 37 --
 <div align="right" style='color:#677179'> 41</div> 
 - {:.centered} -- 37 --
 
@@ -810,7 +814,7 @@ $$ 37 --
 - {:.pr} Je te livre ma conscience et son rythme de chair
 - {:.pr} Je te livre les feux où brasille ma faiblesse
 
-$$ 38 --
+@@@ 38 --
 <div align="right" style='color:#677179'> 42</div> 
 - {:.centered} -- 38 --
 
@@ -834,7 +838,7 @@ $$ 38 --
 - {:.pr} Et lie, lie-moi sans remords
 - {:.pr} lie-moi de tes vastes bras à l'argile lumineuse
 
-$$ 39 --
+@@@ 39 --
 <div align="right" style='color:#677179'> 42[sic]</div> 
 - {:.centered} -- 39 --
 
