@@ -16,11 +16,8 @@ layout: default
 
 {% if viewer %}
 
-<div class="row pageview">
-  <div class="column">Fruits</div>
-  <div class="column">Vegetables</div>
-</div>
-  <div class='item-view'>
+<div class="row side-by-side">
+  <div class='column item-view'>
     <span class='pagination-link' id='prevlink'></span>
     {% if viewer == 'openseadragon' %}
       {% include osd_iiif_image_viewer.html manifest=page.manifest prevlink=prevlink nextlink=nextlink %}
@@ -32,12 +29,12 @@ layout: default
   {% unless layout.pagination == false %}{% include item_pagination.html %}{% endunless %}
 {% endif %}
 
-{% unless page.special %}{% include transcription.html %}{% endunless %}
+<div class="column">{% unless page.special %}{% include transcription.html %}{% endunless %}</div>
 
 {% comment %}
   The block below controls the item metadata table
-{% endcomment %}
 
+<div class="row">
 {% if layout.meta.size %}
   {% assign metadata = layout.meta %}
 {% elsif page.meta.size %}
@@ -46,5 +43,12 @@ layout: default
 {% if metadata.size %}
   {% include item_metadata.html meta=metadata %}
 {% endif %}
+</div>
+{% endcomment %}
+
 
 {{ content }}
+
+</div>
+
+

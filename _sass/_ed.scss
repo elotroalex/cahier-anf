@@ -943,23 +943,24 @@ li.i {
 item pages (iiif + metadata)
 
 */
+
+
 .item-view {
-  width:           110%;
+  width:           100%;
   display:         inline-flex;
   flex-wrap:       nowrap;
   justify-content: space-between;
   align-items:     center;
-  margin-left:     -5%;
 
   .image-viewer {
     position: relative;
     text-align: center;
-    height:   $viewer-height;
-    max-height: 80vh;
+    height:   800px;
+    max-height: 100vh;
     background-color: $neutral;
     width:    100%;
     border:   1px solid $neutral;
-    margin:   $more-margin 0 $more-margin 0;
+    margin:   0 0 $more-margin 0;
 
     a {
       color: inherit !important;
@@ -1137,7 +1138,7 @@ dd {
 .item-label {
   text-align: center;
   // color: #841212;
-  margin-bottom: 0rem;
+  margin-bottom: 2rem;
 }
 
 .item-transcription li.speaker p, li.speaker p {
@@ -1204,8 +1205,6 @@ div#figure-p img {
 .column {
   float: left;
   width: 50%;
-  padding: 10px;
-  height: 300px; /* Should be removed. Only for demonstration */
 }
 
 /* Clear floats after the columns */
@@ -1213,6 +1212,7 @@ div#figure-p img {
   content: "";
   display: table;
   clear: both;
+
 }
 
 /* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
