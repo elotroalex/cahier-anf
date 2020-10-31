@@ -181,7 +181,7 @@ les muqueuses ou vous les fondent en subtilités, ou vous les distillent en ravi
 - Terres rouges terres sanguines terres consanguines.
 
 - {:.pr.i} Ce qui est à moi aussi : une petite cellule dans le Jura, 
-- une petite,cellule, la neige la double de barreaux blancs 
+- une petite cellule, la neige la double de barreaux blancs 
 - la neige est un geôlier blanc qui monte la garde devant une prison 
 - Ce qui est à moi 
 - c'est un homme seul emprisonné de blanc 
@@ -661,7 +661,7 @@ volcans et le gigantesque pouls sismique qui bat maintenant la mesure d'un corps
 - debout et non point pauvre folle dans sa liberté et son dénuement maritimes girant en la dérive parfaite
 - et la voici :
 - plus inattendument debout
-- debout dansles cordages
+- debout dans les cordages
 - debout à la barre
 - debout à la boussole
 - debout à la carte
