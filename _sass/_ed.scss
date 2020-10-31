@@ -944,6 +944,30 @@ item pages (iiif + metadata)
 
 */
 
+.pagination-link {
+    width: 5%;
+    text-align: center;
+}
+
+.pagination-link a {
+      font-family: $heading-font;
+      font-weight: bold;
+      font-size: 3em;
+      color: $accent-dark !important;
+      text-decoration: none !important;
+      background-color: $bg-color;
+      margin: 0;
+      &:hover{
+        color: $accent-dark !important;
+      }
+    }
+
+.page-navigation {
+  margin-left:  auto;
+  margin-right: auto;
+  text-align: center;
+  width: 100%;
+}
 
 .item-view {
   width:           100%;
@@ -997,7 +1021,8 @@ item pages (iiif + metadata)
   #prevlink {
     float:left;
   }
-  .nextlink {
+  
+  #nextlink {
     float: right;
   }
 }
@@ -1205,6 +1230,17 @@ div#figure-p img {
 .column {
   float: left;
   width: 50%;
+  padding: 10px;
+}
+
+.column.left-side {
+  height: 96vh;
+  overflow: auto;
+  width: 50%;
+}
+
+.tiny-column {
+  width: 5%;
 }
 
 /* Clear floats after the columns */

@@ -8,6 +8,11 @@ layout: default
 
 <h2 alt="{{ page.label }}" class='item-label'>{{ page.label }}</h2>
 
+<div class="page-navigation">
+  <span class='pagination-link tiny-column' id='prevlink'></span>
+  <span class='pagination-link tiny-column' id='nextlink'></span>
+</div>
+
 {% if page.image_viewer %}
   {% assign viewer = page.image_viewer %}
 {% elsif layout.image_viewer %}
@@ -18,23 +23,37 @@ layout: default
 
 <div class="row side-by-side">
   <div class='column item-view'>
-    <span class='pagination-link' id='prevlink'></span>
+    
     {% if viewer == 'openseadragon' %}
       {% include osd_iiif_image_viewer.html manifest=page.manifest prevlink=prevlink nextlink=nextlink %}
     {% else %}
        {% include simple_image_viewer.html full_image=page.full prevlink=prevlink nextlink=nextlink %}
     {% endif %}
-    <span class='pagination-link' id='nextlink'></span>
+    
   </div>
-  {% unless layout.pagination == false %}{% include item_pagination.html %}{% endunless %}
+
 {% endif %}
 
-<div class="column">{% unless page.special %}{% include transcription.html %}{% endunless %}</div>
+<div class="column left-side">{% unless page.special %}{% include transcription.html %}{% endunless %}</div>
+
+
+
+  
+{% unless layout.pagination == false %}{% include item_pagination.html %}{% endunless %}
 
 {% comment %}
   The block below controls the item metadata table
+{% endcomment %}
 
-<div class="row">
+
+
+
+
+{{ content }}
+
+</div>
+
+<div class="">
 {% if layout.meta.size %}
   {% assign metadata = layout.meta %}
 {% elsif page.meta.size %}
@@ -43,12 +62,6 @@ layout: default
 {% if metadata.size %}
   {% include item_metadata.html meta=metadata %}
 {% endif %}
-</div>
-{% endcomment %}
-
-
-{{ content }}
-
 </div>
 
 
