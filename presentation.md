@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Présentation de la publication en ligne du tapuscrit de Cahier d’un retour au pays natal
+title: Présentation
 description:  
 editor: Kora Véron
 ---
@@ -36,11 +36,13 @@ L’événement est organisé par Kaiama L. Glover & Alex Gil qui offrent ainsi 
 * La fin de l'édition critique.
 * Les annotations collectives en décembre 2020 (Kaiama & Alex).
 
-La publication est développée par Alex sous la forme d'un site statique de [Jekyll](https://jekyllrb.com/).
+La publication est développée par Alex sous la forme d'un site statique de [Ed](https://minicomp.github.io/ed/).
 
 ### Annotation of Aimé Césaire’s Notebook of a Return to My Native Land
 
 >This online annotation event is an opportunity for our community of scholars to engage differently and collectively with a text whose significance for our Americas has been long-standing, transregional, and profound. Over the course of five days, participants will be invited to use the digital editing tool hypothes.is to contribute to the creation of a new version of the Notebook – a version that, through a process of generative layering, will incorporate scholarly, artistic, “traditional,” and multimedia paratext to Césaire’s extraordinary text. The week will begin with a 45-minute tool-acquisition tutorial, after which the proverbial floor will be open. In 2019 archipelagos journal Issue(4) hosted a similar event as an exercise in digital peer review, around Laurent Dubois, David Kirkland Garner, and Mary Caton Lingold’s website Musical Passage. A full account of that marvelous experiment can be found here.
+
+---
 
 ##### Kora Véron, responsable du groupe Aimé Césaire (Manuscrits francophones), Institut des textes et manuscrits modernes (École normale supérieure/CNRS).
 
