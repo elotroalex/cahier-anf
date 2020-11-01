@@ -15,7 +15,7 @@ manifest: "/img/derivatives/iiif/letter/manifest.json"
 
 <p>Je vous prie d'agréer mes sincères remerciements.</p>
 
-<p>A. Césaire<br>45 rue d'Ulm<br>Paris V<sup>e</sup>/.</p>
+<p>A. Césaire<br>45 rue d'Ulm<br>Paris (5<sup>e</sup>)</p>
 
 <p>P-S Voudriez-vous avoir l'amabilité de me renvoyer la copie dactylographiée non corrigée que j'ai laissie chez vous lors de ma visite.<br>Je vous remercie d'avance. A.C.</p>
 
