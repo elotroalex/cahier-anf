@@ -2,7 +2,7 @@
 layout: poem
 title: Transcription linéarisée
 description:  Transcription linéarisée du tapuscrit de *Cahier d'un retour au pays natal*
-author: Aimé Césaire
+author: Kora Véron
 editor: Kora Véron
 ---
 
