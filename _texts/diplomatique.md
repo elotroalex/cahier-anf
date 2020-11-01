@@ -7,9 +7,8 @@ editor: Kora Véron
 ---
 
 Cette transcription conserve le découpage en feuillets, mais pas celui correspondant à la largeur du papier utilisé. 
-Elle ne corrige pas les coquilles et rend compte des bifffures et des ajouts manuels<!-- , sans chercher à reproduire strictement à l'identique un document dont l'image est proposé en vis-à-vis -->.
+Elle ne corrige pas les coquilles et rend compte des bifffures et des ajouts manuels, sans chercher à reproduire strictement à l'identique le facsimilé qui est proposé [en vis-à-vis]({{site.baseurl}}/cahier/ms00/).
 
-Vous pouvez lire [cette transcription aussi en vis-à-vis de l'original]({{site.baseurl}}/cahier/ms00/).
 
 ---
 
