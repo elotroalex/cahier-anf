@@ -16,7 +16,7 @@ manifest: "/img/derivatives/iiif/ms23bis/manifest.json"
 - {:.pr} je tremble maintenant du commun tremblement
 - {:.pr} que notre sang docile chante dans le madrépore.
 
-- {:.pr} Et ces tétards[sic] en moi éclos de mon ascendance prodigieuse !
+- {:.pr} Et ces tétards en moi éclos de mon ascendance prodigieuse !
 
 - {:.pr} ceux qui n'ont inventé ni la poudre ni la boussole
 - {:.pr} ceux qui n'ont jamais su dompter la vapeur ni l'électricité
@@ -25,7 +25,7 @@ manifest: "/img/derivatives/iiif/ms23bis/manifest.json"
 - {:.pr} ceux qui n'ont connu de voyages que de déracinements
 - {:.pr} ceux qui se sont assouplis aux agenouillements
 - {:.pr} ceux qu'on domestiqua et christianisa
-- {:.pr} ceux qu'on inocula d'abatardissement[sic]
+- {:.pr} ceux qu'on inocula d'abatardissement
 - {:.pr} tam-tams de mains vides
 - {:.pr} tam-tams inanes de plaies sonores
 - {:.pr} tam-tams burlesques de trahison tabide
