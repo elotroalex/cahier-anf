@@ -6,7 +6,7 @@ author: Alex Gil et Kaiama L. Glover
 translators:
 ---
 
-This translation is based on the clean copy established by Kora Véron of the 1939 typescript of the *Cahier*---the earliest known form of the poem. The translation was prepared in honor of the Caribbean Digital VII conference, as part of one of three collective exercises: "[Our Collective Notebook](https://www.caribbeandigitalnyc.net/2020/cahier/)." If it's not already enabled, you can enable the annotation layer for our collective activity by clicking on this [hypothes.is link](https://via.hypothes.is/).
+This translation is based on the clean copy established by Kora Véron of the 1939 typescript of the *Cahier*---the earliest known form of the poem. The translation was prepared in honor of the Caribbean Digital VII conference, as part of one of three collective exercises: "[Our Collective Notebook](https://www.caribbeandigitalnyc.net/2020/cahier/)." If it's not already enabled, you can enable the annotation layer for our collective activity by clicking on this [hypothes.is link](https://via.hypothes.is/https://cahier1939ms.github.io/).
 
 ---
 
