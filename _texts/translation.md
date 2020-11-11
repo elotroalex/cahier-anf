@@ -117,7 +117,7 @@ When the daybreak ends, the forgotten hillock, forgetting to jump.
 - {:.pr} then, capsized, becomes silent
 - {:.pr} hot election of ashes, ruins, and subsidence
 
-- {:.pr.i} --- One more objection! only one, but please only one: I am not allowed to calculate life based solely on my fuliginous span; to reduce myself to this little ellipsoidal nothing, trembling four fingers above the line, meI, a man to thus upset creation, that I see myself between latitude and longitude!
+- {:.pr.i} ---One more objection! only one, but please only one: I am not allowed to calculate life based solely on my fuliginous span; to reduce myself to this little ellipsoidal nothing, trembling four fingers above the line, meI, a man to thus upset creation, that I see myself between latitude and longitude!
 
 - {:.pr.i} When the daybreak ends,
 - {:.pr} the manly thirst and the stubborn desire,
@@ -200,8 +200,6 @@ When the daybreak ends, the forgotten hillock, forgetting to jump.
 - {:.pr} I know the tracking, the Lindy-hop and tap dancing.
 - {:.pr} For the good mouths the muting of our complaints coated with wah-wah. Wait…
 - {:.pr} Everything is in order. My guardian angel grazes neon. I swallow chopsticks. My dignity wallows in the puke …
-
--- 17 bis --
 
 - {:.pr.i} Sun, Sun Angel, Curly Sun Angel.
 - {:.pr.i} For a leap beyond the green and soft swim of the waters of abjection!
