@@ -605,7 +605,7 @@ When the daybreak ends, the forgotten hillock, forgetting to jump.
 - {:.pr.i6}	rise
 - {:.pr} I follow you, imprinted in my ancestral white cornea
 - {:.pr} Rise, sky licker
-- {:.pr} And the big black hole where I wanted to drown the other moon
-- {:.pr} There is where I now want to fish 
+- {:.pr} And that big black hole where I wanted to drown a moon ago
+- {:.pr} Is where I now want to fish 
 - {:.pr} the evil tongue of the night in its motionless verrition!
 
