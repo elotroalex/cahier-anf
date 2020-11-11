@@ -2,7 +2,7 @@
 layout: poem
 title: Présentation de l'édition critique
 description:
-author: Aimé Césaire
+author: Kora Véron
 editor: Kora Véron
 ---
 
@@ -29,34 +29,35 @@ Les fragments sont numérotés de 1 à 154 en suivant linéairement le tapuscrit
 
 On peut suivre par ce système l’élaboration du poème dans le temps, ainsi que ses variantes à l'échelle macro-génétique (l'ajout, la suppression ou le déplacement d'un bloc), ou micro-génétique (les variations à l'intérieur d'un même fragment).
 
-____
+---
 
 Voici le début commenté de l'édition à venir.
 
-----
+---
 
 ## I Le retour dans un pays natal catastrophique
 
 Il s'agit de la première partie du poème.
 
------
+---
 
 |<span style='color:#ad1457'>Un nouveau bloc est introduit chez Bordas</span>|<span style='color:#806D5A'> et repris chez Présence africaine</span>|
 
 J'indique l'évolution des blocs dans les versions ultérieures à celle du tapuscrit.
 
------
+---
 
 ### <span style='color:#0e6655'>TAP1</span>
 
 <span style='color:#0e6655'>TAP1</span> désigne le premier bloc du tapuscrit.
 
+---
 
------
 - <span style='color:#0e6655'>1-1 Les Antilles ==> cette baie ==>  ville</span>
 
 Le premier fragment du tapuscrit est indexé par son numéro : <span style='color:#0e6655'>1-1</span>. J'ai donné, par commodité, un titre à chacun des fragments. 
-___
+
+---
 
 - {:.pr.i} <span style='color:#0e6655'>Au bout du petit matin bourgeonnant <del style='color:#FF0921'>danses</del> <add style='color:#FF0921'>d’anses</add> frêles les Antilles qui ont faim, les Antilles grélées[*sic*] de petite vérole, les Antilles dynamitées d'alcool, échouées dans la boue de cette baie, dans la poussière de cette ville sinistrement échouées.
 
