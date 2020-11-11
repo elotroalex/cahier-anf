@@ -1,6 +1,6 @@
 ---
 pid: letter
-label: "Lettre à G. PELORSON"
+label: "Lettre à Pelorson"
 order: '0'
 collection: cahier
 layout: item
