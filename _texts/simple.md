@@ -1,6 +1,6 @@
 ---
 layout: poem
-title: Édition simplifiée
+title: Transcription simplifiée
 description: Transcription simplifiée
 author: Aimé Césaire
 editor: Kora Véron
