@@ -2,7 +2,7 @@
 layout: poem
 title: Introduction à l'histoire du poème
 description: Introduction 
-author: Kora Veron
+author: Kora Véron
 ---
 
 Inclassable et fondateur, *Cahier d’un retour au pays natal* est la matrice de toute la poésie d'Aimé Césaire. Son originalité et sa puissance en font l'une des œuvres majeures du XX<sup>e</sup> siècle, dont l'influence reste considérable.
@@ -149,8 +149,8 @@ Des fils permettent au poète de combiner ses fragments hétéroclites, et de le
 
 Césaire utilise aussi ce fil pour coudre des fragment dans les versions ultérieures, et harmoniser ainsi son poème. Par exemple, dans l'édition Brentano's :
 
-- {:.pr.i} <span style='color:#000080 '>Holà Pitié — hyène long cercle autour de ma pourriture on ne nous a point fait d'injustice. Et au matin de mourir nous savons des hymnes à chanter en prison.
-- {:.pr.i} <span style='color:#000080 '>Au bout du petit matin le soleil qui toussotte[sic] le soleil qui crache ses poumons
+- {:.pr.i} <span style='color:#000080 '>Holà Pitié — hyène long cercle autour de ma pourriture on ne nous a point fait d'injustice. Et au matin de mourir nous savons des hymnes à chanter en prison.</span>
+- {:.pr.i} <span style='color:#000080 '>Au bout du petit matin le soleil qui toussotte[sic] le soleil qui crache ses poumons</span>
 
 On peut en suivre d'autres : le fil du soleil et de la nuit, de la maladie, du retour, des bateaux, du vent (ou de son absence), des oiseaux, des arbres, de la nourriture, d'Éros et de Thanatos, du *moi* et du *nous*, le fil des *mots,* le fil vertical et horizontal, le fil blanc et le fil noir ... Ces fils ne sont pas simplement des motifs ou des thèmes récurrents, mais bien des liens qui permettent d'élaborer le texte, de l'assembler et de le réassembler.
 
