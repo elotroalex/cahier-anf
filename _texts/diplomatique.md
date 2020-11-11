@@ -6,13 +6,16 @@ author: Kora Véron
 editor: Kora Véron
 ---
 
+
+
 Cette transcription conserve le découpage en feuillets, mais pas celui correspondant à la largeur du papier utilisé. 
 Elle ne corrige pas les coquilles et rend compte des biffures et des ajouts manuels, sans chercher à reproduire strictement à l'identique le facsimilé qui est proposé [en vis-à-vis]({{site.baseurl}}/cahier/ms00/).
 
 
 ---
 
-<div align="right" style='color:#677179'> 1</div> 
+
+<div align="right" style='color:#677179'> 1</div>
 <br>
 
 - {:.centered} # <add style='color:#677179'> Aimé Césaire : 
@@ -26,19 +29,17 @@ Elle ne corrige pas les coquilles et rend compte des biffures et des ajouts manu
 - {:.centered} # <del style='color:#303030'>AIME CESAIRE</del>
 
 
-<hr>
+---
 
 <div align="right" style='color:#677179'> 2</div> 
 
-- {:.pr.i} Au bout du petit matin bourgeonnant <del style='color:#303030'>danses</del><add style='color:#677179'>  d’anses </add>frèles[sic] les Antilles qui ont faim, les Antilles grélées[sic] de petite vérole, les Antilles dynamitées d'alcool, échouées dans la boue de cette baie, dans la poussière de cette ville sinistrement échouées.
+- {:.pr.i} Au bout du petit matin bourgeonnant <del style='color:#303030'>danses</del><add style='color:#677179'> d’anses </add>frèles les Antilles qui ont faim, les Antilles grélées de petite vérole, les Antilles dynamitées d'alcool, échouées dans la boue de cette baie, dans la poussière de cette ville sinistrement échouées.
 
-- {:.pr.i} Au bout du petit matin, l'extrême, trompeuse désolée eschare sur la blessure des eaux ; les martyrs qui ne témoignent pas ; les fleurs du sang qui se fânent [sic] et s'éparpillent dans le vent inutile comme des cris de perroquets babillards ; une <del style='color:#303030'>ville</del><add style='color:#677179'> vieille </add>vie menteusement souriante, ses lèvres ouvertes d'angoisses <del style='color:#303030'>désafectées</del><add style='color:#677179'> désaffectées </add>; une vieille misère <del style='color:#303030'>pourissant</del><add style='color:#677179'> pourrissant </add>sous le soleil, silencieusement ; un vieux silence crevant de pustules tièdes —
+- {:.pr.i} Au bout du petit matin, l'extrême, trompeuse désolée eschare sur la blessure des eaux ; les martyrs qui ne témoignent pas ; les fleurs du sang qui se fânent  et s'éparpillent dans le vent inutile comme des cris de perroquets babillards ; une <del style='color:#303030'>ville</del><add style='color:#677179'> vieille </add>vie menteusement souriante, ses lèvres ouvertes d'angoisses <del style='color:#303030'>désafectées</del><add style='color:#677179'> désaffectées </add>; une vieille misère <del style='color:#303030'>pourissant</del><add style='color:#677179'> pourrissant </add>sous le soleil, silencieusement ; un vieux silence crevant de pustules tièdes —
 
 - {:.pr.i} l'affreuse inanité de notre raison d'être.
 
-- {:.pr.i} Au bout du petit matin, sur cette plus fragile épaisseur de terre que dépasse de façon humiliante son grandiose avenir — <del style='color:#303030'>les volcans éclateront, les raz de marée souffle<del style='color:#303030'>n</del>ront la balle [ou belle] aux volcans surpassés,</del> l'eau nue emportera les tâches[sic] mures[sic] du soleil et il ne restera plus qu'un bouillonnement tiède picoré d'oiseaux marins — la plage des songes et l'insensé réveil.
-
-<hr>
+- {:.pr.i} Au bout du petit matin, sur cette plus fragile épaisseur de terre que dépasse de façon humiliante son grandiose avenir — <del style='color:#303030'>les volcans éclateront, les raz de marée souffle<del style='color:#303030'>n</del>ront la balle [ou belle] aux volcans surpassés,</del> l'eau nue emportera les tâches mures du soleil et il ne restera plus qu'un bouillonnement tiède picoré d'oiseaux marins — la plage des songes et l'insensé réveil.
 
 <div align="right" style='color:#677179'> 3</div> 
 - {:.centered } -- 2 --
@@ -52,7 +53,6 @@ Elle ne corrige pas les coquilles et rend compte des biffures et des ajouts manu
 
 - {:.pr.i} Dans cette ville inerte, cette étrange foule qui ne s'entasse pas, ne se mêle pas ; habile à découvrir le point de désencastration, de fuite, d'esquive. Cette foule qui ne sait pas faire foule, cette foule, on s'en rend compte, si parfaitement seule sous ce soleil, à la façon dont une femme, toute on eût cru à la cadence lyrique de ses fesses, interpelle brusquement une pluie hypothétique et lui intime l'ordre de ne pas tomber ; ou à un signe rapide de croix sans mobile visible ; ou à l'animalité subitement grave d'une paysanne, 
 
-<hr>
 <div align="right" style='color:#677179'> 4</div> 
 - {:.centered} -- 3 --
 
@@ -65,9 +65,8 @@ Elle ne corrige pas les coquilles et rend compte des biffures et des ajouts manu
 
 - {:.pr.i} Au bout du petit matin, le morne au sabot inquiet et docile — son sang impaludé met en déroute <add style='color:#677179'> le soleil </add>de ses <del style='color:#303030'>puls</del><add style='color:#677179'> pouls </add>surchauffés.
 
-- {:.pr.i} Au bout du petit matin, l'incendie contenu du morne, comme un sanglot que l'on a baillonné[sic] au bord de son éclatement sanguinaire, en quête d'une ignition qui se dérobe et se méconnaît.
+- {:.pr.i} Au bout du petit matin, l'incendie contenu du morne, comme un sanglot que l'on a baillonné au bord de son éclatement sanguinaire, en quête d'une ignition qui se dérobe et se méconnaît.
 
-<hr>
 <div align="right" style='color:#677179'> 5</div> 
 - {:.centered} -- 4 --
 
@@ -80,7 +79,6 @@ Elle ne corrige pas les coquilles et rend compte des biffures et des ajouts manu
 - {:.pr.i} et il n'y a rien, rien à tirer vraiment de ce petit vaurien, 
 - {:.pr.i} qu'une faim qui ne sait plus grimper aux agrès de 
 
-<hr>
 <div align="right" style='color:#677179'> 6</div> 
 - {:.centered} -- 5 --
 
@@ -97,7 +95,6 @@ Elle ne corrige pas les coquilles et rend compte des biffures et des ajouts manu
 
 - {:.pr.i} Et nos gestes imbéciles et fous pour faire revivre l'éclaboussement d'or des instants favorisés, le
 
-<hr>
 <div align="right" style='color:#677179'> 7</div> 
 - {:.centered} -- 6 --
 
@@ -108,19 +105,17 @@ Elle ne corrige pas les coquilles et rend compte des biffures et des ajouts manu
 
 - {:.pr.i} Au bout du petit matin, ce plus essentiel pays restitué à ma gourmandise, non de diffuse tendresse, mais la tourmentée concentration sensuelle du gras téton des mornes avec l'accidentel palmier comme son germe durci, la jouissance saccadée des torrents <del style='color:#303030'>autour du clitoris volcanique des rochers</del> et depuis Trinité jusqu'à Grand-Rivière,la grand'lèche hystérique de la mer.
 
-<hr>
 <div align="right" style='color:#677179'> 8</div> 
 - {:.centered} -- 7 --
 
 - {:.pr.i} Et le temps passait vite, très vite.
-- {:.pr.i} Passés août où les manguiers pavoisent de toutes leurs lunules, septembre l'accoucheur de cyclônes[sic], octobre le flambeur de cannes, novembre qui ronronne aux distilleries, c'était Noël qui commençait.
+- {:.pr.i} Passés août où les manguiers pavoisent de toutes leurs lunules, septembre l'accoucheur de cyclônes, octobre le flambeur de cannes, novembre qui ronronne aux distilleries, c'était Noël qui commençait.
 - {:.pr.i} Il s'était annoncé d'abord Noël par un picotement de désirs, une soif de tendresses neuves, un bourgeonnement de rêves imprécis, puis il s'était envolé tout à coup dans le froufrou violet de ses grandes ailes de joie, et alors c'était parmi le bourg sa vertigineuse retombée qui éclatait la vie des cases comme une grenade trop mûre.
 - {:.pr.i} Noël n'était pas comme toutes les fêtes. Il n'aimait pas à courir les rues, à danser sur les places publiques, à s'installer sur les chevaux de bois, à profiter de la cohue pour pincer les femmes, à lancer des feux d'artifice au front des tamariniers. Il avait l'agoraphobie, Noël. Ce <del style='color:#303030'>qui</del><add style='color:#677179'> qu'il </add>lui fallait c'était toute une journée d'affairement, d'apprêts, de cuisinages, de nettoyages, d'inquiétudes, de-peur-que-ça-ne-suffise-pas,
 - {:.pr} de-peur-que-ça-ne-manque,
 - {:.pr} de-peur-qu'on-ne-s'embête,
 - {:.pr} puis le soir une petite église pas intimidante, qui se laiss<add style='color:#677179'>ât </add>emplir bienveillamment par les rires, les chuchotis, les confidences, les déclarations amoureuses, les médisances et la cacophonie gutturale d'un chantre bien d'attaque et aussi de gais copains et de franches luronnes et des cases aux entrailles riches en succulences, et pas regardantes, et
 
-<hr>
 <div align="right" style='color:#677179'> 9</div> 
 - {:.centered} -- 8 --
 
@@ -132,48 +127,47 @@ Elle ne corrige pas les coquilles et rend compte des biffures et des ajouts manu
 - {:.pr.i} Arrivée au somme<del style='color:#303030'>n</del>t de son ascension, la joie crève comme un nuage. Les chants ne s'arrêtent pas, mais ils roulent maintenant inquiets et lourds par les vallées de la peur, les tunnels de l'angoisse et les feux de l'enfer.
 - {:.pr.i} Et chacun se met à tirer par la queue le diable le plus proche, jusqu'à ce que la peur s'abolisse insensiblement dans les fines sablures du rêve, et l'on vit comme dans un rêve véritablement, et l'on boit et l'on crie et l'on chante 
 
-<hr>
 <div align="right" style='color:#677179'> 10</div> 
 - {:.centered} -- 9 --
 
 - {:.pr} comme dans un rêve, et l'on somnole aussi comme dans un rêve avec des paupières en pétales de rose, et le jour vient velouté comme une sapotille, et l'odeur de purin des <del style='color:#303030'>cacoyers</del><add style='color:#677179'> cacaoyers </add>, et les dindons, qui égr<add style='color:#677179'>è</add>nen<del style='color:#303030'>n</del>ent leurs pustules rouges au soleil, et l'obsession des cloches, et la pluie,
 - {:.pr.i} les cloches... la pluie... 
 - {:.pr.i} qui tintent, tintent, tintent...
-
+- <br>
+- <br>
 - <br>
 - - {:.pr.i} <del style='color:#303030'>Au</del>
 - <br>
 - <br>
-
-
+- <br>
+- <br>
+- <br>
+- <br>
 
 - {:.pr.i} Au bout du petit matin, cette ville plate — étalée...
 - {:.pr.i} Elle rampe sur les mains sans jamais aucune envie de vriller le ciel d'une stature de protestation. Les dos de maison ont peur du ciel truffé de feu, leurs pieds des noyades du sol. Elles ont opté de se poser superficielles entre les surprises et les perfidies. Et pourtant elle avance la ville. Même qu'elle paît tous les jours plus outre sa marée de corridors carrelés, de persiennes pudibondes, de cours gluantes, de peintures qui dégoulinent. Et de petits scandales étouffés, de petites hontes tues, de petites haines immenses pétrissent en bosses et creux les rues étroites où le ruisseau grimace longitudinalement parmi l'étron...
 
 - {:.pr.i} Au bout du petit matin, la vie prostrée, on ne sait où dépêcher ses rêves avortés, le fleuve de vie désespérément torpide dans son lit, sans turgescence ni dépression, incer-
 
-<hr>
 <div align="right" style='color:#677179'> 11</div> 
 - {:.centered} -- 10 --
 
 - {:.pr} tain de fluer, lamentablement vide, la lourde impartialité de l'ennui, répartissant l'ombre sur toutes choses égales, l'air stagnant sans une trouée d'oiseau clair.
 
-- {:.pr.i} Au bout du petit matin, une autre petite maison <del style='color:#303030'>noire</del> qui sent très mauvais dans une rue très étroite, une maison minuscule qui abrite en ses entrailles de bois pourri des dizaines de rats et la turbulence de mes six frères et sœurs, une petite maison cruelle dont l'intransigeance affole nos fin de mois et mon père fantasque grignoté d'une <del style='color:#303030'>vieille vieille</del><add style='color:#677179'> seule seule </add>misère, je n'ai jamais su laquelle, qu'une imprévisible sorcellerie assoupit en mélancolique tendresse ou exalte en hautes flammes de colère ; et ma mère dont les jambes pour notre faim inlassable pédale[sic], pédale[sic] de jour, de nuit, je suis même réveillé la nuit par ces jambes inlassables qui pédalent la nuit et la morsure âpre dans la <del style='color:#303030'>chir</del><add style='color:#677179'> chair </add>molle de la nuit d'une Singer et que ma mère pédale, pédale pour notre faim et de jour et de nuit.
+- {:.pr.i} Au bout du petit matin, une autre petite maison <del style='color:#303030'>noire</del> qui sent très mauvais dans une rue très étroite, une maison minuscule qui abrite en ses entrailles de bois pourri des dizaines de rats et la turbulence de mes six frères et sœurs, une petite maison cruelle dont l'intransigeance affole nos fin de mois et mon père fantasque grignoté d'une <del style='color:#303030'>vieille vieille</del><add style='color:#677179'> seule seule </add>misère, je n'ai jamais su laquelle, qu'une imprévisible sorcellerie assoupit en mélancolique tendresse ou exalte en hautes flammes de colère ; et ma mère dont les jambes pour notre faim inlassable pédale, pédale de jour, de nuit, je suis même réveillé la nuit par ces jambes inlassables qui pédalent la nuit et la morsure âpre dans la <del style='color:#303030'>chir</del><add style='color:#677179'> chair </add>molle de la nuit d'une Singer et que ma mère pédale, pédale pour notre faim et de jour et de nuit.
 
-- {:.pr.i} Au bout du petit matin, au delà[sic] de mon père, de ma mère, la case gerçant d'ampoules, comme un pêché[sic] tourmenté de la cloque, et le toit aminci, rapiécé de morceaux de bidon de pétrole, et ça fait des marais de rouillure dans la <del style='color:#303030'>chair</del><add style='color:#677179'> pâte </add>grise sordide empuantie de la paille, et quand le vent siffle, ces disparates font bizarre le bruit, comme un crépitement de friture d'abord, puis comme un tison que l'on plonge dans <del style='color:#303030'>l’au</del><add style='color:#677179'> l’eau </add>avec la fumée des brindilles qui s’envole<del style='color:#303030'>nt</del>... Et le lit de planches d'où s'est levée ma
+- {:.pr.i} Au bout du petit matin, au delà de mon père, de ma mère, la case gerçant d'ampoules, comme un pêché tourmenté de la cloque, et le toit aminci, rapiécé de morceaux de bidon de pétrole, et ça fait des marais de rouillure dans la <del style='color:#303030'>chair</del><add style='color:#677179'> pâte </add>grise sordide empuantie de la paille, et quand le vent siffle, ces disparates font bizarre le bruit, comme un crépitement de friture d'abord, puis comme un tison que l'on plonge dans <del style='color:#303030'>l’au</del><add style='color:#677179'> l’eau </add>avec la fumée des brindilles qui s’envole<del style='color:#303030'>nt</del>... Et le lit de planches d'où s'est levée ma
 
-<hr>
 <div align="right" style='color:#677179'> 12</div> 
 - {:.centered} -- 11 --
 
 - {:.pr} race, tout entière ma race de lit de planches, avec ses pattes de caisses de Kérosine, comme s'il avait l'éléphantiasis le lit, et sa peau de cabri, et ses feuilles de banane séchées, et ses <del style='color:#303030'>ahillons</del><add style='color:#677179'> haillons </add>, <del style='color:#303030'>et sa</del><add style='color:#677179'> une </add>nostalgie de matelas le lit de ma grand'mère (Au-dessus du lit, dans un pot plein d'huile un lumignon dont la flamme danse comme un gros ravet... sur le pot en lettres d'or : MERCI).
 
 - {:.pr.i} Et une honte, cette rue Paille,
-- {:.pr} un appendice dégoutant[sic] comme les parties honteuses du bourg qui étend à droite et à gauche tout<del style='color:#303030'>e</del>au long de la route coloniale, la ho<add style='color:#677179'>ul </add>e grise de ses toits « d'essentes ». Ici il n'y a que des toits de paille que l'embrun a bruni<add style='color:#677179'>s </add>et que le vent épile.
+- {:.pr} un appendice dégoutant comme les parties honteuses du bourg qui étend à droite et à gauche tout<del style='color:#303030'>e</del>au long de la route coloniale, la ho<add style='color:#677179'>ul </add>e grise de ses toits « d'essentes ». Ici il n'y a que des toits de paille que l'embrun a bruni<add style='color:#677179'>s </add>et que le vent épile.
 - {:.pr.i} Tout le monde la méprise la rue Paille. C'est là que la jeunesse du bourg se débauche. C'est là surtout que la mer déverse ses immondices, ses chats morts et ses chiens crevés. Car la rue débouche sur la plage, et la plage ne suffit pas à la rage écumante de la mer.
 - {:.pr.i} Une <del style='color:#303030'>misère</del><add style='color:#677179'> détresse </add>cette plage elle aussi, avec ses tas d'ordure pourris<add style='color:#677179'>s</add>ant, ses croupes furtives qui se soulagent, et le sable est noir, funèbre, on n'a jamais vu un sable si noir, et l'écume <add style='color:#677179'> g</add>lisse dessus en glapissant, et la mer la frappe à grands coups de boxe, ou plutôt la mer est un gros chien qui lèche et <del style='color:#303030'>mordille</del><add style='color:#677179'> mord </add>la plage aux jarrets, et à force de la <del style='color:#303030'>mordiller </del><add style='color:#677179'> mordre </add>elle finira par la dévorer, bien sûr, la plage et la rue Paille avec.
 
-<hr>
 <div align="right" style='color:#677179'> 13</div> 
 - {:.centered} -- 12 --
 
@@ -190,7 +184,6 @@ Elle ne corrige pas les coquilles et rend compte des biffures et des ajouts manu
 
 - {:.pr.i} Et voici que je suis venu !
 
-<hr>
 <div align="right" style='color:#677179'> 14</div> 
 - {:.centered} -- 13 --
 
@@ -210,7 +203,6 @@ Elle ne corrige pas les coquilles et rend compte des biffures et des ajouts manu
 - {:.pr} me voici divisé des oasis fraîches de la fraternité 
 - {:.pr} ce rien pudique frise d'échardes dures 
 
-<hr>
 <div align="right" style='color:#677179'> 15</div> 
 - {:.centered} -- 14 --
 
@@ -219,12 +211,11 @@ Elle ne corrige pas les coquilles et rend compte des biffures et des ajouts manu
 - {:.pr.i} Ton dernier triomphe, corbeau tenace de la Trahison.
 - {:.pr.i} Ce qui est à moi, ces quelques milliers de mortiférés qui tournent en rond dans la calebasse d'une île et ce qui est à moi aussi, l'archipel arqué comme le désir inquiet de se nier, on dirait une anxiété maternelle pour protéger la ténuité plus délicate qui sépare l'une de l'autre Amérique ; et ses flancs qui sécrètent pour l'Europe la bonne liqueur d'un Gulf Stream, et l'un des deux versants d'incandescence entre quoi l'Equateur funambule vers l'Afrique. Et mon île non-clôture, sa claire audace debout à l'arrière de cette polynésie, devant elle, la Guadeloupe fendue en deux de sa raie <del style='color:#303030'>drosale</del><add style='color:#677179'> dorsale </add>et de même misère que nous, Haïti où la négritude se mit debout pour la première fois et dit qu'elle croyait à son humanité et la comique petit<add style='color:#677179'>e </add>queue de la Floride où d'un nègre s'achève la strangulation, et l'Afrique gigantesquement chenillant jusqu'au pied hispanique de l'Europe, sa nudité où la Mort fauche à larges andains.
 
-- {:.pr.i} Et je me dis Bordeaux et Nantes et Liverpool et New-York[sic] et San-Francisco[sic]
-- {:.pr} pas un bout de ce monde qui ne porte mon empreinte digitale et mon calcanéum sur le dos des gratte-ciels[sic] et ma crasse dans le scintillement des gemmes ! 
+- {:.pr.i} Et je me dis Bordeaux et Nantes et Liverpool et New-York et San-Francisco
+- {:.pr} pas un bout de ce monde qui ne porte mon empreinte digitale et mon calcanéum sur le dos des gratte-ciels et ma crasse dans le scintillement des gemmes ! 
 - {:.pr} Qui peut se vanter d'avoir mieux que moi ? 
 - {:.pr} Virginie. Tennessee. Georgie. Alabama.
 
-<hr>
 <div align="right" style='color:#677179'> 16</div> 
 - {:.centered} -- 15 --
 
@@ -244,16 +235,15 @@ Elle ne corrige pas les coquilles et rend compte des biffures et des ajouts manu
 - {:.pr} c'est un homme seul dans la mer inféconde de sable blanc 
 - {:.pr} c'est un moricaud vieux dressé contre les eaux du ciel 
 - {:.pr} La mort décrit un cercle brillant au-dessus de cet homme 
-- {:.pr} la mort étoile doucement au dessus[sic] de sa tête 
+- {:.pr} la mort étoile doucement au dessus de sa tête 
 - {:.pr} la mort souffle dans la canne mûre de ses bras 
 - {:.pr} la mort galope dans la prison comme un cheval blanc 
 - {:.pr} la mort luit dans l'ombre comme des yeux de chat 
-- {:.pr} la mort hoquete[sic] comme l'<add style='color:#677179'>e</add>au sous les Cayes 
+- {:.pr} la mort hoquete comme l'<add style='color:#677179'>e</add>au sous les Cayes 
 - {:.pr} la mort est un oiseau blessé 
 - {:.pr} la mort décroît 
 - {:.pr} la mort vacille 
 
-<hr>
 <div align="right" style='color:#677179'> 17</div> 
 - {:.centered} -- 16 --
 
@@ -279,7 +269,6 @@ Elle ne corrige pas les coquilles et rend compte des biffures et des ajouts manu
 - {:.pr} je veux cet égoïsme beau et qui s'aventure
 - {:.pr} et mon labour me remémore d'une implacable étrave.
 
-<hr>
 <div align="right" style='color:#677179'> 18</div> 
 - {:.centered} -- 16 bis --
 
@@ -300,7 +289,6 @@ Elle ne corrige pas les coquilles et rend compte des biffures et des ajouts manu
 - {:.pr} <del style='color:#303030'>je tourne, inapaisée pouliche.</del>
 - {:.pr} Je tourne, inapaisée pouliche
 
-<hr>
 - <div align="right" style='color:#677179'>19</div> 
 - {:.centered} -- 17 --
 
@@ -320,7 +308,6 @@ Elle ne corrige pas les coquilles et rend compte des biffures et des ajouts manu
 - <br>
 - <br>
 
-<hr>
 <div align="right" style='color:#677179'> 20</div> 
 - {:.centered} -- 17<add style='color:#677179'> bis </add>--
 
@@ -339,18 +326,16 @@ Elle ne corrige pas les coquilles et rend compte des biffures et des ajouts manu
 
 - {:.pr} À la Saint-Jean-Baptiste, dès que tombe<add style='color:#677179'>nt </add>les premières ombres sur le bourg du Gros-Morne, des centaines de maquignons se réunissent pour échanger leurs chevaux, dans la rue « DE PROFUNDIS », dont le nom a du moins la franchise d'avertir d'une ruée des bas-fonds de la Mort. Et c'est de la Mort véritablement, de ses mille mesquines formes locales (fringales inassouvies d'herbe de Para et rond asservissement des distilleries) que surgit vers la grand'vie déclose
 
-<hr>
 <div align="right" style='color:#677179'> 21</div> 
 - {:.centered} -- 18 --
 
-- {:.pr} l'étonnante cavalerie des rosses impétueuses. Et quels galops ! quels hennissements ! quelles sincères urines ! quelles fientes mirobolantes ! « un beau cheval difficile au montoir » ! — « Une altière jument sensible à la molette ! » — « Un intrépide poulain vaillamment jointé ! »
+- {:.pr} l'étonnante cavalerie des rosses impétueuses. Et quels galops ! quels hennissements ! quelles sincères urines ! quelles fientes mirobolantes ! « un beau cheval difficile au montoir ! » — « Une altière jument sensible à la molette ! » — « Un intrépide poulain vaillamment jointé ! »
 - {:.pr.i} Et le malin compère dont le gilet se barre d'une fière chaîne de montre, refile au lieu de pleines mamelles, d'ardeurs juvéniles, de rotondités authentiques, ou les boursouflures régulières de guêpes complaisantes, ou les obscènes morsures du gingembre, ou la bienfaisante circulation d'un décalitre d'eau sucrée.
 
 - {:.pr.i} Je refuse de me donner mes boursouflures comme d'authentiques gloires.
 - {:.pr.i} Et je ris de mes anciennes imaginations puériles.
-- {:.pr.i} Non, nous n'avons jamais été amazones du roi de Dahomey, ni princes de Ghana avec huit cents chameaux, ni docteurs à Tombouctou Askia le Grand étant roi, ni architecte<add style='color:#677179'>s </add>de <del style='color:#303030'>Dejné</del><add style='color:#677179'> Djenné </add>, ni Mahdis, ni guerriers. Nous ne nous sentons pas sous l'aisselle la démangeaison de ceux qui tinrent jadis la lance. Et puisque j'ai juré de ne rien celer de notre histoire, (moi qui n'admire rien tant que le mouton broutant son ombre d'après-midi), je veux avouer que nous fûmes de tout temps d'assez piètres laveurs de vaisselle, des cireurs de chaussures sans envergure, mettons les choses au mieux, d'assez consciencieux sorciers et le seul indiscutable record que nous ayons battu est celui d'endurance à la chicotte...
+- {:.pr.i} Non, nous n'avons jamais été amazones du roi de Dahomey, ni princes de Ghana avec huit cents chameaux, ni docteurs à Tombouctou Askia le Grand étant roi, ni architecte<add style='color:#677179'>s </add>de <del style='color:#303030'>Dejné</del><add style='color:#677179'> Djenné </add>, ni Mahdis, ni guerriers. Nous ne nous sentons pas sous l'aisselle la démangeaison de ceux qui tinrent jadis la lance. Et puisque j'ai juré de ne rien celer de notre histoire, (moi qui n'admire rien tant que le mouton broutant son ombre d'après-midi), je veux avouer que nous fûmes de tout temps d'assez piètres laveurs de vaisselle, des cireurs de chaussures sans envergure mettons les choses au mieux, d'assez consciencieux sorciers et le seul indiscutable record que nous ayons battu est celui d'endurance à la chicotte...
 
-<hr>
 <div align="right" style='color:#677179'> 22</div> 
 - {:.centered} -- 19 --
 
@@ -359,16 +344,15 @@ Elle ne corrige pas les coquilles et rend compte des biffures et des ajouts manu
 - {:.pr} Le négrier ! proclame mon sûr et ténébreux instinct
 - {:.pr} les voiles de noirs nuages, la polymature de forêts sombres et des dures magnificences des <del style='color:#303030'>Calabars</del><add style='color:#677179'> Calebars </add>, insigne souvenir à la proue blanchoyant — ce squelette !
 
-- {:.pr} J'entends de la cale monter les malédictions enchaînées, les hoquetements[sic] des mourants, le bruit d'un qu'on jette à la mer... les abois d'une femme en gésine... des raclements d'ongles cherchant des gorges... des ricanements de fouet... des farfouillis de vermine parmi des lassitudes... 
+- {:.pr} J'entends de la cale monter les malédictions enchaînées, les hoquetements des mourants, le bruit d'un qu'on jette à la mer... les abois d'une femme en gésine... des raclements d'ongles cherchant des gorges... des ricanements de fouet... des farfouillis de vermine parmi des lassitudes... 
 
 - {:.pr} Rien ne put nous insurger jamais vers quelque noble aventure désespérée.
 - {:.pr} Ainsi soit-il. Ainsi soit-il.
 - {:.pr} Je ne suis d'aucune nationalité prévue par les chancelleries
-- {:.pr} Je défie le craniomètre. Homo sum etc...[sic]
+- {:.pr} Je défie le craniomètre. Homo sum etc...
 - {:.pr} Et qu'ils servent et trahissent et meurent
 - {:.pr} Ainsi soit-il. Ainsi soit-il. C'était écrit dans la forme de leur bassin.
 
-<hr>
 <div align="right" style='color:#677179'> 23</div> 
 - {:.centered} -- 20 --
 
@@ -377,13 +361,12 @@ Elle ne corrige pas les coquilles et rend compte des biffures et des ajouts manu
 - {:.pr} Il faut savoir jusqu'où je poussai la lâcheté.
 - {:.pr} <del style='color:#303030'>u</del><add style='color:#677179'>U</add>n soir dans un tramway en face de moi, un nègre.
 - {:.pr.i} C'était un nègre grand comme un pongo<del style='color:#303030'>n</del> qui essayait de se faire tout petit sur un banc de <del style='color:#303030'>tamway</del><add style='color:#677179'> tramway</add>. Il essayait d'abandonner sur ce banc crasseux de tramway ses jambes gigantesques et ses mains tremblantes de boxeur affamé. 
-- {:.pr} Et tout l'avait laissé, le laissait. Son nez qui semblait une péninsule en dérade et sa négritude même qui se décolorait sous l'action d'une inlassable mégie. Et le mégissier était la Misère. Un gros oreillard subit dont les coups de griffes sur ce visage s'étaient cicatrisés en îlots scabieux. Ou plutôt, c'était un ouvrier infatigable, la Misère travaillant à quelque cartouche hideuse[sic]. On voyait très bien comment le pouce industrieux et malveillant avait modelé le front en bosse, percé le nez de deux tunnels parallèles et inquiétants, allongé la démesure de la lippe, et par un chef d'œuvre[sic] caricatural, raboté, poli, verni la plus minuscule mignonne petite oreille de la création.
+- {:.pr} Et tout l'avait laissé, le laissait. Son nez qui semblait une péninsule en dérade et sa négritude même qui se décolorait sous l'action d'une inlassable mégie. Et le mégissier était la Misère. Un gros oreillard subit dont les coups de griffes sur ce visage s'étaient cicatrisés en îlots scabieux. Ou plutôt, c'était un ouvrier infatigable, la Misère travaillant à quelque cartouche hideuse. On voyait très bien comment le pouce industrieux et malveillant avait modelé le front en bosse, percé le nez de deux tunnels parallèles et inquiétants, allongé la démesure de la lippe, et par un chef d'œuvre caricatural, raboté, poli, verni la plus minuscule mignonne petite oreille de la création.
 - {:.pr.i} C'était un nègre dégingandé sans ryt<add style='color:#677179'>h</add>me ni mesure.
 - {:.pr.i} Un nègre à la voix embrumée d'alcool et de misère.
 - {:.pr.i} Un nègre dont les yeux roulaient une lassitude sanguinolente.
-- {:.pr.i} Un nègre sans pudeur et ses orteils ricanaient de façon assez puante au fond de la tanière entrebaillée[sic] de ses souliers.
+- {:.pr.i} Un nègre sans pudeur et ses orteils ricanaient de façon assez puante au fond de la tanière entrebaillée de ses souliers.
 
-<hr>
 <div align="right" style='color:#677179'> 24</div> 
 - {:.centered} -- 21 --
 
@@ -403,7 +386,6 @@ Elle ne corrige pas les coquilles et rend compte des biffures et des ajouts manu
 - {:.pr} Cette ville, ma face de boue.
 - {:.pr} L'eau du baptême sur mon front se sèche.
 
-<hr>
 <div align="right" style='color:#677179'> 25</div> 
 - {:.centered} -- 22 --
 
@@ -430,7 +412,6 @@ Elle ne corrige pas les coquilles et rend compte des biffures et des ajouts manu
 - {:.pr} le destin m'appelait j'étais caché derrière
 - {:.pr} et voici l'homme par terre ! Sa très fragile défense dispersée,
 
-<hr>
 <div align="right" style='color:#677179'> 26</div> 
 - {:.centered} -- 23 --
 
@@ -447,7 +428,6 @@ Elle ne corrige pas les coquilles et rend compte des biffures et des ajouts manu
 - {:.pr} Je dis que cela est bien ainsi.
 - {:.pr} Je vis pour le plus plat de mon âme. Pour le plus terne de ma chair !
 
-<hr>
 <div align="right" style='color:#677179'> 27</div> 
 - {:.centered} -- 23 bis --
 
@@ -455,7 +435,7 @@ Elle ne corrige pas les coquilles et rend compte des biffures et des ajouts manu
 - {:.pr} je tremble maintenant du commun tremblement
 - {:.pr} que notre sang docile chante dans le madrépore.
 
-- {:.pr} Et ces tétards[sic] en moi éclos de mon ascendance prodigieuse !
+- {:.pr} Et ces tétards en moi éclos de mon ascendance prodigieuse !
 
 - {:.pr} ceux qui n'ont inventé ni la poudre ni la boussole
 - {:.pr} ceux qui n'ont jamais su dompter la vapeur ni l'électricité
@@ -464,14 +444,13 @@ Elle ne corrige pas les coquilles et rend compte des biffures et des ajouts manu
 - {:.pr} ceux qui n'ont connu de voyages que de déracinements
 - {:.pr} ceux qui se sont assouplis aux agenouillements
 - {:.pr} ceux qu'on domestiqua et christianisa
-- {:.pr} ceux qu'on inocula d'abatardissement[sic]
+- {:.pr} ceux qu'on inocula d'abatardissement
 - {:.pr} tam-tams de mains vides
 - {:.pr} tam-tams inanes de plaies sonores
 - {:.pr} tam-tams burlesques de trahison tabide
 
 - {:.pr.i} Tiède petit <add style='color:#677179'> matin </add>de chaleurs et de peurs ancestrales
 
-<hr>
 <div align="right" style='color:#677179'> 28</div> 
 - {:.centered} -- 24 --
 
@@ -500,7 +479,6 @@ Elle ne corrige pas les coquilles et rend compte des biffures et des ajouts manu
 
 - {:.pr} Eia pour le Kaïlcédrat royal !
 
-<hr>
 <div align="right" style='color:#677179'> 29</div> 
 - {:.centered} -- 25 --
 
@@ -530,7 +508,6 @@ Elle ne corrige pas les coquilles et rend compte des biffures et des ajouts manu
 - {:.pr} Écoutez le monde blanc
 - {:.pr} horriblement las de son effort immense
 
-<hr>
 <div align="right" style='color:#677179'> 30</div> 
 - {:.centered} -- 26 --
 
@@ -563,7 +540,6 @@ Elle ne corrige pas les coquilles et rend compte des biffures et des ajouts manu
 - {:.pr} ni un fils, mais le père, mais le frère, mais le fils,
 - {:.pr} ni un mari, mais l'amant de cet unique peuple.
 
-<hr>
 <div align="right" style='color:#677179'> 31</div> 
 - {:.centered} -- 27 --
 
@@ -595,7 +571,6 @@ Elle ne corrige pas les coquilles et rend compte des biffures et des ajouts manu
 - {:.pr} de produire de son intimité close
 - {:.pr} la succulence des fruits.
 
-<hr>
 <div align="right" style='color:#677179'> 32</div> 
 - {:.centered} -- 28 --
 
@@ -623,7 +598,6 @@ Elle ne corrige pas les coquilles et rend compte des biffures et des ajouts manu
 
 - {:.pr} La voici avancer par escalades et retombées sur le flot pulvérisé
 
-<hr>
 <div align="right" style='color:#677179'> 33</div> 
 - {:.centered} -- 29 --
 
@@ -650,7 +624,6 @@ Elle ne corrige pas les coquilles et rend compte des biffures et des ajouts manu
 - {:.pr} ma race raisin mûr pour pieds ivres
 - {:.pr} ma reine des crachats et des lèpres
 
-<hr>
 <div align="right" style='color:#677179'> 34</div> 
 - {:.centered} -- 30 --
 
@@ -680,7 +653,6 @@ Elle ne corrige pas les coquilles et rend compte des biffures et des ajouts manu
 - {:.pr} la cippe
 - {:.pr} le frontal
 
-<hr>
 <div align="right" style='color:#677179'> 35</div> 
 - {:.centered} -- 31 --
 
@@ -697,7 +669,6 @@ Elle ne corrige pas les coquilles et rend compte des biffures et des ajouts manu
 
 - {:.pr} et loin de la mer de palais qui déferle sous la syzygie suppurante des ampoules, merveilleusement couché le corps de mon pays dans le désespoir de mes bras, ses os ébranlés et dans ses veines, le sang qui hésite comme la goutte de lait végétal à la pointe blessée du bulbe... Et voici soudain que force et vie m'assaillent comme un taureau et je renouvelle ONAN qui confia son sperme à la terre féconde et l'onde de vie circonvient la papille du morne, et voilà toutes les veines et veinules qui s'affairent au sang neuf et l'énorme poumon des cyclones qui respire et le feu thésaurisé des
 
-<hr>
 <div align="right" style='color:#677179'> 36</div> 
 - {:.centered} -- 32 --
 
@@ -716,17 +687,15 @@ Elle ne corrige pas les coquilles et rend compte des biffures et des ajouts manu
 - {:.pr} et aucune race ne possède le monopole de la beauté, de l'intelligence, de la force
 - {:.pr} et il est place pour tous au rendez-vous de la conquête et nous savons maintenant que le soleil tourne autour de notre terre éclairant la parcelle qu'a fixée notre volonté seule et que toute étoile <del style='color:#303030'>------</del> chute d<add style='color:#677179'>e</add> ciel en terre à notre commandement sans limite.
 
-<hr>
 <div align="right" style='color:#677179'> 37</div> 
 - {:.centered} -- 33 --
 
 - {:.pr} Je tiens maintenant le sens de l'ordalie : mon pays est la « lance de nuit » de mes ancêtres Bambaras. 
 - {:.pr} Elle se ratatine et sa pointe fuit désespérément vers le manche si c'est de sang de poulet qu'on l'arrose et elle dit que c'est du sang d'homme qu'il faut à son tempérament, de la graisse, du foie, du cœur d'homme, non du sang de poulet. 
-- {:.pr} Et je cherche pour mon pays non des cœurs de datte, mais des cœurs d'homme qui c'est pour[sic] entrer aux villes d'argent par la grand'porte trapézoïdale, qu'ils battent le sang viril, et mes yeux balayent mes kilomètres carrés de terre paternelle et je dénombre les plaies avec une sorte d'allégresse <del style='color:#303030'>comme creusée [?]</del> et je les entasse l'une sur l'autre comme rares espèces, et mon compte s'allonge toujours d'imprévus monnayages de la bassesse.
+- {:.pr} Et je cherche pour mon pays non des cœurs de datte, mais des cœurs d'homme qui c'est pour entrer aux villes d'argent par la grand'porte trapézoïdale, qu'ils battent le sang viril, et mes yeux balayent mes kilomètres carrés de terre paternelle et je dénombre les plaies avec une sorte d'allégresse <del style='color:#303030'>comme creusée [?]</del> et je les entasse l'une sur l'autre comme rares espèces, et mon compte s'allonge toujours d'imprévus monnayages de la bassesse.
 - {:.pr} Et voici ceux qui ne se consolent point de n'être pas faits à <del style='color:#303030'>al</del><add style='color:#677179'> la </add>ressemblance de Dieu mais du diable, ceux qui considèrent que l'on est nègre comme commis de seconde classe : en attendant mieux et avec possibilité de monter plus haut ; ceux qui battent la chamad<add style='color:#677179'>e</add> devant soi-même, ceux qui vivent dans un cul de basse fosse de soi-même ; ceux qui se drapent de pseudomorphose fière ; ceux qui disent à l'Europe : « Voyez, je sais comme vous faire des courbettes, comme vous présenter mes hommages, en somme, je ne suis pas différent de vous ; ne faites pas attention
 à ma peau noire : c'est le soleil qui m'a brûlé ».
 
-<hr>
 <div align="right" style='color:#677179'> 38</div> 
 - {:.centered} -- 34 --
 
@@ -746,7 +715,6 @@ Elle ne corrige pas les coquilles et rend compte des biffures et des ajouts manu
 - {:.pr} <del style='color:#303030'>soit sa vertu prostituée aux triomphes parégoriques du tafia</del>
 - {:.pr} <del style='color:#303030'>soit sa misère qui halète dans le ventre visiblement creux du tam-tam</del>
 
-<hr>
 <div align="right" style='color:#677179'> 39</div> 
 - {:.centered} -- 35 --
 
@@ -768,7 +736,6 @@ Elle ne corrige pas les coquilles et rend compte des biffures et des ajouts manu
 
 - {:.pr} En vain pour s'en distraire le capitaine pend à sa grand'vergue le nègre le plus braillard ou le jette à la mer, ou le livre à l'appétit de ses molosses 
 
-<hr>
 <div align="right" style='color:#677179'> 40</div> 
 - {:.centered} -- 36 --
 
@@ -796,7 +763,6 @@ Elle ne corrige pas les coquilles et rend compte des biffures et des ajouts manu
 - {:.pr} debout à la boussole
 - {:.pr} debout à la carte
 
-<hr>
 <div align="right" style='color:#677179'> 41</div> 
 - {:.centered} -- 37 --
 
@@ -822,7 +788,6 @@ Elle ne corrige pas les coquilles et rend compte des biffures et des ajouts manu
 - {:.pr} Je te livre ma conscience et son rythme de chair
 - {:.pr} Je te livre les feux où brasille ma faiblesse
 
-<hr>
 <div align="right" style='color:#677179'> 42</div> 
 - {:.centered} -- 38 --
 
@@ -846,8 +811,7 @@ Elle ne corrige pas les coquilles et rend compte des biffures et des ajouts manu
 - {:.pr} Et lie, lie-moi sans remords
 - {:.pr} lie-moi de tes vastes bras à l'argile lumineuse
 
-<hr>
-<div align="right" style='color:#677179'> 42[sic]</div> 
+<div align="right" style='color:#677179'> 42</div> 
 - {:.centered} -- 39 --
 
 - {:.pr} lie ma noire vibration au nombril même du monde

@@ -27,7 +27,7 @@ Les fragments sont numérotés de 1 à 154 en suivant linéairement le tapuscrit
 
 - * <span style='color:#0e6655'>1</span>-6 = commentaires sur le premier fragment.
 
-On peut suivre par ce système l’élaboration du poème dans le temps, ainsi que ses variantes à l'échelle macro-génétique (l'ajout, la suppression ou le déplacement d'un bloc), ou micro-génétique (les variations à l'intérieur d'un même fragment)
+On peut suivre par ce système l’élaboration du poème dans le temps, ainsi que ses variantes à l'échelle macro-génétique (l'ajout, la suppression ou le déplacement d'un bloc), ou micro-génétique (les variations à l'intérieur d'un même fragment).
 
 ____
 
@@ -37,7 +37,7 @@ Voici le début commenté de l'édition à venir.
 
 ## I Le retour dans un pays natal catastrophique
 
-Il s'agit ici de la première partie du poème.
+Il s'agit de la première partie du poème.
 
 -----
 
