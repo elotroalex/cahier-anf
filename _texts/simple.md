@@ -2,7 +2,7 @@
 layout: poem
 title: Transcription simplifiée
 description: Transcription simplifiée
-author: Aimé Césaire
+author: Kora Véron
 editor: Kora Véron
 ---
 
