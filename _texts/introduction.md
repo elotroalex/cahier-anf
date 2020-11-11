@@ -56,7 +56,7 @@ Césaire prépare l'agrégation l'année suivante, tout en poursuivant la rédac
 Petitbon (Ulm, 1929) fait partie d'un cercle d'anciens khâgneux qui avaient fréquenté les bancs du lycée Louis-le-Grand en compagnie de certains des membres de *L'Étudiant noir*. Un peu plus âgés que Césaire, Pierre-Henri Petitbon et Georges Pelorson se lancent dans différentes aventures éditoriales. Ainsi, Pelorson[^4], normalien démissionnaire, participe en juin 1939, au premier numéro de [*Charpentes*](http://www.revues-litteraires.com/articles.php?lng=fr&pg=615) qui réunit des textes de Césaire et de ses amis.
 En 1937, Pelorson avait déjà cofondé — avec Raymond Queneau, Henry Miller ou Eugène Jolas — la revue littéraire [*Volontés*](http://www.revues-litteraires.com/articles.php?lng=fr&pg=2086). Césaire fréquente les membres de sa rédaction, et écoute attentivement les conseils de Pelorson qui a accepté de publier le *Cahier*dans le numéro 20 de *Volontés*, en août 1939, en même temps qu'un poème de Senghor. C'est la première version d'un texte qui sera modifié trois fois jusqu'en juin 1956, pour être édité chez Brentano's, Bordas et Présence africaine.
 
-![sommaire Volontés n° 20]({{site.baseurl}}/img/figures/volontes.jpg)
+![sommaire de la revue Volontés n° 20]({{site.baseurl}}/img/figures/volontes.jpg)
 
 Le tapuscrit corrigé à la main de la première version du *Cahier* fut acquis en 1993 par la Bibliothèque de l'Assemblée nationale. Il est accompagné d'une lettre datée du 28 mai 1939, adressée à son futur éditeur.
 
@@ -204,7 +204,7 @@ De nombreux artistes et intellectuels qui se rendent en Amérique pour fuir le n
 
 ## L'édition cubaine
 
-![image de la couverture de L'édition cubaine]({{site.baseurl}}/img/figures/cuba.jpg)
+![image de la couverture de l'édition cubaine]({{site.baseurl}}/img/figures/cuba.jpg)
 
 Un tiré à part de *Volontés* aboutit à la première édition en volume du poème, qui se trouve être en langue espagnole : *Retorno al país natal*. Elle est illustrée par Wifredo Lam et préfacée par Benjamin Péret. La traduction est signée par l'écrivain-anthropologue Lydia Cabrera, qui s'est liée d'amitié avec Wifredo Lam et Helena Holzer à leur arrivée à Cuba.
 
@@ -227,8 +227,7 @@ Henri Seyrig, conseiller culturel de la France libre à New York, a effectué un
 
 Cette « autre copie » avait certainement été composée à partir du tiré à part de *Volontés* confié à Breton pendant son séjour martiniquais. Mais Césaire a revu son poème entre avril 1942 et l'automne 1943. En effet, cette nouvelle version intègre presque complétement « En guise de manifeste littéraire ». La révision du *Cahier* se présente par conséquent comme l'un des nombreux signes d'allégeance de Césaire à Breton exprimés pendant cette période.
 
-Tout semble prêt pour la parution chez Hémisphères. Il ne resterait plus qu'à régler quelques détails dans mise en page de « petits poèmes » supplémentaires de Césaire. L'édition du *Cahier* accompagnée des petits poèmes est pourtant suspendue. Des questions de traduction persistent, et Goll subit des restrictions de papier de la part du *War Production Board*, ainsi qu'il l'indique à Breton dans une lettre datée du 2 mai 1944, pour justifier ses atermoiements. Pour se réjouir : *Alors : aubaine ! Brentano's me propose de publier la Collection «
-Hémisphères. »*
+Tout semble prêt pour la parution chez Hémisphères. Il ne resterait plus qu'à régler quelques détails dans mise en page de « petits poèmes » supplémentaires de Césaire. L'édition du *Cahier* accompagnée des petits poèmes est pourtant suspendue. Des questions de traduction persistent, et Goll subit des restrictions de papier de la part du *War Production Board*, ainsi qu'il l'indique à Breton dans une lettre datée du 2 mai 1944, pour justifier ses atermoiements. Pour se réjouir : *Alors : aubaine ! Brentano's me propose de publier la Collection « Hémisphères. »*
 
 Il faudra toutefois attendre le début de l'année 1947 pour les éditions Brentano's publient cette version du *Cahier.* La nouvelle brouille entre Goll et Breton, en revanche, est immédiate, et Breton aura beaucoup de difficultés à récupérer les manuscrits de Césaire confiés à Goll.
 
@@ -258,7 +257,7 @@ Le contrat est signé en décembre 1945, et le premier recueil de Césaire, *Les
 
 Pourquoi se projet n'aboutit-il pas ? Les éditeurs ne parviennent-ils pas à s'entendre ? Césaire n'est-il plus satisfait d'une version datant de 1943 ? Rien ne l'indique dans les archives. 
 
-![image de la couverture]({{site.baseurl}}/img/figures/bordas.jpg)
+![image de la couverture Bordas]({{site.baseurl}}/img/figures/bordas.jpg)
 
 Ayant fait la connaissance de Jean Marcenac, Césaire entreprend rapidement une nouvelle révision de son texte, pour le publier non pas chez Gallimard, mais chez Bordas en mars 1947, soit quelques semaines après la parution de l'édition Brentano's, à New York. Sans l'accord de Gallimard. Jean Marcenac[^16], communiste, résistant dans le maquis du Lot, avait fréquenté Pierre Yoyotte et Étienne Léro (membres de *Légitime défense*), lorsqu'il étudiait la philosophie à la Sorbonne[^16]. Proche d'Éluard et d'Aragon, Marcenac a traduit la poésie de Pablo Neruda. Césaire privilégie à l'évidence un éditeur correspondant à la fois à ses réseaux estudiantins et à ses nouveaux horizons politiques et poétiques.
 
@@ -276,7 +275,7 @@ La permutation rend l'illusoire retour rédempteur plus pénible encore,tandis q
 
 ## Présence africaine
 
-![image de la page de couverture]({{site.baseurl}}/img/figures/pa56.jpg)
+![image de la page de couverture Présence africaine]({{site.baseurl}}/img/figures/pa56.jpg)
 
 En 1947, le Sénégalais Alioune Diop fonde la revue *Présence africaine*, à laquelle est bientôt associée une maison d'édition. Césaire ne participera à l'aventure que de fort loin jusqu'en 1955. Au moment où ses doutes au sujet du Parti communiste français s'intensifient, il décide cependant un repli stratégique. L'année 1955 est marquée par la publication de nombreux poèmes dans différentes revues, qui seront repris dans son recueil *Ferrements*[^19], et par la virulente querelle sur la « poésie nationale » qui l'oppose à Louis Aragon, *via* René Depestre dans *Présence africaine*. Elle révèle l'exaspération de Césaire concernant les injonctions poétiques d'Aragon. Le poète officiel du Parti avait prôné un art poétique « national » fondé sur une esthétique réaliste et le retour à une versification régulière. Depestre donne son assentiment à ces prescriptions. Césaire interpelle vigoureusement son ami haïtien dans un poème, « Réponse à Depestre poète haïtien (Éléments d'un art poétique) », et dans un article : « Sur la poésie nationale », publiés dans la revue *Présence africaine*.
 
