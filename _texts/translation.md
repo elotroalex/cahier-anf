@@ -2,7 +2,7 @@
 layout: poem
 title: "a translation"
 description: "A translation..."
-author: Kaiama Glover et Alex Gil
+author: Alex Gil et Kaiama L. Glover
 translators:
 ---
 
