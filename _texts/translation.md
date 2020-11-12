@@ -10,39 +10,39 @@ This translation is based on the clean copy established by Kora Véron of the 19
 
 ---
 
-## Notebook For A Return to The Birthplace
+## Notes For a Return to My Birthplace
 
 by Aimé Césaire
 
 <br>
 
-- {:.pr.i} When the daybreak ends, burgeoning with feeble coves, the Antilles aching with hunger, the Antilles scarred by the pox, the Antilles wrecked by alcohol, stranded in the mud of this bay, ominously washed up in the dust of this town.
+- {:.pr.i} When the early morning ends, burgeoning with feeble coves, the Antilles aching with hunger, the Antilles scarred by the pox, the Antilles wrecked by alcohol, stranded in the mud of this bay, ominously washed up in the dust of this town.
 
-- {:.pr.i} When the daybreak ends, the extreme, treacherous, bleak bedsore on the wound of the waters; the martyrs who don't bear witness; the flowers of blood that wilt and scatter in the useless wind like the cries of babbling parrots; an old life smiling deceptively, its lips parted by abandoned anxieties; an old poverty silently rotting under the sun; an old silence bursting in lukewarm pustules---
+- {:.pr.i} When the early morning ends, the extreme, treacherous, bleak bedsore on the wound of the waters; the martyrs who don't bear witness; the flowers of blood that wilt and scatter in the useless wind like the cries of babbling parrots; an old life smiling deceptively, its lips parted by abandoned anxieties; an old poverty silently rotting under the sun; an old silence bursting with lukewarm pustules---
 
 - {:.pr.i} the awful pointlessness of our reason for existing.
 
-- {:.pr.i} When the daybreak ends, on this flimsiest pile of earth, exceeded by its grandiose future in humiliating ways---the volcanoes will erupt, the naked water will wash away the ripe spots of the sun and there will only remain a lukewarm bubbling pecked by seabirds---the beach of dreams and the insane awakening
+- {:.pr.i} When the early morning ends, on this flimsiest pile of earth, exceeded by its grandiose future in humiliating ways---the volcanoes will erupt, the naked water will wash away the ripe spots of the sun and there will only remain a lukewarm bubbling pecked by seabirds---the beach of dreams and the insane awakening
 
-- {:.pr.i} When the daybreak ends, this flat town---spread out, fumbled by its common sense, inert, breathless under the geometric burden of its eternally renewed cross, rebellious to its fate, mute, thwarted anyway, incapable of growing from the juice of this earth, embarrassed, cropped, reduced, broken with flora and fauna.
+- {:.pr.i} When the early morning ends, this flat town---spread out, fumbled by its common sense, inert, breathless under the geometric burden of its eternally renewed cross, rebellious to its fate, mute, thwarted anyway, incapable of growing from the juice of this earth, embarrassed, cropped, reduced, broken with flora and fauna.
 
-- {:.pr.i} When the daybreak ends, this flat town---spread out...
+- {:.pr.i} When the early morning ends, this flat town---spread out...
 
 - {:.pr.i} And in this inert town, this howling crowd so astonishingly exceeded by its cry like this town beside its movement, its sense, without anxiety, beside its true cry, the only one that one would have liked to hear because you know it's the only one that's truly theirs; because you feel it living within them in some deep refuge of shadow and pride, in this inert town, this crowd beside its cry of hunger, misery, revolt, hatred, this crowd so strangely talkative and yet mute.
 
-- {:.pr.i} In this inert town, this strange crowd that does not crowd together, that does not mix: skillful in discovering the point of disenchantment, of flight, of evasion. This crowd that does not know how to crowd, this crowd, we realize, so perfectly alone under this sun, like a woman, who one would believe was solely focused on the lyrical cadence of her rear end, suddenly calls out a hypothetical rain and orders it not to fall; or a quick sign of the cross without a visible motive; or the suddenly serious animality of a peasant woman, peeing standing up, legs spread apart, stiff.
-- {:.pr.i} In this inert town, this desolate crowd under the sun, not participating in anything that is expressed, asserted, or released out into the open in this land of his. Not in the Empress Josephine of the French dreaming high up above the Negro. Nor in the Liberator frozen in his liberation of bleached stone. Nor in the conqueror. Nor in this contempt, nor this freedom, nor this audacity.
+- {:.pr.i} In this inert town, this strange crowd that does not crowd together, that does not mix: skillful in discovering the point of disenchantment, of flight, of evasion. This crowd that does not know how to crowd, this crowd, we realize, so perfectly alone under this sun, like a woman, who one would believe was solely focused on the lyrical cadence of her rear end, suddenly calling out a hypothetical rain and commanding it to stop; or a quick sign of the cross without a visible motive; or the suddenly serious animality of a peasant woman, peeing standing up, legs spread apart, stiff.
+- {:.pr.i} In this inert town, this desolate crowd under the sun, not participating in anything that is expressed, asserted, or openly exposed about their own land. Not in the Empress Josephine of the French dreaming high up above the Negro. Nor in the Liberator frozen in his liberation of bleached stone. Nor in the conqueror. Nor in this contempt, nor this freedom, nor this audacity.
 
-- {:.pr.i} When the daybreak ends, this inert town and its beyond of lepers, of consumption, of famines, of fears lurking in the ravines, of fears perched in the trees, of fears dug in the ground, of fears adrift in the sky, of fears piled up and its fumaroles of anguish.
-When the daybreak ends, the forgotten hillock, forgetting to jump.
+- {:.pr.i} When the early morning ends, this inert town and its beyond of lepers, of consumption, of famines, of fears lurking in the ravines, of fears perched in the trees, of fears dug in the ground, of fears adrift in the sky, of fears piled up and its fumaroles of anguish.
+When the early morning ends, the forgotten hillock, forgetting to jump.
 
-- {:.pr.i} When the daybreak ends, the dismal hillock with restless and docile hoof---its malarious blood drives away the sun with its overheated pulses.
+- {:.pr.i} When the early morning ends, the dismal hillock with restless and docile hoof---its malarious blood drives away the sun with its overheated pulses.
 
-- {:.pr.i} When the daybreak ends, the hillock's bottled up blaze, like a sob gagged on the verge of its bloodthirsty explosion, in search of an ignition that conceals and misrecognizes itself.
+- {:.pr.i} When the early morning ends, the hillock's bottled up blaze, like a sob gagged on the verge of its bloodthirsty explosion, in search of an ignition that conceals and misrecognizes itself.
 
-- {:.pr.i} When the daybreak ends, the hillock crouching in front of the bulimia, on the lookout for lightning and mills, slowly vomiting up its human fatigue, the hillock alone and its blood spilled, the hillock and its bandages of shade, the hillock and its channels of fear, the hillock and its large hands of wind.
+- {:.pr.i} When the early morning ends, the hillock crouching in front of the bulimia, on the lookout for lightning and mills, slowly vomiting up its human fatigue, the hillock alone and its blood spilled, the hillock and its bandages of shade, the hillock and its channels of fear, the hillock and its large hands of wind.
 
-- {:.pr.i} When the daybreak ends, the starved hillock and no one knows better than this bastard hill why the suicide choked with the help of his hypoglossus, twisting its tongue to swallow it; why a woman seems to be floating on the Capot River (her luminously dark body obediently arranged around the navel's commands) but she is just a bundle of sonorous water.
+- {:.pr.i} When the early morning ends, the starved hillock and no one knows better than this bastard hill why the suicide choked with the help of his hypoglossus, twisting its tongue to swallow it; why a woman seems to be floating on the Capot River (her luminously dark body obediently arranged around the navel's commands) but she is just a bundle of sonorous water.
 
 - {:.pr.i} And neither the teacher in his class, nor the catechism priest will be able to get one word out of this sleepy little boy, despite both of their energetic ways of drumming on his shaved little head, for it is in the swamps of hunger that his starved voice lies bogged down (one-word-one-word and we-can-move-on-from-Queen-Blanche-of-Castile, one-word-a-single-word, do you-see-this-little-savage-who-does-not-know-a-single-one-of-God’s-Ten-Commandments),
 - {:.pr.i} because his voice is lost in the swamps of hunger,
@@ -51,10 +51,10 @@ When the daybreak ends, the forgotten hillock, forgetting to jump.
 - {:.pr.i} a hunger deep and anemic,
 - {:.pr.i} a hunger buried in the depths of the Hunger of this starving hillock.
 
-- {:.pr.i} When the daybreak ends, the motley shipwreck, the exacerbated stench of corruption, the monstrous sodomies of the victim and the flogger, the insurmountable bow of prejudice and foolishness, prostitution, hypocrisy, lewdness, betrayals, lies, falsehoods, concussions---the breathlessness of insufficient acts of cowardice, effortless enthusiasm for supernumerary sprouts, greed, hysteria, perversions, harlequinades of misery, cripples, pruritus, urticaria, the lukewarm hammocks of degeneration. 
+- {:.pr.i} When the early morning ends, the motley shipwreck, the exacerbated stench of corruption, the monstrous sodomies of the victim and the flogger, the insurmountable bow of prejudice and foolishness, prostitution, hypocrisy, lewdness, betrayals, lies, falsehoods, concussions---the breathlessness of insufficient acts of cowardice, effortless enthusiasm for supernumerary sprouts, greed, hysteria, perversions, harlequinades of misery, cripples, pruritus, urticaria, the lukewarm hammocks of degeneration. 
 - {:.pr} Here's the parade of laughable and scrofulous buboes, the culture of freaky microbes, the poisons without known remedies, the pus of ancient wounds, the unpredictable fermentations of putrescible species.
 
-- {:.pr.i} When the daybreak ends, the great still night, the stars, more dead than a broken balafong,
+- {:.pr.i} When the early morning ends, the great still night, the stars, more dead than a broken balafong,
 
 - {:.pr.i} The teratic bulb of the night, sprouted from our baseness and our renouncings …
 
@@ -63,39 +63,39 @@ When the daybreak ends, the forgotten hillock, forgetting to jump.
 - {:.pr.i} And this ancient joy bringing me knowledge of my present misery, 
 - {:.pr} a bumpy road that takes a dip in a hollow where it scatters a few shacks; an indefatigable road which charges at full speed a hillock, on top of which a madly ascending road is brutally stuck in a pool of clumsy houses, recklessly descending, and the carcass of wood comically perched on tiny cement legs that I call "our house", its tin hairstyle waving in the sun like dry skin, the dining room, the coarse floor where nailheads glisten, the beams of pine and shadows that run up to the ceiling, the chairs of ghostly straw, the gray light of the lamp, fast and glazed with cockroaches which buzz so much they hurt…
 
-- {:.pr.i} When the daybreak ends, this most essential country restored for me to gorge on, not with diffuse tenderness, but with the tormented, sensual concentration of the hillocks' fat nipple and the accidental palm tree as their hardened seed, the torrents' saccadic orgams, from Trinité to Grand-Rivière, the hysterical grand-lick of the sea. 
+- {:.pr.i} When the early morning ends, this most essential country restored for me to gorge on, not with diffuse tenderness, but with the tormented, sensual concentration of the hillocks' fat nipple and the accidental palm tree as their hardened seed, the torrents' saccadic orgams, from Trinité to Grand-Rivière, the hysterical grand-lick of the sea. 
 
 - {:.pr.i} And time was passing quickly, very quickly.
 - {:.pr.i} Gone by August when the mango trees flaunt all their lunula, September the midwife of hurricanes, October the torcher of sugarcane, November purring in the distilleries, and Christmas was beginning.
 - {:.pr.i} Christmas announced itself first with a tingling of desires, a thirst for new tenderness, a budding of imprecise dreams, then it suddenly took flight in the purple rustle of its great wings of joy, and then its dizzying fall landed on the town, bursting life from the shacks like an overripe pomegranate.
 - {:.pr.i} Christmas wasn't like the other holidays. It didn't like running down the streets, dancing in public squares, riding on wooden horses, taking advantage of the crowd to pinch women, throwing fireworks at the brow of tamarind trees. Christmas had agoraphobia. What it needed was a whole day of busyness, of getting ready, cooking, cleaning, worrying, for-fear-that-there-won't-be-enough,
-- {:.pr} for-fear-that-we’ll-run-out,
-- {:.pr} for-fear-that-we’ll-get-bored,
-- {:.pr} then in the evening a small church, nothing imposing, allowing itself to be benevolently filled with laughter, whisperings, confidences, romantic declarations, slander, and the guttural cacophony of a singer in great shape, and good buddies and plainspoken wenches too, and shacks with their bowels full of delicious treats, and not persnickety, and about twenty of us parked there, and the streets are deserted, and the town is nothing but a bouquet of songs, and we are just fine inside, and we're eating good, and we drink some cheer and there is sausage, the narrow kind that resembles two fingers intertwined like a volubile, the broad and squat one, the benign one that tastes of wild thyme, the violent one with its spicy incandescence, and hot coffee and sweet anise and milk punch, and the liquid sun of rums, and all kinds of good things that forcefully impose your mucous membranes on you or melt them into you full of subtleties, or distill them to you in raptures, or weave them with fragrances, and we laugh, and we sing, and the refrains fuse as far as the eye can see like coconut palms:
+- {:.pr} for-fear-that-you’ll-run-out,
+- {:.pr} for-fear-that-you’ll-get-bored,
+- {:.pr} then in the evening a small church, nothing imposing, allowing itself to be benevolently filled with laughter, whisperings, confidences, romantic declarations, slander, and the guttural cacophony of a singer in great shape, and good buddies and plainspoken wenches too, and shacks with their bowels full of delicious treats, and not persnickety, and about twenty of them parked there, and the streets are deserted, and the town is nothing but a bouquet of songs, and they are just fine inside, and they're eating good, and they drink some cheer and there is sausage, the narrow kind that resembles two fingers intertwined like a volubile, the broad and squat one, the benign one that tastes of wild thyme, the violent one with its spicy incandescence, and hot coffee and sweet anise and milk punch, and the liquid sun of rums, and all kinds of good things that your mucous membranes forcefully impose on you, or melt into you full of subtleties, or distill for you in raptures, or weave with fragrances, and they laugh, and they sing, and the refrains fuse as far as the eye can see like coconut palms:
 - {:.pr.i} ALLELUIA
 - {:.pr.i} KYRIE ELEISON … LEISON… LEISON,
 - {:.pr.i} CHRISTE ELEISON… LEISON… LEISON.
-- {:.pr.i} And it is not only mouths that sing, but hands, and feet, and buttocks, and the genitals, and the whole creature liquefies into sounds, voice, and rhythm.
+- {:.pr.i} And it is not only mouths that sing, but hands, and feet, and butts, and genitals, and the whole creature liquefies into sounds, voice, and rhythm.
 - {:.pr.i} At the top of its ascent, joy bursts like a cloud. The chants do not stop, but they now roll restless and heavy through the valleys of fear, the tunnels of anguish, and the fires of hell.
-- {:.pr.i} And each one of us begins to pull the nearest devil by the tail, until fear dissipate imperceptibly in the fine sand of dreams, and we begin to live as if in a real dream, and we drink and we cry out, and we sing as in a dream, and we also doze off as in a dream with eyelids turned into rose petals, and the day comes on velvety like a sapodilla, and the smell of manure from the cocoa trees, and the turkeys, which spread their red pustules to the sun, and the obsession with bells, and the rain,
+- {:.pr.i} And each one of them begins to pull the nearest devil by the tail, until fear dissipates imperceptibly in the fine sand of dreams, and they begin to live as if in a real dream, and they drink and they cry out, and they sing as in a dream, and they also doze off as in a dream with eyelids turned into rose petals, and the day comes on velvety like a sapodilla, and the smell of manure from the cocoa trees, and the turkeys, which spread their red pustules to the sun, and the obsession with bells, and the rain,
 - {:.pr.i} the bells ... the rain ...
 - {:.pr.i} that jingle, jingle, jingle ...
 
-- {:.pr.i} When the daybreak ends, this flat town---spread out ...
-- {:.pr.i} She crawls on her hands without ever wanting to cross the sky with a protesting stance. The backs of the house are afraid of the sky strewn with fire, their feet fear drowning in the ground. They have chosen to place themselves superficially between surprises and treacheries. And yet she moves forward, the town. She even grazes more and more every day beyond the tide of tiled corridors, prudish shutters, sticky courtyards, paintings dripping. And little hushed up scandals, little shames silenced, immense little hatreds knead into bumps and hollows the narrow streets where the stream grimaces longitudinally among the turds ...
+- {:.pr.i} When the early morning ends, this flat town---spread out ...
+- {:.pr.i} It crawls on its hands without ever wanting to cross the sky with a protesting stance. The backs of the houses are afraid of the sky strewn with fire, their feet fear drowning in the ground. They have chosen to place themselves superficially between surprises and treacheries. And yet it moves forward, the town. It even grazes more and more every day beyond the tide of tiled corridors, prudish shutters, sticky courtyards, paintings dripping. And little hushed up scandals, little shames silenced, immense little hatreds knead into bumps and hollows the narrow streets where the stream grimaces longitudinally among the turds ...
 
-- {:.pr.i} When the daybreak ends, life, prostrate, we know not where to send our aborted dreams, the river of life desperately torpid in its bed, without turgescence or depression, uncertain where to flow, lamentably empty, the heavy impartiality of boredom, doling out darkness over all things equally, stagnant air without a clear bird opening.
+- {:.pr.i} When the early morning ends, life, prostrate, we know not where to send our aborted dreams, the river of life desperately torpid in its bed, without turgescence or depression, uncertain where to flow, lamentably empty, the heavy impartiality of boredom, doling out darkness over all things equally, stagnant air without a clear bird opening.
 
-- {:.pr.i} When the daybreak ends, another small black house which smells very bad, on a very narrow street, a tiny house that shelters in its bowels of rotten wood dozens of rats and the turbulence of my six brothers and sisters, a cruel little house whose intransigence maddens our end of the month and my unpredictable father eaten away by a sole misery, I never knew which, that some unforeseeable witchcraft sends off into melancholy tenderness or fires up in roaring flames of anger; and my mother, whose legs pedal, pedaling by day, by night for our tireless hunger; I am even awakened at night by those tireless legs pedaling at night and the harsh bite of a Singer sewing machine into the soft flesh of the night, and my mother pedaling, pedaling for our hunger, day and night.
+- {:.pr.i} When the early morning ends, another small black house which smells very bad, on a very narrow street, a tiny house that shelters in its bowels of rotten wood dozens of rats and the turbulence of my six brothers and sisters, a cruel little house whose intransigence maddens our end of the month, and my unpredictable father eaten away by a sole misery, I never knew which, that some unforeseeable witchcraft sends off into melancholy tenderness or fires up in roaring flames of anger; and my mother, whose legs pedal, pedaling by day, by night for our tireless hunger; I am even awakened at night by those tireless legs pedaling at night, and a Singer sewing machine biting hard into the soft flesh of the night, and my mother pedaling, pedaling for our hunger, day and night.
 
-- {:.pr.i} When the daybreak ends, beyond my father, my mother, the hut chapped with sores, like peach leaf curl, and the tapered roof, patched with pieces of oil can, and the swamps of rust in the stinking, sordid gray paste of straw, and when the wind whistles, these odds and ends make a strange noise, like the crackle of frying at first, then like a branding iron plunged in water with the twig smoke taking flight ... And the bed of planks from which my race arose, my whole race arisen from a bed of planks, with its legs made of kerosine containers, as if it had elephantiasis that bed, and its goat skin, and its dried banana leaves, and its rags, the nostalgia of a mattress that is my grandmother's bed (Above the bed, in a pot full of oil, a candle whose flame dances like a large cockroach ... inscribed on the pot, in golden letters: THANK YOU).
+- {:.pr.i} When the early morning ends, beyond my father, my mother, the hut chapped with sores, like peach leaf curl, and the tapered roof, patched with pieces of oil can, and the swamps of rust in the stinking, sordid gray paste of straw, and when the wind whistles, these odds and ends make a strange noise, like the crackle of frying at first, then like a branding iron plunged in water with the twig smoke taking flight ... And the bed of planks from which my race arose, my whole race arisen from a bed of planks, with its legs made of kerosine containers, as if it had elephantiasis that bed, and its goat skin, and its dried banana leaves, and its rags, the nostalgia of a mattress that is my grandmother's bed (Above the bed, in a pot full of oil, a candle whose flame dances like a large cockroach ... inscribed on the pot, in golden letters: THANK YOU).
 
 - {:.pr.i} What a shame, this Straw street,
 - {:.pr} a disgusting appendage, like the shameful parts of the town, stretching right and left all along the colonial road, the gray swell of its "wood shingle" roofs. Here there are only straw roofs that the sea spray has browned and the wind plucks away.
 - {:.pr.i} Everyone hates Straw street. This is where the town's youth debases itself. It is here above all that the sea pours out its filth, its dead cats and its dead dogs. Because the street leads to the beach, and the beach is not enough for the foaming rage of the sea.
-- {:.pr.i} This beach is trouble too, with its rotting heaps of rubbish, its furtive backsides relieving themselves, and the sand is black, funereal, you have never seen such black sand, and the foam slides over it with a yelp, and the sea hits it with great boxing blows, or rather the sea is a big dog that licks and bites the beach at along its hamstrings, and by dint of biting it it will end up devouring it, of course, the beach and Straw street right along with it.
+- {:.pr.i} This beach is trouble too, with its rotting heaps of rubbish, its furtive backsides relieving themselves, and the sand is black, funereal, you have never seen such black sand, and the foam slides over it with a yelp, and the sea hits it with great boxing blows, or rather the sea is a big dog that licks and bites the beach on its hamstrings, and by dint of biting it, it will end up devouring it, of course, the beach and Straw street right along with it too.
 
-- {:.pr.i} When the daybreak ends, the wind of bygone days rises up, of betrayed loyalties, of uncertain duty that slips away and that other early morning, Europe …
+- {:.pr.i} When the early morning ends, the wind of bygone days rises up, of betrayed loyalties, of uncertain duty that slips away and that other early morning, Europe …
 
 - {:.pr.i} To leave. My heart swelled with emphatic bounties. 
 - {:.pr} To leave ... I would arrive smooth and young in this land of mine, and I would say to this land whose silt is part of the composition of my flesh: "I have wandered for a long time, and I return to the deserted hideousness of your wounds."
@@ -112,21 +112,21 @@ When the daybreak ends, the forgotten hillock, forgetting to jump.
 - {:.pr} and all these deaths futile
 - {:.pr} absurdities under the splash of my open consciousness
 - {:.pr} tragic, enlightened futilities of this one noctilucus
-- {:.pr} and me alone, the sudden scene that is this dawn
+- {:.pr} and me alone, the sudden scene that is this early morning
 - {:.pr} where the apocalypse of monsters preens
 - {:.pr} then, capsized, becomes silent
 - {:.pr} hot election of ashes, ruins, and subsidence
 
-- {:.pr.i} ---One more objection! only one, but please only one: I am not allowed to calculate life based solely on my fuliginous span; to reduce myself to this little ellipsoidal nothing, trembling four fingers above the line, meI, a man to thus upset creation, that I see myself between latitude and longitude!
+- {:.pr.i} ---One more objection! only one, but please only one: I am not allowed to calculate life based solely on my fuliginous span; to reduce myself to this little ellipsoidal nothing, trembling four fingers above the line, I, a man to thus upset creation, that I see myself between latitude and longitude!
 
-- {:.pr.i} When the daybreak ends,
+- {:.pr.i} When the early morning ends,
 - {:.pr} the manly thirst and the stubborn desire,
 - {:.pr} here I am divided from the cool oases of brotherhood
 - {:.pr} this modest nothing frieze of hard splinters
 - {:.pr} this all-too-sure horizon trembles like a jailer.
 	
 - {:.pr.i} Your last triumph, stubborn crow of Betrayal.
-- {:.pr.i} What is mine, those few thousand mortals circling in the calabash of an island, and what is also mine, the archipelago  archedlike the uneasy desire to deny itself, it looks like a maternal anxiety to protect the more delicate tenuity separating one America from the other; and its flanks that secrete for Europe the good liquor of a Gulf Stream, and one of the two incandescent slopes between which the equator tightrope walks towards Africa. And my non-enclosed island, its bright audacity, upright behind this Polynesia, in front of it, Guadeloupe split in two with its dorsal stripe and our same misery, Haiti where negritude stood up for the first time and said that she believed in her humanity and the comical little tail of Florida where the strangulation of a Negro is completed, and Africa, gigantically crawling to the Hispanic foot of Europe, her nudity where Death carves out wide furrows.
+- {:.pr.i} What is mine, those few thousand mortals circling in the calabash of an island, and what is also mine, the archipelago, arched like the uneasy desire to deny itself, it looks like a maternal anxiety to protect the more delicate tenuity separating one America from the other; and its flanks that secrete for Europe the good liquor of a Gulf Stream, and one of the two incandescent slopes between which the equator tightrope walks towards Africa. And my non-enclosed island, its bright audacity, upright behind this Polynesia, in front of it, Guadeloupe split in two with its dorsal stripe and our same misery, Haiti where negritude stood up for the first time and said that she believed in her humanity and the comical little tail of Florida where the strangulation of a Negro is complete, and Africa, gigantically crawling to the Hispanic foot of Europe, her nudity where Death carves out wide furrows.
 	
 - {:.pr.i} And I say to myself Bordeaux and Nantes and Liverpool and New York and San Francisco
 - {:.pr} not a corner of this world that does not have my fingerprint and my calcaneus on the back of skyscrapers and my filth in the sparkling of gems!
@@ -167,11 +167,11 @@ When the daybreak ends, the forgotten hillock, forgetting to jump.
 - {:.pr} will the splendor of this blood not burst at all?
 
 - {:.pr.i} And now one last damnit:
-- {:.pr} for the sun (It's not enough to get my hard head drunk)
+- {:.pr} for the sun (It's not enough to get my head too hard drunk)
 - {:.pr} in the mealy night with the golden egg-laying of uncertain fireflies
 - {:.pr} with a head of hair that trembles at the top of the cliff,
 - {:.pr} the wind blows there in fickle salty cavalry
-- {:.pr} I can read in my pulse that exoticism is not for me.
+- {:.pr} I can read on my pulse that exoticism is not for me.
 
 - {:.pr.i} On the way out of Europe all contorted with cries
 - {:.pr} the silent currents of despair
@@ -203,7 +203,7 @@ When the daybreak ends, the forgotten hillock, forgetting to jump.
 
 - {:.pr.i} Sun, Sun Angel, Curly Sun Angel.
 - {:.pr.i} For a leap beyond the green and soft swim of the waters of abjection!
-- {:.pr.i} But I went to the wrong sorcerer. On this exorcised land, adrift of its precious evil intention, that screaming voice, slowly hoarsening, vainly, vainly hoarsening, and there are  only the droppings accumulated from our lies that do not respond!
+- {:.pr.i} But I went to the wrong witch doctor. On this exorcised land, adrift of its precious evil intention, that screaming voice, slowly hoarsening, vainly, vainly hoarsening, and there are  only the droppings accumulated from our lies that do not respond!
 
 - {:.pr} What madness the marvelous entrechat I dreamed of above the baseness!
 - {:.pr} Oh my, the whites are great warriors
@@ -213,12 +213,12 @@ When the daybreak ends, the forgotten hillock, forgetting to jump.
 
 - {:.pr} By an unexpected and beneficent inner revolution, I now honor my repulsive ugliness.
 
-- {:.pr} On St John the Baptist Day, as soon as the first shadows fall over the village of Gros-Morne, hundreds of horse-dealers meet to exchange their horses, on "DE PROFUNDIS" Street, whose name warns us frankly at least of a stampede straight from the slums of Death. And it is from Death truly, from its thousand petty local forms (unfulfilled cravings for Para grass and drunken subjugation of the distilleries) that looms large towards the great life breaks down the astonishing cavalry of the impetuous nags. And what galloping! What neighing! What sincere urine! What amazing droppings! "A beautiful horse, difficult to mount" – "A haughty mare sensitive to the wheel! " – " An intrepid colt gallantly pasterned! "
+- {:.pr} On St John the Baptist Day, as soon as the first shadows fall over the village of Gros-Morne, hundreds of horse-dealers meet to exchange their horses, on "DE PROFUNDIS" Street, whose name at least frankly warns us of a stampede straight from the slums of Death. And it is from Death truly, from its thousand petty local forms (unfulfilled cravings for Para grass and drunken subjugation of the distilleries) that looms large towards the great life breaks down the astonishing cavalry of the impetuous nags. And what galloping! What neighing! What sincere urine! What amazing droppings! "A beautiful horse, difficult to mount" – "A haughty mare sensitive to the wheel! " – " An intrepid colt gallantly pasterned! "
 - {:.pr.i} And the clever guy whose waistcoat is crossed by a proud watch chain, who instead of full breasts, of youthful ardor, of authentic roundness, will scam you with the expected swellings of complacent wasps, or the obscene biting of ginger, or the beneficial circulation of ten liters of sugar water.
 
 - {:.pr.i} I refuse to offer my own blisters as true glory.
 - {:.pr.i} And I laugh at my old childish imaginations.
-- {:.pr.i} No, we have never been Amazons of the king of Dahomey, nor princes of Ghana with eight hundred camels, nor doctors in Timbuktu when Askia the Great was king, nor architects of Djenné, nor Mahdis, nor warriors. Our armpits do not itch like those who once held the spear. And since I have sworn not to hide anything from our history, (I who admire nothing so much as the sheep grazing on its afternoon shadow), I want to admit that we have always been rather poor washers of dishes, insignificant shoe-shiners, let's get it right, moderately conscientious sorcerers, and the only indisputable record that we have broken is that of endurance under the lash …
+- {:.pr.i} No, we have never been Amazons of the king of Dahomey, nor princes of Ghana with eight hundred camels, nor doctors in Timbuktu when Askia the Great was king, nor architects of Djenné, nor Mahdis, nor warriors. Our armpits do not itch like those who once held the spear. And since I have sworn not to hide anything from our history, (I who admire nothing so much as the sheep grazing on its afternoon shadow), I want to admit that we have always been rather poor washers of dishes, insignificant shoe-shiners, let's get it right, moderately conscientious witch doctors, and the only indisputable record that we have broken is that of endurance under the lash …
 
 - {:.pr.i} And this country cried for centuries that we are brute beasts; that the pulsations of humanity stop at the gates of the negro masses; that we are the hideously promising, ambulant dung of tender canes and silky cotton, and we were branded with a hot iron, and we slept in our excrement, and we were sold in the squares, and the yardstick of English cloth and salted meat of Ireland cost less than us, and this country was calm, quiet, saying that the spirit of God was in its actions.
 
@@ -239,14 +239,14 @@ When the daybreak ends, the forgotten hillock, forgetting to jump.
 - {:.pr} You have to know how far my cowardice went.
 - {:.pr} One evening in a streetcar, facing me, a Negro.
 - {:.pr.i} He was a Negro big as a gorilla trying to make himself tiny on a streetcar bench. He tried to leave behind his gigantic legs and his starving boxer’s shaky hands on that filthy streetcar bench. 
-- {:.pr} And everything had left him, was leaving him. His nose, which looked like a shaved down peninsula, and his Negritude itself, discolored by the action of a tireless tanning. And the tanner was Poverty. A sudden large-eared bat whose claw marks had scarred scabious islands on his face. Or rather, he was a tireless worker, Misery working on some hideous cartridge. We could see very well how the industrious and malicious thumb had modeled the humped forehead, pierced the nose with two parallel and disturbing tunnels, lengthened the excessiveness of the lower lip, and in a stroke of caricatural genius, planed, polished and varnished the tiniest, cutest little ear in all of creation.
+- {:.pr} And everything had left him, was leaving him. His nose, which looked like a shaved down peninsula, and his Negritude itself, discolored by the action of a tireless tanning. And the tanner was Poverty. A sudden large-eared bat whose claw marks had scarred scabious islands on his face. Or rather, he was a tireless worker, Poverty working on some hideous cartridge. We could see very well how the industrious and malicious thumb had modeled the humped forehead, pierced the nose with two parallel and disturbing tunnels, lengthened the excessiveness of the lower lip, and in a stroke of caricatural genius, planed, polished and varnished the tiniest, cutest little ear in all of creation.
 - {:.pr.i} He was a gangling Negro without rhyme or reason.
 - {:.pr.i} A Negro with a voice foggy with alcohol and misery.
 - {:.pr.i} A Negro whose eyes rolled with bloody weariness.
 - {:.pr.i} A shameless Negro, and his toes sniggered quite stinkily at the bottom of the half-open lair of his shoes.
 
-- {:.pr.i} You can't really say that Poverty had made any real effort to finish him off.
-- {:.pr.i} She had hollowed out the eye-socket, had made it up with a dusting of make-up and rheum mixed together.
+- {:.pr.i} You can't really say that Poverty had to make much of an effort to finish him off.
+- {:.pr.i} She had hollowed out the eye-socket, and plastered it with make-up made of dust and rheum mixed together.
 - {:.pr.i} She had stretched the empty space between the firm grip of the jaws and the cheekbones of an old, decaying cheek. She had planted the little glowing stakes of a days-old beard on them. She had thrown his heart into a panic, hunched his back.
 - {:.pr.i} And the whole thing perfectly added up to one hideous Negro, a cranky Negro, a melancholy Negro, a slumped Negro, his hands gathered in prayer on a gnarled stick. A Negro buried in an old, threadbare jacket. A funny, ugly Negro, and the women behind me were looking at him and giggling.
 - {:.pr.i} I turned, my eyes proclaiming that I had nothing in common with that monkey.
@@ -272,7 +272,7 @@ When the daybreak ends, the forgotten hillock, forgetting to jump.
 - {:.pr} Our heart of daily baseness explodes
 - {:.pr} continents break the frail attachment of isthmuses
 - {:.pr} land masses leap following the fatal division of rivers
-- {:.pr} and the hillock that for centuries has held its cry within itself, it's the one who in turn tears the silence apart
+- {:.pr} and the hillock that for centuries has held its cry within itself is the one who in turn tears the silence apart
 - {:.pr} and this people rebounding valor!
 - {:.pr} and our limbs vainly disjointed by the most refined torments, and the more impetuous life springing from this dung – like the surprise of soursop from decaying jackfruit!
 
@@ -385,7 +385,7 @@ When the daybreak ends, the forgotten hillock, forgetting to jump.
 - {:.pr} on this city that I prophesy, beautiful,
 
 - {:.pr} give me the courage of the martyr
-- {:.pr} give me the sorcerer’s wild faith
+- {:.pr} give me the witch doctor’s wild faith
 - {:.pr} give my hands the power to shape
 - {:.pr} give my soul the temper of the sword
 - {:.pr} I do not shirk. Make of my head a figurehead
@@ -413,7 +413,7 @@ When the daybreak ends, the forgotten hillock, forgetting to jump.
 - {:.pr} and you know it is not at all out of hatred for other races
 - {:.pr} that I force myself to be the glorifier of this unique race
 - {:.pr} that what I want
-- {:.pr} it is for the universal hunger
+- {:.pr} is for the universal hunger
 - {:.pr} for the universal thirst
 
 - {:.pr} to finally summon freedom
@@ -471,7 +471,7 @@ When the daybreak ends, the forgotten hillock, forgetting to jump.
 - {:.pr} and the branched shackles
 - {:.pr} and the sliced hamstring of my maroon audacity 
 - {:.pr} and the fleur-de-lys flowing from the red-hot iron onto the fat of my shoulder
-- {:.pr} and the doghouse of Mr. VAULTIER MAYENCOURT, where for six months I barked like a poodle for 
+- {:.pr} and the doghouse of Mr. VAULTIER MAYENCOURT, where for six months I barked for like a poodle 
 - {:.pr} and Monsieur BRAFIN
 - {:.pr} and Monsieur de FOURNIOL
 - {:.pr} and Monsieur de la MAHAUDIÈRE
@@ -486,12 +486,15 @@ When the daybreak ends, the forgotten hillock, forgetting to jump.
 - {:.pr} the noose
 
 - {:.pr} And my original geography too; the map of the world made for my use, not dyed with the arbitrary colors of scientists, but with the geometry of my spilled blood
+
 - {:.pr} and the determination of my biology, not prisoner of a facial angle, a type of hair, a sufficiently flattened nose, a sufficiently melanian complexion, and Negritude, no longer a cephalic index, or a plasma, or a soma, but measured with the compass of suffering
+
 - {:.pr} and the Negro every day lower, more cowardly, more sterile, less deep, more dispersed outward, more separated from itself, more cunning with itself, less immediate with itself
 
 - {:.pr} I accept, I accept all of this 
 
 - {:.pr} and far from the sea of ​​palaces that surges under the suppurating syzygy of he blisters, the body of my country lies marvelously in the despair of my arms, its bones shaken and in its veins, blood hesitates like the drop of vegetal milk in the wounded tip of the bulb ... And here suddenly strength and life assail me like a bull and I renew ONAN who entrusted his sperm to the fertile earth and the wave of life circumvents the papilla of the hillock, and here are all the veins and veinlets busy with new blood and the huge lung of cyclones breathing and the hoarded fire of volcanoes and the gigantic seismic pulse that now beats the measure of a living body in my firm embrace.
+
 - {:.pr} And we are standing now, my country and I, hair in the wind, my hand small now in its huge fist and the strength is not in us, but above us, in a voice that twists the night and the listener like the penetrance of an apocalyptic wasp.
 - {:.pr} And the voice says that Europe has for centuries fed us lies and swelled us with pestilence,
 - {:.pr} because it is not true that the work of man is finished
@@ -507,7 +510,7 @@ When the daybreak ends, the forgotten hillock, forgetting to jump.
 
 - {:.pr} I now have the meaning of the ordeal: my country is the "night spear" of my Bambara ancestors.
 - {:.pr} It shrivels and its tip flees desperately towards the handle if it is sprayed with chicken’s blood, and it says that the blood of man is needed for its temperament, fat, liver, human heart, not chicken blood. 
-- {:.pr} And I look for my country, not for date seeds, but for the hearts of men who are to enter the silver cities by the big trapezoidal door, that they beat virile blood, and my eyes sweep my square kilometers of paternal land, and I count the wounds with a sort of joy like, and I pile them one on top of the other like rare species, and my count is always growing with unforeseen coins of baseness.
+- {:.pr} And I look for my country, not for date seeds, but for the hearts of men who are to enter the silver cities by the big trapezoidal door, that they beat virile blood, and my eyes sweep my square kilometers of paternal land, and I count the wounds with a sort of joy, and I pile them one on top of the other like rare species, and my count is always growing with unforeseen coins of baseness.
 - {:.pr} And here are those who do not console themselves for not being made in the likeness of God but of the devil, those who consider that one is Negro like a second-class clerk: while waiting for better, and with the possibility of climbing higher; those wildly being just ahead of of themselves, those who live within the dungeon of themselves; those who drape themselves in proud pseudomorphosis; those who say to Europe: "See, I know how to bow to you, how to pay you respect, in short, I am no different from you; pay my dark skin no mind: it was the sun that burned me."
 
 - {:.pr} And there is the black pimp, the black askari, and all zebras shake themselves in their own way to make their welts fall into the dew of fresh milk.
