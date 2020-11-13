@@ -65,6 +65,7 @@ kramdown:
 
 # Theme
 theme: "ed."
+remote_theme: minicomp/ed
 
 # Exclude
 
