@@ -63,8 +63,8 @@ kramdown:
   enable_coderay: false
 
 
-# Theme
-theme: "ed."
+# Build Settings
+# theme: "ed."
 remote_theme: minicomp/ed
 
 # Exclude
