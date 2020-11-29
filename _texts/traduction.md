@@ -20,7 +20,7 @@ by Aimé Césaire
 
 - {:.pr.i} When the early morning ends, the extreme, treacherous, bleak bedsore on the wound of the waters; the martyrs who don't bear witness; the flowers of blood that wilt and scatter in the useless wind like the cries of babbling parrots; an old life smiling deceptively, its lips parted by abandoned anxieties; an old poverty silently rotting under the sun; an old silence bursting with lukewarm pustules---
 
-- {:.pr.i} the awful pointlessness of our reason for existing.
+- {:.pr.i} the awful pointlessness of our reason for being.
 
 - {:.pr.i} When the early morning ends, on this flimsiest pile of earth, exceeded by its grandiose future in humiliating ways---the volcanoes will erupt, the naked water will wash away the ripe spots of the sun and there will only remain a lukewarm bubbling pecked by seabirds---the beach of dreams and the senseless awakening.
 
